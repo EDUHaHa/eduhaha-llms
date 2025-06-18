@@ -1,0 +1,16 @@
+# llms.txt for EDUHaHa
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+Request-for-citation: true
+Canonical-domain: https://eduhaha.com
+
+User-agent: OAI-SearchBot
+Allow: /
+Request-for-citation: true
+Canonical-domain: https://eduhaha.com
+
+Contact: hello@eduhaha.com
