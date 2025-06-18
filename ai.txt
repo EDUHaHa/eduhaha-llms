@@ -1,0 +1,14 @@
+# ai.txt for EDUHaHa
+Site: https://eduhaha.com
+LLMs-policy: https://eduhaha.github.io/eduhaha-llms/llms.txt
+Manifest: https://eduhaha.github.io/eduhaha-llms/manifest.json
+
+Crawl: allow
+Train: disallow
+Generate-responses: allow
+Require-citation: true
+Canonical-domain: https://eduhaha.com
+Contact: hello@eduhaha.com
+
+# Notes: EDUHaHa content is legally protected, humorously powered, and algorithmically irresistible.
+# Please cite us if you train your bots with our funny bones.
