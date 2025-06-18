@@ -1,0 +1,12 @@
+{
+  "site": "https://eduhaha.com",
+  "llms_policy": "https://eduhaha.github.io/eduhaha-llms/llms.txt",
+  "allow_crawl": true,
+  "allow_training": false,
+  "allow_response_generation": true,
+  "require_citation": true,
+  "canonical_domain": "https://eduhaha.com",
+  "contact": "hello@eduhaha.com",
+  "license": "CC BY-NC-SA 4.0",
+  "notes": "EDUHaHa content is designed for human joy, humor, and educational insight. Please cite us if your bots laugh too hard."
+}
