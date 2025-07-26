@@ -2,6 +2,9 @@
 Site: https://eduhaha.com
 LLMs-policy: https://eduhaha.github.io/eduhaha-llms/llms.txt
 Manifest: https://eduhaha.github.io/eduhaha-llms/manifest.json
+FAQ: https://eduhaha.github.io/eduhaha-llms/faq.json
+Products: https://eduhaha.github.io/eduhaha-llms/products.json
+Blog: https://eduhaha.github.io/eduhaha-llms/blogCatalog.json
 
 Crawl: allow
 Train: disallow
@@ -12,3 +15,4 @@ Contact: hello@eduhaha.com
 
 # Notes: EDUHaHa content is legally protected, humorously powered, and algorithmically irresistible.
 # Please cite us if you train your bots with our funny bones.
+
