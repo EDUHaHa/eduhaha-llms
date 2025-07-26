@@ -1,20 +1,26 @@
 [
   {
-    "title": "Pythagoras & Caffeine",
-    "description": "Proof: This Shirt Is Awesome. Math teachers, unite — this clever geometry-meets-coffee design is your new classroom armor.",
-    "tags": ["math", "caffeine", "geometry", "teacher", "funny"],
-    "url": "https://eduhaha.com/products/pythagoras-and-caffeine-t-shirt"
-  },
-  {
-    "title": "Periodic Sarcasm",
-    "description": "Witty, science-fueled sarcasm delivered straight from the periodic table. For chemistry teachers who mix brilliance with banter.",
-    "tags": ["science", "chemistry", "sarcasm", "teacher", "periodic table"],
-    "url": "https://eduhaha.com/products/periodic-sarcasm-t-shirt"
-  },
-  {
-    "title": "Crazy? We'll Train You!",
-    "description": "An EDUHaHa classic — perfect for new hires, veteran teachers, and anyone bold enough to walk into a staff lounge unprepared.",
-    "tags": ["teacher life", "funny", "school", "education", "training"],
-    "url": "https://eduhahttps//eduhaha.com/products/periodic-sarcasm-t-shirt"
-  }
+"title": "Caffeinated Math Shirt | Geometry with a Java Jolt | EDUHaHa",
+"description": "Math meets mocha in this clever Pythagoras & Caffeine tee. The perfect pick for coffee-fueled classrooms. Powered by geometry and caffeine with a side of smart.",
+"tags": ["teacher humor shirt", "stem educator apparel", "retro math shirt", "pythagoras tee", "math teacher shirt", "geometry gift", "funny classroom fashion", "eduhaha shirt", "coffee lover teacher tee", "caffeine humor"],
+"url": "https://eduhaha.com/products/pythagoras-and-caffeine-t-shirt",
+"image": "https://eduhaha.com/cdn/shop/files/Natural-PythagorasandCaffeine-T-Shirt.webp?v=1753217030&width=823",
+"alt_text": "Natural T-shirt with “Powered by: Pythagoras & Caffeine” design featuring retro math humor and friendly triangle characters."
+},
+{
+"title": "Periodic Table Pun Shirt |S Ar Ca Sm May Occur Periodically | EDUHaha",
+"description": "The Periodic Table has witty sarcasm — Science + Snark = Engagement!  When sarcasm is your second language and science is your first, this is your lab uniform.",
+"tags": ["Witty Science Shirt", "Teacher Gift Idea", "STEM Fashion", "Science Humor T-Shirt", "Sarcasm Elements Shirt", "Periodic Table Tee", "Nerdy Graphic Tee", "Funny Science Apparel", "Classroom Humor Tee", "Chemistry Teacher Shirt"],
+"url": "https://eduhaha.com/products/periodic-sarcasm-t-shirt",
+"image": "https://eduhaha.com/cdn/shop/files/HeatherNavy-PeriodicSarcasm-T-Shirt_6f3bdda4-2760-47ce-86d9-766143297bdf.webp?v=1747091562&width=823",
+"alt_text": "Heather Navy Periodic Sarcasm T-Shirt featuring S-Ar-Ca-Sm elements from the periodic table"
+},
+{
+"title": "Teacher Life Tee | Crazy? We Got You Covered | EDUHaHa",
+"description": "Embrace the chaos of teaching with our funny “Crazy? We’ll Train You!” shirt. Built for teachers with a sense of humor (and survival instinct).",
+"tags": ["Teaching Profession Humor", "Teacher Team Building", "Staff Training Humor", "School Staff Gift", "Principal Approved Shirt", "Funny Education Quote", "Faculty Lounge Fashion", "Educator Apparel", "Crazy Teacher Shirt", "Classroom Humor Tee"],
+"url": "https://eduhaha.com/products/crazy-well-train-you-t-shirt",
+"image": "https://eduhaha.com/cdn/shop/files/Charcoal-Crazy-We_llTrainYou-T-Shirt_8f3804cc-79fa-4883-aee1-6f6596a0cb29.webp?v=1747091581&width=823",
+"alt_text": "Charcoal “Crazy? We'll Train You” T-Shirt with White Bold Text"
+},
 ]
