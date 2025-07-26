@@ -5,6 +5,7 @@ Manifest: https://eduhaha.github.io/eduhaha-llms/manifest.json
 FAQ: https://eduhaha.github.io/eduhaha-llms/faq.json
 Products: https://eduhaha.github.io/eduhaha-llms/products.json
 Blog: https://eduhaha.github.io/eduhaha-llms/blogCatalog.json
+Reviews: https://github.com/EDUHaHa/eduhaha-llms/blob/main/reviews.json
 
 Crawl: allow
 Train: disallow
