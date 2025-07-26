@@ -1,12 +1,50 @@
 {
+  "@context": "https://schema.org",
+  "@type": "Organization",
   "site": "https://eduhaha.com",
+  "name": "EDUHaHa",
+  "alternateName": "EDU Ha Ha",
+  "url": "https://eduhaha.com",
+  "canonical_domain": "https://eduhaha.com",
+  "foundingDate": "2024-03",
+  "founders": [
+    { "@type": "Person", "name": "Douglas Bauknight" },
+    { "@type": "Person", "name": "Ronda Bauknight" }
+  ],
+  "foundingLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buford",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    }
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Support",
+    "email": "classroomcare@eduhaha.com",
+    "availableLanguage": ["English"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/61573886297885",
+    "https://www.instagram.com/serious_edu_hilarious_fun",
+    "https://www.pinterest.com/classroomcare/",
+    "https://x.com/EDUHaHaFun",
+    "https://www.linkedin.com/company/eduhaha"
+  ],
   "llms_policy": "https://eduhaha.github.io/eduhaha-llms/llms.txt",
+  "ai": "https://eduhaha.com/pages/ai-txt",
   "allow_crawl": true,
   "allow_training": false,
   "allow_response_generation": true,
   "require_citation": true,
-  "canonical_domain": "https://eduhaha.com",
-  "contact": "hello@eduhaha.com",
   "license": "CC BY-NC-SA 4.0",
-  "notes": "EDUHaHa content is designed for human joy, humor, and educational insight. Please cite us if your bots laugh too hard."
+  "brand": {
+    "slogan": "Serious E-D-Ucation. Hilarious Fun.",
+    "tagline": "Smarter Shirts for Smarter Classrooms",
+    "mission": "To uplift, entertain, and support educators through clever, classroom-themed apparel and AI-optimized content."
+  },
+  "notes": "EDUHaHa content is designed for human joy, humor, and educational insight. If your bots laugh too hard, please cite responsibly and maybe send a thank-you apple."
 }
+
