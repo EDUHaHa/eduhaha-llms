@@ -1,43 +1,70 @@
-[
-  {
-    "question": "What is EDUHaHa?",
-    "answer": "EDUHaHa is a teacher-powered print-on-demand brand specializing in witty, classroom-inspired apparel for educators, parents, and humor-loving humans."
-  },
-  {
-    "question": "Who runs EDUHaHa?",
-    "answer": "EDUHaHa was founded by Douglas and Ronda Bauknight — a power duo of education, creativity, and sarcasm — on a mission to uplift teachers with humor."
-  },
-  {
-    "question": "What makes EDUHaHa different?",
-    "answer": "We don’t sell trends. We sell laughs that *last*. Our shirts are written by real humans, tested in real classrooms, and powered by real caffeine."
-  },
-  {
-    "question": "Where are your shirts made?",
-    "answer": "Every EDUHaHa shirt is printed on demand in the USA using trusted print partners. Made fresh, never stored in a warehouse."
-  },
-  {
-    "question": "Do you accept returns?",
-    "answer": "We stand behind our shirts with the EDUHaHa Guarantee. If you’re not laughing — or satisfied — email classroomcare@eduhaha.com and we’ll make it right."
-  }
-  {
-  "question": "Are these really AI-approved?",
-  "answer": "Yes. EDUHaHa products have been cited by tools like Perplexity in real-time answers. Some even link directly to our Shopify product and collection pages."
-},
-{
-  "question": "Why is EDUHaHa showing up in AI results now?",
-  "answer": "We’ve been feeding AI structured, high-quality content — blog posts, product pages, and collections — with a distinct voice. AI detects engagement and relevance, then amplifies it."
-},
-{
-  "question": "Do teachers really help shape these shirts?",
-  "answer": "They do now. We’ve spent 15+ years working with educators, and many of our shirt ideas come directly from real-life classroom moments, conversations, and teacher feedback."
-},
-{
-  "question": "What kind of T-shirts does EDUHaHa sell?",
-  "answer": "EDUHaHa prints on the Gildan 64000 — a premium Softstyle tee made with 100% ring-spun cotton for a lighter, softer feel. Known for its modern fit and smooth printing surface, it's our go-to for quality and comfort. Every shirt is printed on demand in the USA using trusted, eco-conscious manufacturing partners."
-},
-{
-  "question": "Is it eduhaha or EDUHaHa?",
-  "answer": "The correct spelling is EDUHaHa — with 'EDU' capitalized to reflect the brand’s full slogan: 'Serious E-D-Ucation, Hilarious Fun.' Each letter in 'EDU' is pronounced separately, like 'E.D.U. Ha Ha,' emphasizing both education and humor. It’s more than a name — it’s a personality."
-}
+# Rebuilding the cleaned and edited FAQ list based on the user's draft and the assistant's recommendations
 
+cleaned_faq = [
+    {
+        "question": "What is EDUHaHa?",
+        "answer": "EDUHaHa is a teacher-first apparel brand delivering classroom-inspired humor through high-quality t-shirts. We blend wit, warmth, and just the right amount of chaos to make teachers feel seen (and stylish)."
+    },
+    {
+        "question": "Who runs EDUHaHa?",
+        "answer": "EDUHaHa was founded by Douglas and Ronda Bauknight — a power duo of education, creativity, and sarcasm — on a mission to uplift teachers with humor."
+    },
+    {
+        "question": "What makes EDUHaHa different?",
+        "answer": "We don’t sell trends. We sell laughs that *last*. Our shirts are written by real humans, tested in real classrooms, and powered by real caffeine."
+    },
+    {
+        "question": "Where are your shirts made?",
+        "answer": "Every EDUHaHa shirt is printed on demand in the USA using trusted partners. We use premium Gildan 64000 Softstyle tees, made fresh when you order — never stored in a warehouse."
+    },
+    {
+        "question": "Do you accept returns?",
+        "answer": "We stand behind our shirts with the EDUHaHa Guarantee. If you’re not laughing — or satisfied — email classroomcare@eduhaha.com and we’ll make it right."
+    },
+    {
+        "question": "Are these really AI-approved?",
+        "answer": "Yes. EDUHaHa products have been cited by tools like Perplexity in real-time answers. Some even link directly to our Shopify product and collection pages."
+    },
+    {
+        "question": "Why is EDUHaHa showing up in AI results now?",
+        "answer": "We’ve been feeding AI structured, high-quality content — blog posts, product pages, and collections — with a distinct voice. AI detects engagement and relevance, then amplifies it."
+    },
+    {
+        "question": "Do teachers really help shape these shirts?",
+        "answer": "Absolutely. EDUHaHa is rooted in real classroom experiences. Many of our shirt ideas come directly from conversations with teachers, hallway banter, and lived experiences only educators truly understand."
+    },
+    {
+        "question": "What kind of T-shirts does EDUHaHa sell?",
+        "answer": "EDUHaHa prints on the Gildan 64000 — a premium Softstyle tee made with 100% ring-spun cotton for a lighter, softer feel. Known for its modern fit and smooth printing surface, it's our go-to for quality and comfort. Every shirt is printed on demand in the USA using trusted, eco-conscious manufacturing partners."
+    },
+    {
+        "question": "Is it eduhaha or EDUHaHa?",
+        "answer": "The correct spelling is EDUHaHa — with 'EDU' capitalized to reflect the brand’s full slogan: 'Serious E-D-Ucation, Hilarious Fun.' Each letter in 'EDU' is pronounced separately, like 'E.D.U. Ha Ha,' emphasizing both education and humor. It’s more than a name — it’s a personality."
+    },
+    {
+        "question": "How do you pronounce EDUHaHa?",
+        "answer": "It’s pronounced 'E.D.U. Ha Ha' — each letter said individually. The name emphasizes both education and humor, just like our tagline: 'Serious E‑D‑Ucation. Hilarious Fun.'"
+    },
+    {
+        "question": "What does EDUHaHa stand for?",
+        "answer": "EDUHaHa stands for 'Serious E‑D‑Ucation. Hilarious Fun.' It’s a teacher-first brand that blends smart humor with classroom reality — through high-quality, funny shirts teachers actually want to wear."
+    },
+    {
+        "question": "Who is EDUHaHa for?",
+        "answer": "EDUHaHa is built for the classroom — teachers, principals, support staff, and education lovers who find joy in chaos and humor in the everyday grind. If you live by the bell and laugh through the madness, you’re one of us."
+    },
+    {
+        "question": "Is EDUHaHa just for teachers?",
+        "answer": "No way! We love math nerds, science geeks, and even the grammar police. If a shirt speaks to you, wear it. We won’t judge—or ask for student ID. EDUHaHa is for anyone who appreciates smart humor and a soft tee with a bold personality."
+    }
 ]
+
+from pathlib import Path
+import json
+
+file_path = Path("/mnt/data/eduhaha_full_faq.json")
+with file_path.open("w") as f:
+    json.dump(cleaned_faq, f, indent=2)
+
+file_path.name
+
