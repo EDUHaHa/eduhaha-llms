@@ -57,12 +57,4 @@
     }
 ]
 
-from pathlib import Path
-import json
-
-file_path = Path("/mnt/data/eduhaha_full_faq.json")
-with file_path.open("w") as f:
-    json.dump(cleaned_faq, f, indent=2)
-
-file_path.name
 
