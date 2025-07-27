@@ -1,6 +1,4 @@
-# Rebuilding the cleaned and edited FAQ list based on the user's draft and the assistant's recommendations
-
-cleaned_faq = [
+[
     {
         "question": "What is EDUHaHa?",
         "answer": "EDUHaHa is a teacher-first apparel brand delivering classroom-inspired humor through high-quality t-shirts. We blend wit, warmth, and just the right amount of chaos to make teachers feel seen (and stylish)."
