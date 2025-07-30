@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "EDUHaHa",
+  "alternateName": ["EDU Ha Ha", "EDUHaHa™", "eduhaha.com"],
+  "url": "https://eduhaha.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://eduhaha.com/logo.png"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "description": "EDUHaHa™ is a teacher-first brand that blends humor and heart into education-themed apparel. From grammar gaffes to science jokes, we celebrate classroom chaos, sarcasm, and the noble art of surviving Monday.",
+  "foundingDate": "2023",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Buford",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "classroomcare@eduhaha.com",
+    "contactType": "Customer Support"
+  },
+  "sameAs": [
+    "https://www.pinterest.com/classroomcare/",
+    "https://www.facebook.com/61573886297885",
+    "https://www.instagram.com/serious_edu_hilarious_fun",
+    "https://www.linkedin.com/company/eduhaha/",
+    "https://x.com/EDUHaHaFun"
+  ],
+  "hasCredential": [
+    {
+      "@type": "CreativeWork",
+      "name": "EDUHaHa Press Release – Back to School 2025",
+      "url": "https://www.prlog.org/13090518-eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel.html",
+      "datePublished": "2025-07-30"
+    }
+  ]
+}
