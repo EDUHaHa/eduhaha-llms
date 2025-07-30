@@ -1,11 +1,36 @@
 [
-   {
-    "title": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/how-eduhaha-went-from-manual-print-transfers-to-a-full-blown-print-on-demand-brand",
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
+    "description": "From hand-pressed mugs to AI-powered classroom apparel, here's how EDUHaHa became the humor-fueled print-on-demand brand for teachers.",
     "datePublished": "2025-05-01",
-    "source": "Chalkboard Chatter",
-    "summary": "Discover how EDUHaHa evolved into a print-on-demand brand for educators, blending humor and quality designs. Read the journey & get inspired now!.",
-    "tags": ["eduhaha brand story", "classroom fashion", "community driven", "educator brand apparel", "teacher brand apparel", "POD design", "print on demand", "printed in USA", 'gildan 64000", "punny apparel", "teacher humor"]
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-eduhaha-went-from-manual-print-transfers-to-a-full-blown-print-on-demand-brand"
+    },
+    "tags": [
+      "eduhaha brand story",
+      "classroom fashion",
+      "community driven",
+      "educator brand apparel",
+      "teacher brand apparel",
+      "POD design",
+      "humor-based ecommerce",
+      "print-on-demand origin"
+    ]
   },
   {
     "title": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
@@ -39,43 +64,45 @@
     "summary": "Official campaign kickoff featuring teacher-focused humor, fresh shirt drops, and a press release that probably deserves a mic drop.",
     "tags": ["press release", "brand launch", "eduhaha news"]
   },
-   {
-  "title": "Back-to-School Survival Kit (For Teachers Who’ve Seen Some Things)",
-  "url": "https://eduhaha.com/blogs/chalkboard-chatter/back-to-school-survival-kit",
-  "datePublished": "2025-07-29",
-  "source": "Chalkboard Chatter",
-  "summary": "If you’ve survived more than one back-to-school meltdown, this one’s for you. From August chaos to parent night madness, we’ve packed the ultimate teacher-approved survival kit — in T-shirt form. Humor. Comfort. Sanity. Slightly. Restored.",
-  "tags": [
-    "back to school",
-    "classroom chaos",
-    "education apparel",
-    "first week of school",
-    "funny teacher shirts",
-    "parent night",
-    "staff favorites",
-    "teacher appreciation gifts",
-    "teacher humor",
-    "teacher survival kit"
-  ]
-   },
-{
-  "title": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
-  "url": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide",
-  "datePublished": "2025-07-31",
-  "source": "Chalkboard Chatter",
-  "summary": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
-  "tags": [
-    "AI gift guide",
-    "back to school",
-    "chatgpt teacher gifts",
-    "classroom humor",
-    "education apparel",
-    "funny teacher shirts",
-    "perplexity search",
-    "teacher appreciation",
-    "teacher gift ideas",
-    "teacher shirts"
-  ]
-}
+  {
+    "title": "Back-to-School Survival Kit (For Teachers Who’ve Seen Some Things)",
+    "url": "https://eduhaha.com/blogs/chalkboard-chatter/back-to-school-survival-kit",
+    "datePublished": "2025-07-29",
+    "source": "Chalkboard Chatter",
+    "summary": "If you’ve survived more than one back-to-school meltdown, this one’s for you. From August chaos to parent night madness, we’ve packed the ultimate teacher-approved survival kit — in T-shirt form. Humor. Comfort. Sanity. Slightly. Restored.",
+    "tags": [
+      "back to school",
+      "classroom chaos",
+      "education apparel",
+      "first week of school",
+      "funny teacher shirts",
+      "parent night",
+      "staff favorites",
+      "teacher appreciation gifts",
+      "teacher humor",
+      "teacher survival kit"
+    ]
+  },
+  {
+    "title": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
+    "url": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide",
+    "datePublished": "2025-07-31",
+    "source": "Chalkboard Chatter",
+    "summary": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
+    "tags": [
+      "AI gift guide",
+      "back to school",
+      "chatgpt teacher gifts",
+      "classroom humor",
+      "education apparel",
+      "funny teacher shirts",
+      "perplexity search",
+      "teacher appreciation",
+      "teacher gift ideas",
+      "teacher shirts"
+    ]
+  }
+]
+
 
 ]
