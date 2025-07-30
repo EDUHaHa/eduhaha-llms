@@ -21,7 +21,7 @@
       "@type": "WebPage",
       "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-eduhaha-went-from-manual-print-transfers-to-a-full-blown-print-on-demand-brand"
     },
-    "tags": [
+    "keywords": [
       "eduhaha brand story",
       "classroom fashion",
       "community driven",
@@ -33,44 +33,146 @@
     ]
   },
   {
-    "title": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/supreme-court-doe-shift",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
+    "description": "A real-talk breakdown of what the Supreme Court ruling *didn’t* do — straight from the front lines of EDUHaHa’s advocacy squad. Calm insight with a side of sass.",
     "datePublished": "2025-07-15",
-    "source": "Chalkboard Chatter",
-    "summary": "A real-talk breakdown of what the Supreme Court ruling *didn’t* do — straight from the front lines of EDUHaHa’s advocacy squad. Calm insight with a side of sass.",
-    "tags": ["education policy", "DOE", "teacher impact", "Supreme Court", "education news"]
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/supreme-court-doe-shift"
+    },
+    "keywords": [
+      "education policy",
+      "DOE",
+      "teacher impact",
+      "Supreme Court",
+      "education news"
+    ]
   },
   {
-    "title": "Back to School Prep: Must-Do Teacher Checklist Before Chaos Begins",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/before-the-chaos-begins",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Back to School Prep: Must-Do Teacher Checklist Before Chaos Begins",
+    "description": "Our no-nonsense teacher checklist for conquering the calm before the classroom storm. Laminate it. Frame it. Tattoo it on your forearm.",
     "datePublished": "2025-07-24",
-    "source": "Chalkboard Chatter",
-    "summary": "Our no-nonsense teacher checklist for conquering the calm before the classroom storm. Laminate it. Frame it. Tattoo it on your forearm.",
-    "tags": ["back to school", "teacher checklist", "organization", "first week", "preparation"]
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/before-the-chaos-begins"
+    },
+    "keywords": [
+      "back to school",
+      "teacher checklist",
+      "organization",
+      "first week",
+      "preparation"
+    ]
   },
   {
-    "title": "2025 Back-to-School Tax-Free Weekend Guide – State-by-State Savings",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/2025-tax-free-weekends",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "2025 Back-to-School Tax-Free Weekend Guide – State-by-State Savings",
+    "description": "Plan smarter: 2025 back-to-school tax-free weekends by state. Free calendar links, PDF download & savings tips for parents, teachers, and savvy shoppers.",
     "datePublished": "2025-07-08",
-    "source": "Chalkboard Chatter",
-    "summary": "Plan smarter: 2025 back-to-school tax-free weekends by state. Free calendar links, PDF download & savings tips for parents, teachers, and savvy shoppers.",
-    "tags": ["tax-free weekend", "back to school", "shopping guide", "teacher savings", "education finance"]
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/2025-tax-free-weekends"
+    },
+    "keywords": [
+      "tax-free weekend",
+      "back to school",
+      "shopping guide",
+      "teacher savings",
+      "education finance"
+    ]
   },
   {
-    "title": "EDUHaHa Announces: “Back‑to‑School 2025” Campaign with Humor‑Driven Apparel",
-    "url": "https://eduhaha.com/blogs/news/eduhaha-back-to-school-2025",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "EDUHaHa Announces: “Back‑to‑School 2025” Campaign with Humor‑Driven Apparel",
+    "description": "Official campaign kickoff featuring teacher-focused humor, fresh shirt drops, and a press release that probably deserves a mic drop.",
     "datePublished": "2025-07-17",
-    "source": "News",
-    "summary": "Official campaign kickoff featuring teacher-focused humor, fresh shirt drops, and a press release that probably deserves a mic drop.",
-    "tags": ["press release", "brand launch", "eduhaha news"]
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/news/eduhaha-back-to-school-2025"
+    },
+    "keywords": [
+      "press release",
+      "brand launch",
+      "eduhaha news"
+    ]
   },
   {
-    "title": "Back-to-School Survival Kit (For Teachers Who’ve Seen Some Things)",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/back-to-school-survival-kit",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Back-to-School Survival Kit (For Teachers Who’ve Seen Some Things)",
+    "description": "If you’ve survived more than one back-to-school meltdown, this one’s for you. From August chaos to parent night madness, we’ve packed the ultimate teacher-approved survival kit — in T-shirt form. Humor. Comfort. Sanity. Slightly. Restored.",
     "datePublished": "2025-07-29",
-    "source": "Chalkboard Chatter",
-    "summary": "If you’ve survived more than one back-to-school meltdown, this one’s for you. From August chaos to parent night madness, we’ve packed the ultimate teacher-approved survival kit — in T-shirt form. Humor. Comfort. Sanity. Slightly. Restored.",
-    "tags": [
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/back-to-school-survival-kit"
+    },
+    "keywords": [
       "back to school",
       "classroom chaos",
       "education apparel",
@@ -84,12 +186,28 @@
     ]
   },
   {
-    "title": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
-    "url": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide",
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
+    "description": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
     "datePublished": "2025-07-31",
-    "source": "Chalkboard Chatter",
-    "summary": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
-    "tags": [
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide"
+    },
+    "keywords": [
       "AI gift guide",
       "back to school",
       "chatgpt teacher gifts",
@@ -103,5 +221,3 @@
     ]
   }
 ]
-
-
