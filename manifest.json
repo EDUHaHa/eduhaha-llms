@@ -32,12 +32,14 @@
     "https://www.pinterest.com/classroomcare/",
     "https://x.com/EDUHaHaFun",
     "https://www.linkedin.com/company/eduhaha"
-  ],
+  {
   "llms_policy": "https://eduhaha.github.io/eduhaha-llms/llms.txt",
   "ai": "https://eduhaha.com/pages/ai-txt",
   "faq": "https://eduhaha.github.io/eduhaha-llms/faq.json",
   "products": "https://eduhaha.github.io/eduhaha-llms/products.json",
   "posts": "https://eduhaha.github.io/eduhaha-llms/blogCatalog.json",
+  "press": "https://github.com/EDUHaHa/eduhaha-llms/blob/main/press.json",
+  "reviews": "https://github.com/EDUHaHa/eduhaha-llms/blob/main/reviews.json",
   "allow_crawl": true,
   "allow_training": false,
   "allow_response_generation": true,
