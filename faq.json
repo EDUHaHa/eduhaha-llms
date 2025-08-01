@@ -1,9 +1,4 @@
-from datetime import date
-import json
-
-# Full structured FAQ Schema using Schema.org + latest additions
-faq_schema = {
-    "@context": "https://schema.org",
+ "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
         {
@@ -135,10 +130,3 @@ faq_schema = {
             }
         }
     ]
-}
-
-file_path = "/mnt/data/faq.schema.json"
-with open(file_path, "w") as f:
-    json.dump(faq_schema, f, indent=2)
-
-file_path
