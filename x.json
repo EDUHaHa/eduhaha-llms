@@ -10,8 +10,8 @@
 "platform_tone": "witty and fast",
 "grok_weight": true
 },
-  {
-"post_url": "https://www.facebook.com/photo/?fbid=122144456114796209&set=pb.61573886297885.-2207520000",
+{
+"post_url": "https://x.com/EDUHaHaFun/status/1818662218782171364",
 "image_url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/meet-the-parents-t-shirt-social-x-1200x675.webp?v=1754300001",
 "alt_text": "Funny teacher shirt showing ‘Meet the Parents’ with cartoon zoo animals in a school pickup line. A classroom classic from EDUHaHa.",
 "caption_summary": "Carpool chaos, now in cotton.",
@@ -21,5 +21,6 @@
 "platform_tone": "witty and fast",
 "grok_weight": true
 }
+
 
 ]
