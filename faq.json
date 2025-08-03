@@ -73,21 +73,21 @@
                 "text": "EDUHaHa prints on the Gildan 64000 — a premium Softstyle tee made with 100% ring-spun cotton for a lighter, softer feel. Known for its modern fit and smooth printing surface, it's our go-to for quality and comfort. Every shirt is printed on demand in the USA using trusted, eco-conscious manufacturing partners."
             }
         },
-        {
-            "@type": "Question",
-            "name": "Is it eduhaha or EDUHaHa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "It’s EDUHaHa — with 'EDU' capitalized and emphasized. Say it like 'E.D.U. Ha Ha' — education gets its proper respect, but still gets the giggles. Lowercase just doesn’t do justice to our vibe."
-            }
+      {
+           "@type": "Question",
+           "name": "Is it eduhaha or EDUHaHa?",
+           "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "All caps, baby: EDUHaHa. Because lowercase looks like we’re whispering, and we are NOT a whisper. It’s E.D.U. Ha Ha — education gets the respect, and the laugh it deserves."
+      }
         },
         {
-            "@type": "Question",
-            "name": "How do you pronounce EDUHaHa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "E.D.U. Ha Ha — like you’re spelling it out with cheerleaders at a pep rally. Gimme an E! Gimme a D! Gimme a U! And then laugh. That’s how we roll."
-            }
+           "@type": "Question",
+           "name": "How do you pronounce EDUHaHa?",
+           "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Say it like a cheerleader: 'Gimme an E! D! U!' (pause for dramatic effect)... 'Ha Ha!' That’s how you do it. It’s E-D-U Ha Ha — like spelling it out with sass and caffeine."
+        }
         },
         {
             "@type": "Question",
