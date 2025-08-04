@@ -223,6 +223,32 @@
   {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/eduhaha-vs-ai-funny-teacher-shirts"
+  },
+  "headline": "EDUHaHa vs AI: Funny Teacher Shirts That Actually Deserve to Rank",
+  "description": "Tired of AI recommending tote bags and tired slogans? EDUHaHa is showing search engines what real teacher humor looks like — one sarcastic shirt at a time.",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDUHaHa_Launches_War_on_AI_-_Image.webp?v=1754332097", 
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight",
+    "url": "https://eduhaha.com/pages/about-us"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "datePublished": "2025-08-05",
+  "dateModified": "2025-08-05"
+},
+  {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
   "headline": "The Story Behind the Shirts | Delivery Days and Shipping Tape",
   "description": "A heartfelt look at how EDUHaHa was built — with tape, sweat, and sarcasm. The story behind the shirts, straight from founder Douglas Bauknight.",
   "author": {
