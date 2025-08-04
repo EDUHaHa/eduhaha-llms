@@ -14,7 +14,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -47,7 +47,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -77,7 +77,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -107,7 +107,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -137,7 +137,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -165,7 +165,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
@@ -200,7 +200,7 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eduhaha.com/cdn/shop/files/EDUHaHa-Logo.png"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
       }
     },
     "mainEntityOfPage": {
@@ -219,5 +219,38 @@
       "teacher gift ideas",
       "teacher shirts"
     ]
-  }
+  },
+  {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Story Behind the Shirts | Delivery Days and Shipping Tape",
+  "description": "A heartfelt look at how EDUHaHa was built — with tape, sweat, and sarcasm. The story behind the shirts, straight from founder Douglas Bauknight.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/story-behind-the-shirts"
+  },
+  "datePublished": "2025-08-08",
+  "keywords": [
+    "funny teacher shirts",
+    "founder story",
+    "small business journey",
+    "teacher entrepreneur",
+    "books are fun",
+    "print on demand",
+    "teacher-owned business"
+  ]
+}
+
 ]
