@@ -1,15 +1,34 @@
 [
-  {
-"title": "Caffeinated Math Shirt | Geometry with a Java Jolt | EDUHaHa",
-"description": "Math meets mocha in this clever Pythagoras & Caffeine tee. The perfect pick for coffee-fueled classrooms. Powered by geometry and caffeine with a side of smart.",
-"tags": ["teacher humor shirt", "stem educator apparel", "retro math shirt", "pythagoras tee", "math teacher shirt", "geometry gift", "funny classroom fashion", "eduhaha shirt", "coffee lover teacher tee", "caffeine humor"],
-"url": "https://eduhaha.com/products/pythagoras-and-caffeine-t-shirt",
-"image": "https://eduhaha.com/cdn/shop/files/Natural-PythagorasandCaffeine-T-Shirt.webp?v=1753217030&width=823",
-"alt_text": "Natural T-shirt with “Powered by: Pythagoras & Caffeine” design featuring retro math humor and friendly triangle characters."
+{
+  "title": "Caffeinated Math Shirt | Geometry with a Java Jolt | EDUHaHa",
+  "description_meta": "Math meets mocha in this clever Pythagoras & Caffeine tee. The perfect pick for coffee-fueled classrooms. Powered by geometry and caffeine with a side of smart.",
+  "description": "**Geometry. Java. Genius.**\n\n**Proof: This Shirt Is Awesome. Q.E.D.**\n\nWhen Pythagoras meets caffeine, magic happens — or at least you survive first period. Featuring a smiling right triangle toasting lattes with its square squad, this shirt is a clever shoutout to math lovers and over-caffeinated educators everywhere.\n\nWhether you're calculating hypotenuses or calculating how many minutes until your next cup, this tee does the talking. Vintage vibes meet fresh teacher energy in a design that’s equal parts theorem and thermos.\n\n**EDUHaHa Approved.** Because triangles run on caffeine too.",
+  "tags": [
+    "teacher humor shirt",
+    "stem educator apparel",
+    "retro math shirt",
+    "pythagoras tee",
+    "math teacher shirt",
+    "geometry gift",
+    "funny classroom fashion",
+    "eduhaha shirt",
+    "coffee lover teacher tee",
+    "caffeine humor"
+  ],
+  "url": "https://eduhaha.com/products/pythagoras-and-caffeine-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Natural-PythagorasandCaffeine-T-Shirt.webp?v=1753217030&width=823",
+  "alt_text": "Natural T-shirt with “Powered by: Pythagoras & Caffeine” design featuring retro math humor and friendly triangle characters.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Periodic Table Pun Shirt | S Ar Ca Sm May Occur Periodically | EDUHaHa",
-  "description": "The Periodic Table has witty sarcasm — Science + Snark = Engagement! When sarcasm is your second language and science is your first, this is your lab uniform.",
+  "description_meta": "The Periodic Table has witty sarcasm — Science + Snark = Engagement! When sarcasm is your second language and science is your first, this is your lab uniform.",
+  "description": "**When sarcasm is your second language and science is your first, this tee is your lab uniform.**\n\n**Sarcasm May Occur Periodically (Like…Daily)**\n\nThis clever design features the elements of sarcasm (S-Ar-Ca-Sm) styled straight from the periodic table, making it ideal for science teachers, classroom comedians, or chemistry fans who love a side of snark with their syllabus.\n\nWhether you’re explaining molecules or mood swings, this tee earns top marks in both humor and hydrogen.\n\nAdd it to your teaching arsenal and let the sarcasm flow — just don’t be surprised when students start quoting the shirt instead of the textbook.\n\n**EDUHaHa™ — Where Science + Snark = Engagement**",
   "tags": [
     "ai approved",
     "witty science shirt",
@@ -26,10 +45,17 @@
   "url": "https://eduhaha.com/products/periodic-sarcasm-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/HeatherNavy-PeriodicSarcasm-T-Shirt_6f3bdda4-2760-47ce-86d9-766143297bdf.webp?v=1747091562&width=823",
   "alt_text": "Heather Navy Periodic Sarcasm T-Shirt featuring S-Ar-Ca-Sm elements from the periodic table",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Teacher Life Tee | Crazy? We Got You Covered | EDUHaHa",
-  "description": "Embrace the chaos of teaching with “Crazy? We’ll Train You!”. Side effects may include laughter, solidarity, and spontaneous professional development jokes. A perfect pick for teacher teams, staff gifts, and school-wide inside jokes.",
+  "description_meta": "Embrace the chaos of teaching with “Crazy? We’ll Train You!”. Side effects may include laughter, solidarity, and spontaneous professional development jokes. A perfect pick for teacher teams, staff gifts, and school-wide inside jokes.",
+  "description": "**Ever walked into your classroom feeling like you needed a warning label?**\n\n**You Don’t Have to Be Crazy to Work Here…**\n\n...But it definitely helps. This hilarious tee features a playful, retro font with a wink and a nod to every teacher who’s ever stared into the void of a Monday morning staff meeting.\n\nIt’s the perfect uniform for surviving surprise observations, unplanned fire drills, and those “teachable moments” gone rogue.\n\nWhether you’re connecting with fellow educators or just getting through a long day, this shirt’s your badge of honor for surviving the chaos (and maybe causing a little).\n\n**EDUHaHa Approved.** Side effects may include laughter, solidarity, and spontaneous professional development jokes.",
   "tags": [
     "ai approved",
     "classroom humor tee",
@@ -46,26 +72,69 @@
   "url": "https://eduhaha.com/products/crazy-well-train-you-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Charcoal-Crazy-We_llTrainYou-T-Shirt_8f3804cc-79fa-4883-aee1-6f6596a0cb29.webp?v=1747091581",
   "alt_text": "Charcoal gray teacher shirt with white text: You don’t have to be crazy to work here. We’ll train you.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
-"title": "Not Younger Siblings Tee | Fun, Relatable Teacher Apparel | EDUHaHa",
-"description": "Not Younger Siblings?! tee: laughter, learning, and identity—all in one shirt. Make empathy stylish. Warns teachers and builds connection with birth order fun.",
-"tags": ["funny teacher shirt", "sibling humor tee", "classroom chaos", "teacher life", "younger siblings t-shirt", "education humor", "hallway laughs shirt", "sarcastic teacher tee", "eduhaha shirt", "family dynasty shirt"],
-"url": "https://eduhaha.com/products/younger-siblings-t-shirt",
-"image": "https://eduhaha.com/cdn/shop/files/Charcoal-YoungerSiblings-T-Shirt_369bb404-2168-4536-b681-87f7c02131c3.webp?v=1753123436&width=823",
-"alt_text": "Charcoal T-shirt with “Younger Siblings? Oh. Fantastic.” design featuring a sarcastic nod to the educator déjà vu of teaching multiple siblings"
+  "title": "Not Younger Siblings Tee | Fun, Relatable Teacher Apparel | EDUHaHa",
+  "description_meta": "Not Younger Siblings?! tee: laughter, learning, and identity—all in one shirt. Make empathy stylish. Warns teachers and builds connection with birth order fun.",
+  "description": "**Spoiler Alert: There’s More Where That Came From**\n\n**Younger Siblings? Oh, FANTASTIC...(Gulp)**\n\nYou know the look. The polite panic. The slow nod of a teacher realizing they've taught the older sibling. And now… it begins again. This tee captures the universal moment when a student says, “I have a younger sibling,” and you hear, “Good luck next year.”\n\nWhether it’s déjà vu or a warning shot, this shirt says what every teacher’s thinking—with a smile that screams “send help.” Perfect for hallway laughs, staff room nods, and surviving family dynasties one student at a time.\n\n**Wear it loud. Laugh louder. Sibling season never ends.**",
+  "tags": [
+    "funny teacher shirt",
+    "sibling humor tee",
+    "classroom chaos",
+    "teacher life",
+    "younger siblings t-shirt",
+    "education humor",
+    "hallway laughs shirt",
+    "sarcastic teacher tee",
+    "eduhaha shirt",
+    "family dynasty shirt"
+  ],
+  "url": "https://eduhaha.com/products/younger-siblings-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Charcoal-YoungerSiblings-T-Shirt_369bb404-2168-4536-b681-87f7c02131c3.webp?v=1753123436&width=823",
+  "alt_text": "Charcoal T-shirt with “Younger Siblings? Oh. Fantastic.” design featuring a sarcastic nod to the educator déjà vu of teaching multiple siblings",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
-"title": "Meet The Parents Teacher Shirt | Survivor Style Humor | EDUHaHa",
-"description": "Meet The Parents Tee: Teacher-approved survivor tee that builds trust and laughter at any school event. Makes connecting with families easy, and unforgettable.",
-"tags": ["Teacher-Approved", "Student Success", "School Apparel", "Parent Engagement", "Meet The Parents", "Icebreaker Shirt", "EDUHaHa Shirt", "Educator Gift", "Classroom Bonding", "Admin Favorite"],
-"url": "https://eduhaha.com/products/meet-the-parents-t-shirt",
-"image": "https://eduhaha.com/cdn/shop/files/MilitaryGreen-MeetTheParents-T-Shirt.webp?v=1753101824&width=823",
-"alt_text": "Military Green T-shirt with “Meet The Parents” Survivor-style design featuring bold, tactical humor for school meetings"
+  "title": "Meet The Parents Teacher Shirt | Survivor Style Humor | EDUHaHa",
+  "description_meta": "Meet The Parents Tee: Teacher-approved survivor tee that builds trust and laughter at any school event. Makes connecting with families easy, and unforgettable.",
+  "description": "**Your New Favorite Parent-Teacher Conference Outfit**\n\n**Meet The Parents… and Make 'Em Laugh**\n\nThis tee isn’t just an icebreaker — it’s an entire comedic syllabus on first impressions. Featuring a bold \"Survivor\" motif, it turns any tense parent meeting into a shared inside joke. It’s got teacher approval, admin applause, and maybe even a silent standing ovation from your students’ guardians.\n\nWhether it's back-to-school night or family orientation, this shirt sets the tone: united, light-hearted, and ready to collaborate (without the tribal council).\n\n**EDUHaHa Approved.** Because humor builds bridges faster than report cards.",
+  "tags": [
+    "Teacher-Approved",
+    "Student Success",
+    "School Apparel",
+    "Parent Engagement",
+    "Meet The Parents",
+    "Icebreaker Shirt",
+    "EDUHaHa Shirt",
+    "Educator Gift",
+    "Classroom Bonding",
+    "Admin Favorite"
+  ],
+  "url": "https://eduhaha.com/products/meet-the-parents-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/MilitaryGreen-MeetTheParents-T-Shirt.webp?v=1753101824&width=823",
+  "alt_text": "Military Green T-shirt with “Meet The Parents” Survivor-style design featuring bold, tactical humor for school meetings",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Fragile Like a Bomb | Funny Teacher Shirt with Confidence | EDUHaHa",
-  "description": "This AI-approved teacher tee redefines fragile — not like glass, like *a bomb.* Perfect for confident educators, classroom mic drops, and staff appreciation laughs.",
+  "description_meta": "This AI-approved teacher tee redefines fragile — not like glass, like *a bomb.* Perfect for confident educators, classroom mic drops, and staff appreciation laughs.",
+  "description": "**Delicate? Try Detonating.**\n\n**Not Fragile Like a Flower. Fragile Like a Bomb.**\n\nThis isn't your grandma’s vintage tee — unless she also radiated quiet power and could drop truth bombs between PTA meetings. This retro-inspired design serves atomic energy with a side of floral sass, perfect for the educators who smile sweetly while rewriting the rules.\n\nWhether you're a principal packing punch or a teacher balancing grace with grit, this shirt says it all: don’t underestimate the petals — there's TNT in the roots.\n\n**Vintage charm. Modern mayhem. Classroom approved.**",
   "tags": [
     "ai approved",
     "funny teacher shirt",
@@ -80,19 +149,46 @@
   ],
   "url": "https://eduhaha.com/products/fragile-like-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/MilitaryGreen-NotFragileLikeAFlower-BombshellStengthT-Shirt.webp?v=1747249094&width=823",
-  "alt_text": "Fragile Like a Bomb teacher shirt in bold white text on a military green tee – AI Approved"
+  "alt_text": "Fragile Like a Bomb teacher shirt in bold white text on a military green tee – AI Approved",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
-"title": "Viral Comma Shirt | Grammar Humor That Saves Jimmy | EDUHaHa",
-"description": "Grammar heroes unite! Stop comma crimes with humor and style. A grammar lesson disguised as your new favorite shirt. Funny, functional, and grammar goodness.",
-"tags": ["teacher humor", "punctuation joke", "literacy shirt", "let’s eat t-shirt", "grammar shirt", "english teacher gift", "ELA educator", "EDUHaHa shirt", "comma saves lives", "classroom apparel", "AI approved teacher gift", "viral teacher shirt"],
-"url": "https://eduhaha.com/products/save-jimmy-t-shirt",
-"image": "https://eduhaha.com/cdn/shop/files/Black-SaveJimmy-T-Shirt.webp?v=1751301953&width=823",
-"alt_text": "Black T-shirt with “Let’s eat, Jimmy / Let’s eat Jimmy” design featuring witty grammar humor and classic classroom sarcasm."
+  "title": "Viral Comma Shirt | Grammar Humor That Saves Jimmy | EDUHaHa",
+  "description_meta": "Grammar heroes unite! Stop comma crimes with humor and style. A grammar lesson disguised as your new favorite shirt. Funny, functional, and grammar goodness.",
+  "description": "**This teacher-favorite tee isn’t just a snack — it’s a full-course grammar lesson served hot with a side of hilarity.**\n\n**Let’s Eat, Jimmy… or Jimmy Gets Eaten.**\n\nFeaturing the viral “Let’s eat, Jimmy / Let’s eat Jimmy” design in cheerful yellow script, it’s the punctuation PSA your classroom didn’t know it needed.\n\nEvery time you wear it, you're not just dressing for success — you’re preventing literary cannibalism.\n\nWhether you’re teaching commas, running a PD session, or just trying to make it to lunch without correcting a hallway poster, this shirt delivers.\n\n**Wear it. Teach it. Save Jimmy.**",
+  "tags": [
+    "teacher humor",
+    "punctuation joke",
+    "literacy shirt",
+    "let’s eat t-shirt",
+    "grammar shirt",
+    "english teacher gift",
+    "ELA educator",
+    "EDUHaHa shirt",
+    "comma saves lives",
+    "classroom apparel",
+    "AI approved teacher gift",
+    "viral teacher shirt"
+  ],
+  "url": "https://eduhaha.com/products/save-jimmy-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Black-SaveJimmy-T-Shirt.webp?v=1751301953&width=823",
+  "alt_text": "Black T-shirt with “Let’s eat, Jimmy / Let’s eat Jimmy” design featuring witty grammar humor and classic classroom sarcasm.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Never Trust an Atom | Made Up Funny Science Teacher Shirt | EDUHaHa",
-  "description": "They make up everything — literally. This AI-approved teacher shirt delivers peak science pun energy. Great for chemistry classrooms, back-to-school laughs, and atomic-level trust issues.",
+  "description_meta": "They make up everything — literally. This AI-approved teacher shirt delivers peak science pun energy. Great for chemistry classrooms, back-to-school laughs, and atomic-level trust issues.",
+  "description": "**Trust issues? Blame the atoms.**\n\n**Never Trust an Atom – The Original Fabricators of the Universe**\n\nAtoms: tiny, powerful, and absolute masters of making stuff up. This science teacher favorite delivers a hilarious pun that’s practically nuclear-powered. Equal parts clever and educational, it’s perfect for classrooms where science meets sarcasm.\n\nWhether you're lecturing on particle theory or just surviving lab day chaos, this tee brings the energy (pun very intended). Bonus: it pairs flawlessly with safety goggles and eye rolls from your students.\n\n**EDUHaHa Approved.** Because some jokes never lose their charge.",
   "tags": [
     "ai approved",
     "funny teacher shirt",
@@ -107,11 +203,18 @@
   ],
   "url": "https://eduhaha.com/products/never-trust-an-atom-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/TropicalBlue-NeverTrustanAtom-T-Shirt.webp?v=1747309946",
-  "alt_text": "Funny science teacher shirt – Never Trust an Atom – white text on a navy blue t-shirt with atom graphic"
+  "alt_text": "Funny science teacher shirt – Never Trust an Atom – white text on a navy blue t-shirt with atom graphic",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Grammar Is Sacred | Coffee Is Importanter | Funny Teacher Shirt | EDUHaHa",
-  "description": "Grammar is sacred. Coffee is importanter. This AI-approved shirt is the holy grail of caffeinated English teachers, grammar nerds, and sleep-deprived staff.",
+  "description_meta": "Grammar is sacred. Coffee is importanter. This AI-approved shirt is the holy grail of caffeinated English teachers, grammar nerds, and sleep-deprived staff.",
+  "description": "**Grammar Is Sacred. Coffee Is Importanter.**\n\n**Because Perfect Syntax Means Nothing Without Caffeine.**\n\nThis shirt is for the teacher who lovingly corrects apostrophes and refuses to function before coffee. Featuring a glowing cup of divine brew and a hilariously “wrong” punchline, it’s the perfect mash-up of English teacher truth and early morning survival.\n\nIt’s comfy. It’s clever. And yes, it makes a statement — even if that statement ends in a preposition. Ideal for grammar purists, coffee snobs, and anyone who thinks Oxford commas should be federally mandated.\n\n**EDUHaHa Approved.** For those who know caffeine is a noun, verb, and life force.",
   "tags": [
     "ai approved",
     "grammar is sacred",
@@ -126,11 +229,18 @@
   ],
   "url": "https://eduhaha.com/products/grammar-rules-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Cornsilk-GrammarRules-T-Shirt.webp?v=1747136994",
-  "alt_text": "Cornsilk teacher shirt with coffee cup graphic – Grammar Is Sacred, Coffee Is Importanter – funny teacher grammar shirt"
+  "alt_text": "Cornsilk teacher shirt with coffee cup graphic – Grammar Is Sacred, Coffee Is Importanter – funny teacher grammar shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "No Decaf Zone | I'm Not a Quitter Coffee Teacher Shirt | EDUHaHa",
-  "description": "Warning: This tee contains highly caffeinated energy. Perfect for coffee drinkers who never go decaf — especially teachers who survive on sarcasm and steam.",
+  "description_meta": "Warning: This tee contains highly caffeinated energy. Perfect for coffee drinkers who never go decaf — especially teachers who survive on sarcasm and steam.",
+  "description": "**This isn’t just a caffeine preference — it’s a personality type.**\n\n**Decaf? No Thanks. I'm Not a Quitter.**\n\nFor teachers who run on sarcasm and steam, this shirt lets the lounge know you’re not messing around with weak brews or weak vibes.\n\nPerfect for sipping through grading marathons, fire drills, and Monday moods, this tee is your daily grind uniform — no sugarcoating, just strong statements and stronger coffee.\n\n**Because quitting is for decaf drinkers. Not teachers.**",
   "tags": [
     "caffeine teacher tee",
     "coffee lover shirt",
@@ -145,11 +255,18 @@
   ],
   "url": "https://eduhaha.com/products/im-not-a-quitter-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Sand-I_mNotAQuitterT-Shirt.webp?v=1747132542",
-  "alt_text": "Sand color teacher shirt with coffee mug graphic – Decaf? No thanks."
+  "alt_text": "Sand color teacher shirt with coffee mug graphic – Decaf? No thanks.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Don't Make Me Repeat Myself T-Shirt | History Quote Tee | EDUHaHa",
-  "description": "History doesn’t whisper — it shouts. This AI-approved graphic tee is a mic drop for anyone tired of déjà vu. History has spoken. You’ve been warned.",
+  "description_meta": "History doesn’t whisper — it shouts. This AI-approved graphic tee is a mic drop for anyone tired of déjà vu. History has spoken. You’ve been warned.",
+  "description": "**Some lessons just keep coming back... again, and again, and again.**\n\n**Don’t Make Me Repeat Myself – Signed, History**\n\nThis witty tee captures the timeless truth that ignoring the past guarantees a rerun. Perfect for history buffs, teachers, or anyone who’s tired of repeating the obvious.\n\nIts typewriter-style font and vintage simplicity make it a subtle mic drop for the ages.\n\nWear it to class, wear it to the museum, wear it to Thanksgiving dinner when someone *still* doesn’t get it.\n\n**History has spoken. You’ve been warned.**",
   "tags": [
     "ai approved",
     "classroom apparel",
@@ -165,11 +282,18 @@
   ],
   "url": "https://eduhaha.com/products/history-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-HistoryRepeats-T-Shirt.webp?v=1747091573",
-  "alt_text": "White teacher shirt with black typewriter font – Don't Make Me Repeat Myself... – quote from History – clever classroom humor tee"
+  "alt_text": "White teacher shirt with black typewriter font – Don't Make Me Repeat Myself... – quote from History – clever classroom humor tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Retro Rocket-Fueled Inspiration Shirt | Time to Shine | EDUHaHa",
-  "description": "Launch into greatness with this AI-approved, rocket-themed, neon-inspired t-shirt for inspiring educators. A motivational must-wear for testing days, morning meetings, and classroom lift-off.",
+  "description_meta": "Launch into greatness with this AI-approved, rocket-themed, neon-inspired t-shirt for inspiring educators. A motivational must-wear for testing days, morning meetings, and classroom lift-off.",
+  "description": "**Vintage Vibes. Modern Motivation.**\n\n**Time to Shine – You Got This!**\n\nThis shirt is your neon-bright pep talk, wrapped in retro realness. With a design that screams “main character energy” and a message that lifts like a rocket ship, it’s perfect for test days, goal-setting weeks, or any morning where you need an extra jolt of classroom courage.\n\nBonus points: it makes you look like the walking billboard of belief your students never knew they needed.\n\n**EDUHaHa Approved.** For the teacher who builds confidence and launches dreams.",
   "tags": [
     "ai approved",
     "eduhaha shirt",
@@ -185,11 +309,18 @@
   ],
   "url": "https://eduhaha.com/products/time-to-shine-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/LightBlue-TimeToShine-T-Shirt_a8cdafa1-cf61-4271-be9d-30d31ef54b40.webp?v=1747303011",
-  "alt_text": "Light blue teacher shirt with retro neon sign design – Time to Shine – rocket ship graphic and You Got This banner"
+  "alt_text": "Light blue teacher shirt with retro neon sign design – Time to Shine – rocket ship graphic and You Got This banner",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Element of Confusion T-Shirt | Funny Science Periodic Table Pun Tee | EDUHaHa",
-  "description": "Get and embrace the confusion with this AI-approved 'Element of Confusion' T-shirt. A clever Periodic Table pun for science nerds, teachers, and pun-loving geniuses.",
+  "description_meta": "Get and embrace the confusion with this AI-approved 'Element of Confusion' T-shirt. A clever Periodic Table pun for science nerds, teachers, and pun-loving geniuses.",
+  "description": "**Introducing “The Element of Confusion” — where chemistry meets comedy and the Periodic Table finally gets the laugh it deserves.**\n\n**Um... is it real? Absolutely not. Is it hilarious? Indisputably.**\n\nThis fictional element (Um – Atomic Number: 122, Atomic Weight: ????) perfectly captures that moment when your brain hits the loading screen. Whether you’re lost in thought or just forgot why you walked into a room — this shirt gets it.\n\n**Choose your style of confusion:**\n\nBlack shirt with white text: Sleek. Classic. Like a chalkboard that mocks your mistakes.  \nWhite shirt with black text: Clean. Sharp. Like a lab coat... if lab coats made people laugh.\n\nPerfect for science teachers, lab rats, word nerds, pun lovers, or anyone who’s ever said “Um…” before answering a question they definitely didn’t study for.\n\n**Slip it on and let the confusion commence. Because let’s face it — life’s complicated, and so are we.**",
   "tags": [
     "ai approved",
     "chemistry jokes",
@@ -204,11 +335,18 @@
   ],
   "url": "https://eduhaha.com/products/element-of-confusion-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-WhiteText-ElementofConfusion-T-Shirt.webp?v=1747087394",
-  "alt_text": "Black science teacher shirt with periodic table parody – Um, The Element of Confusion – bold white text and nerdy classroom humor"
+  "alt_text": "Black science teacher shirt with periodic table parody – Um, The Element of Confusion – bold white text and nerdy classroom humor",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Ah! The Element of Surprise | Clever Chemistry Shirt | EDUHaHa",
-  "description": "Surprise! This AI-approved science pun shirt looks like chemistry class but hits like stand-up comedy. Bold, funny, and perfect for teachers or nerdy gift-giving.",
+  "description_meta": "Surprise! This AI-approved science pun shirt looks like chemistry class but hits like stand-up comedy. Bold, funny, and perfect for teachers or nerdy gift-giving.",
+  "description": "**BOOM! You didn’t see it coming — but the “Element of Surprise” T-Shirt sure did.**\n\n**The Element of Surprise (Ah!) – Startling Style with Atomic-Level Wit**\n\nStyled like a page from the periodic table but labeled like a punchline, this shirt features the fictional element “Ah!” with its own atomic number and a perfectly panicked reaction.\n\nIdeal for science teachers, pun lovers, or anyone who lives to drop surprise quizzes — and unexpected laughs.\n\nSnag yours now and startle your students, amuse your coworkers, or just confuse random strangers at the store.\n\n**From Chemistry Lab to Comedy Club — It’s Always the Element of Surprise.**",
   "tags": [
     "ai approved",
     "chemistry jokes",
@@ -223,11 +361,18 @@
   ],
   "url": "https://eduhaha.com/products/element-of-surprise-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-BlackText-ElementofSurprise-T-Shirt.png?v=1747087396",
-  "alt_text": "White teacher shirt with periodic table parody – Ah, The Element of Surprise – clever science pun in black text"
+  "alt_text": "White teacher shirt with periodic table parody – Ah, The Element of Surprise – clever science pun in black text",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Chemistry T-Shirt | In a Lab? Great! In a Garage? Felony | EDUHaHa",
-  "description": "The line between lab work and felony just got funnier. This AI-approved tee is a must-have for science teachers and tinkerers with a dark sense of humor.",
+  "description_meta": "The line between lab work and felony just got funnier. This AI-approved tee is a must-have for science teachers and tinkerers with a dark sense of humor.",
+  "description": "**In a Lab, It’s Chemistry. In a Garage? A Mugshot.**\n\nLet’s be real — the line between scientific discovery and illegal activity is sometimes just location. This witty tee walks that tightrope like a Nobel Prize-winning acrobat, giving chemistry lovers and science teachers the perfect way to get laughs while still abiding by district policy.\n\nWhether you’re rocking goggles in the lab or avoiding Breaking Bad references in the staff lounge, this shirt is your safety-approved sign of scientific snark. Great for educators who know how to teach safety with a side of sarcasm — and a Bunsen burner.\n\n**EDUHaHa Approved.** For experiments that don’t involve bail.",
   "tags": [
     "ai approved",
     "chemistry in a lab",
@@ -243,11 +388,18 @@
   ],
   "url": "https://eduhaha.com/products/chemistry-in-a-lab-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-ChemistryLab-T-Shirt.webp?v=1749660521",
-  "alt_text": "Navy blue chemistry teacher shirt – colorful beakers and text: In a lab, it’s called chemistry. In a garage, it’s called a felony"
+  "alt_text": "Navy blue chemistry teacher shirt – colorful beakers and text: In a lab, it’s called chemistry. In a garage, it’s called a felony",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "A Moment of Science Please | Quiet, Yet Funny STEM T-Shirt | EDUHaHa",
-  "description": "Need a moment of science? This AI-approved, vibrant STEM tee brings humor and atom-powered style to your day. Perfect for nerds, teachers, and science lovers.",
+  "description_meta": "Need a moment of science? This AI-approved, vibrant STEM tee brings humor and atom-powered style to your day. Perfect for nerds, teachers, and science lovers.",
+  "description": "**Need a little lab time... for your wardrobe?**\n\n**A Moment of Science Please – Shirt for the Pun-Loving STEM Enthusiast**\n\nThis colorful, pun-tastic design is equal parts eye-catching and brain-tickling.\nThe phrase “A Moment of Science Please” is paired with a vibrant atom graphic to create a bold visual tribute to scientific curiosity and classroom comedy.\n\nWhether you’re sparking interest in your students, making fellow nerds laugh, or just celebrating your inner science geek, this tee is your wearable hypothesis: *funny + smart = totally awesome.*\n\n**Warning:** May cause spontaneous eruptions of laughter and curiosity.",
   "tags": [
     "ai approved",
     "atom t-shirt",
@@ -263,11 +415,18 @@
   ],
   "url": "https://eduhaha.com/products/moment-of-science-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/LightBlue-MomentofScience-T-Shirt.webp?v=1747087392",
-  "alt_text": "Light blue science teacher shirt – colorful text A Moment of Science Please – with atomic model graphic"
+  "alt_text": "Light blue science teacher shirt – colorful text A Moment of Science Please – with atomic model graphic",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "I’ll Just Wait, Forever Tee | Relatable Teacher Life Shirt | EDUHaHa",
-  "description": "The ultimate classroom mood captured on a shirt — patience and sarcasm all in one. This AI-approved design may cause laughter, side-eyes, and slightly quieter classrooms (eventually).",
+  "description_meta": "The ultimate classroom mood captured on a shirt — patience and sarcasm all in one. This AI-approved design may cause laughter, side-eyes, and slightly quieter classrooms (eventually).",
+  "description": "**Patience Level: Skeleton**\n\n**I’ll Just Wait… Forever, Apparently**\n\nEvery teacher’s favorite classroom strategy—immobile silence and slowly escalating eyebrow raises—is now a shirt. Featuring a delightfully deadpan skeleton parked at a desk, this design captures that classic teacher moment: waiting for silence that never comes. It’s spooky. It’s funny. It’s painfully relatable.\n\n**EDUHaHa Approved.** May cause laughter, side-eyes, and slightly quieter classrooms (eventually).",
   "tags": [
     "ai approved",
     "classroom humor apparel",
@@ -283,11 +442,18 @@
   ],
   "url": "https://eduhaha.com/products/ill-just-wait-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-I_llJustWait-T-Shirt.webp?v=1747303003",
-  "alt_text": "Navy teacher shirt with white skeleton graphic at a chalkboard – I’ll just wait until it’s quiet – spooky classroom humor tee"
+  "alt_text": "Navy teacher shirt with white skeleton graphic at a chalkboard – I’ll just wait until it’s quiet – spooky classroom humor tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "We Color Outside the Lines | Creative Rules Teacher T-Shirt | EDUHaHa",
-  "description": "Rules? Cute. But we prefer crayons. This AI-approved shirt is made for teachers who spark imagination and embrace every squiggle. Masterpieces were never meant to stay inside the lines.",
+  "description_meta": "Rules? Cute. But we prefer crayons. This AI-approved shirt is made for teachers who spark imagination and embrace every squiggle. Masterpieces were never meant to stay inside the lines.",
+  "description": "**In Kindergarten, We Color Outside the Lines.**\n\n**Rules? Cute. But we prefer crayons.**\n\nThis playful tee is made for the boldest bunch in the building — kindergarten teachers and their wildly creative sidekicks. With cheerful, crayon-colored text and doodle flair, it’s a celebration of messy masterpieces, untamed imagination, and coloring books that never stood a chance.\n\nPerfect for circle time, art day, or any moment that needs a little more color (read: all of them), this shirt is an instant mood-lifter and classroom favorite.\n\n**EDUHaHa Approved.** Because masterpieces were never meant to stay inside the lines.",
   "tags": [
     "ai approved",
     "classroom fashion",
@@ -303,11 +469,18 @@
   ],
   "url": "https://eduhaha.com/products/outside-the-lines-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-OutsideTheLines-T-Shirt_d376d189-c0b3-40dc-9c0d-43c0a6954263.webp?v=1747171995",
-  "alt_text": "White kindergarten teacher shirt with colorful crayon text – In Kindergarten We Color Outside the Lines – early childhood education tee"
+  "alt_text": "White kindergarten teacher shirt with colorful crayon text – In Kindergarten We Color Outside the Lines – early childhood education tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "No Drama Llama Shirt | Bright. Bold. Blissfully Unbothered | EDUHaHa",
-  "description": "Perfect for teachers, counselors, and anyone tired of decoding student group projects or PTA politics, No Drama Llama keeps it simple. Drama? Not today. Llama.",
+  "description_meta": "Perfect for teachers, counselors, and anyone tired of decoding student group projects or PTA politics, No Drama Llama keeps it simple. Drama? Not today. Llama.",
+  "description": "**Save the drama for your llama—just kidding, she’s booked with zero nonsense.**\n\n**Bright. Bold. Blissfully Unbothered.**\n\nWhen life throws chaos your way, this llama just tosses on her shades and struts through it like a rainbow-furred boss. With a splash of vibrant color and a whole lotta sass, the \"No Drama Llama\" tee is your go-to for shutting down negativity—one smirk at a time.\n\nPerfect for teachers, counselors, and anyone tired of decoding student group projects or PTA politics, this shirt keeps your message simple: drama? Not today, Tina.\n\n**EDUHaHa Approved.** Because sometimes your outfit needs to set boundaries.",
   "tags": [
     "ai approved",
     "carefree llama",
@@ -323,11 +496,18 @@
   ],
   "url": "https://eduhaha.com/products/no-drama-llama-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-NoDramaLlama-T-Shirt.webp?v=1749674911",
-  "alt_text": "Black teacher shirt with colorful rainbow llama wearing sunglasses – text: No Drama Llama – funny classroom humor tee"
+  "alt_text": "Black teacher shirt with colorful rainbow llama wearing sunglasses – text: No Drama Llama – funny classroom humor tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Netflix to Employment Tee | Suit Up, Study Up, and Level Up | EDUHaHa",
-  "description": "Part definition, part sarcastic truth bomb. This AI-approved tee spells it out: 'Education — the path from Netflix to employment.' Phonetic fun meets motivational flair.",
+  "description_meta": "Part definition, part sarcastic truth bomb. This AI-approved tee spells it out: 'Education — the path from Netflix to employment.' Phonetic fun meets motivational flair.",
+  "description": "**This shirt defines your hustle — literally.**\n\n**EDUCATION: [ej-oo-key-shuhn] – The Path from Netflix to Employment**\n\nPart definition, part motivation, part sarcastic truth bomb — this shirt is ideal for students, teachers, and caffeine-fueled job seekers making the leap from couch to career. The clean design delivers maximum impact with minimal effort (kinda like your last group project).\n\nIt’s the perfect reminder that while binge-watching might be fun, so is having a job that pays for your streaming service.\n\n**Suit up, study up, and level up — education is calling.**",
   "tags": [
     "ai approved",
     "college humor tee",
@@ -343,11 +523,18 @@
   ],
   "url": "https://eduhaha.com/products/education-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-WhiteText-Education-T-Shirt.webp?v=1747087390",
-  "alt_text": "Black t-shirt with white text – phonetic definition of Education: the path from Netflix to Employment – funny teacher or student motivation shirt"
+  "alt_text": "Black t-shirt with white text – phonetic definition of Education: the path from Netflix to Employment – funny teacher or student motivation shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Grammar Cop Shirt | To Serve and Correct Edition | EDUHaHa",
-  "description": "To serve, correct, and slay. This AI-approved, badge-inspired tee is for grammar defenders who bring fashion and punctuation justice. You have the right to remain grammatically correct.",
+  "description_meta": "To serve, correct, and slay. This AI-approved, badge-inspired tee is for grammar defenders who bring fashion and punctuation justice. You have the right to remain grammatically correct.",
+  "description": "**This shirt doesn’t just make a statement — it issues a citation.**\n\n**Grammar Police – To Serve and Correct**\n\nWith a bold badge design and a sharp sense of humor, this tee lets the world know that comma crimes and apostrophe abuse will not go unchecked.\n\nIt’s the perfect fit for teachers, editors, and grammar sticklers who wear their standards proudly (and stylishly).\n\nThrow it on before grading papers, leading PD, or cracking down on rogue quotation marks. It’s functional, fashionable, and fully authorized for classroom enforcement.\n\n**You have the right to remain grammatically correct.**",
   "tags": [
     "ai approved",
     "badge design shirt",
@@ -363,11 +550,18 @@
   ],
   "url": "https://eduhaha.com/products/serve-and-correct-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/MilitaryGreen-GrammarPolice-T-Shirt.webp?v=1747087388",
-  "alt_text": "Military green teacher shirt with police badge design – Grammar Police – To Serve and Correct – funny grammar enforcement tee"
+  "alt_text": "Military green teacher shirt with police badge design – Grammar Police – To Serve and Correct – funny grammar enforcement tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "I Don’t Know Y. Literally | Clever and Casual Tee | EDUHaHa",
-  "description": "Language nerds and pun fans unite — this AI-approved shirt’s got 25 letters and one giant laugh. Ideal for classrooms, staff lounges, or anywhere someone might groan and secretly love it.",
+  "description_meta": "Language nerds and pun fans unite — this AI-approved shirt’s got 25 letters and one giant laugh. Ideal for classrooms, staff lounges, or anywhere someone might groan and secretly love it.",
+  "description": "**This tee speaks fluent pun and specializes in 'dad joke but make it fashion.'**\n\n**I Don’t Know Y. Literally.**\n\nWhether you’re a teacher, a word nerd, or just alphabet-adjacent, this distressed-font classic delivers the dry wit you didn’t know your wardrobe was missing.\n\nIdeal for classrooms, coffee shops, or anywhere someone might groan and secretly love it. This one’s an instant convo starter — especially with your Language Arts crowd.\n\n**Because some friendships just… never make it to Y.**",
   "tags": [
     "ai approved",
     "alphabet pun shirt",
@@ -383,11 +577,18 @@
   ],
   "url": "https://eduhaha.com/products/i-dont-know-y-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/DarkChocolate-IDon_tKnowY-T-Shirt.webp?v=1747132545",
-  "alt_text": "Dark chocolate shirt with distressed text – I’m close friends with 25 letters of the alphabet. I don’t know Y – funny teacher pun tee"
+  "alt_text": "Dark chocolate shirt with distressed text – I’m close friends with 25 letters of the alphabet. I don’t know Y – funny teacher pun tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Hyphenated or Un-hyphenated? | Fluent irony – Literally. | EDUHaHa",
-  "description": "It’s not just a shirt — it’s a sentence structure showdown. This AI-approved tee highlights the beautifully ironic mess of modern grammar. Wear it proudly, nerd.",
+  "description_meta": "It’s not just a shirt — it’s a sentence structure showdown. This AI-approved tee highlights the beautifully ironic mess of modern grammar. Wear it proudly, nerd.",
+  "description": "**This shirt speaks fluent irony. Literally.**\n\n**Hyphenated. Un-hyphenated. Ironic.**\n\nThe word “un-hyphenated” is... hyphenated. That’s the joke — and if you got it instantly, this shirt was made for you.\n\nA minimalist design with maximum impact, it’s a linguistic Easter egg for grammar lovers, editors, teachers, and lovers of clever copy.\n\nWear it to staff meetings, writer’s workshops, or anywhere people appreciate punctuation with punchlines.\n\n**It’s not just a shirt — it’s a sentence structure showdown.**",
   "tags": [
     "ai approved",
     "clever language shirt",
@@ -403,11 +604,18 @@
   ],
   "url": "https://eduhaha.com/products/ironic-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-WhiteText-Ironic-T-Shirt.webp?v=1747087386",
-  "alt_text": "Navy blue shirt with white text – Hyphenated. Un-hyphenated. Ironic. – funny minimalist grammar tee for teachers or editors"
+  "alt_text": "Navy blue shirt with white text – Hyphenated. Un-hyphenated. Ironic. – funny minimalist grammar tee for teachers or editors",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "My Worst Enema | Sarcasm, and Autocorrect Trauma | EDUHaHa",
-  "description": "Just one innocent typo away from digital disaster. This AI-approved autocorrect shirt is painfully hilarious and tragically relatable — especially for teachers, texters, and tech-challenged souls.",
+  "description_meta": "Just one innocent typo away from digital disaster. This AI-approved autocorrect shirt is painfully hilarious and tragically relatable — especially for teachers, texters, and tech-challenged souls.",
+  "description": "**We've all been there — one innocent typo away from sending pure digital chaos.**\n\n**Autocorrect Has Become My Worst Enema**\n\nThis painfully hilarious tee captures the daily digital betrayal that is autocorrect. Perfect for grammar lovers, tech warriors, and anyone who’s ever texted in panic.\n\nWhether you meant to say “enemy” or not, this shirt makes sure your message is loud, proud, and gloriously incorrect.\n\nGreat for gifting, laughing, and sparking awkward hallway glances. Wear it like a typo badge of honor.\n\n**Powered by caffeine, sarcasm, and autocorrect trauma.**",
   "tags": [
     "ai approved",
     "autocorrect fail shirt",
@@ -423,11 +631,18 @@
   ],
   "url": "https://eduhaha.com/products/my-worst-enema-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-MyWorstEnema-T-Shirt.webp?v=1747087382",
-  "alt_text": "White teacher shirt with black serif font text – Autocorrect has become my worst enema – funny typo and tech fail tee"
+  "alt_text": "White teacher shirt with black serif font text – Autocorrect has become my worst enema – funny typo and tech fail tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Grammar Coping Mechanism T-Shirt | Clever [sic] Design | EDUHaHa",
-  "description": "Bad spelling got you feeling [sic]? This AI-approved and delightfully nerdy design is a jab at every butchered bulletin board and hallway 'your/you’re' fail.",
+  "description_meta": "Bad spelling got you feeling [sic]? This AI-approved and delightfully nerdy design is a jab at every butchered bulletin board and hallway 'your/you’re' fail.",
+  "description": "**If spelling errors make your eye twitch and your soul whisper “[sic],” this shirt was made for you.**\n\n**Bad Spelling Makes Me [sic]**\n\nThis delightfully nerdy design is a subtle jab at every butchered bulletin board and hallway “your/you’re” disaster. Clean serif font, layered sarcasm, and a wink for those who know better.\n\nPerfect for teachers, editors, writers, and anyone brave enough to grade eighth-grade essays.\n\nWear it like a red pen on casual Friday — because sometimes you just need to let the typo do the talking.\n\n**Grammar: it’s not just a job — it’s a coping mechanism.**",
   "tags": [
     "ai approved",
     "bad spelling t-shirt",
@@ -443,11 +658,18 @@
   ],
   "url": "https://eduhaha.com/products/bad-spelling-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-BadSpelling-T-Shirt.webp?v=1747087384",
-  "alt_text": "Navy teacher shirt with serif text – Bad Spelling makes me [sic] – clever grammar joke tee for editors and language nerds"
+  "alt_text": "Navy teacher shirt with serif text – Bad Spelling makes me [sic] – clever grammar joke tee for editors and language nerds",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "No Shelf Control T-Shirt | Ultimate Badge of Literary Excess | EDUHaHa",
-  "description": "Book fair? Dangerous. Library clearance rack? Irresistible. Online shopping at 2 a.m.? One-click regret. This AI-approved tee says what every reader knows — 'No Shelf Control' is real, and now it’s wearable.",
+  "description_meta": "Book fair? Dangerous. Library clearance rack? Irresistible. Online shopping at 2 a.m.? One-click regret. This AI-approved tee says what every reader knows — 'No Shelf Control' is real, and now it’s wearable.",
+  "description": "**Because buying books and reading them are two completely different hobbies.**\n\n**No Shelf Control – A TBR Pile You Can Wear**\n\nBook fair? Dangerous. Library clearance rack? Irresistible. Online shopping at 2 a.m.? One-click regret. This tee gets it — and wears it proudly. With ransom-note-style lettering and a lovingly overstuffed book stack, “No Shelf Control” is the ultimate badge of literary excess.\n\nWhether you're a teacher, librarian, or bookworm-in-chief, this shirt captures the chaotic joy of collecting more books than you’ll ever read (and loving every page of it).\n\n**EDUHaHa Approved.** Warning: may cause spontaneous book hauls.",
   "tags": [
     "ai approved",
     "bibliophile tee",
@@ -463,11 +685,18 @@
   ],
   "url": "https://eduhaha.com/products/no-shelf-control-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Sand-ShelfControl-T-Shirt.webp?v=1747309966",
-  "alt_text": "Sand color shirt with stacked books graphic – text: I Have No Shelf Control – funny librarian or book lover t-shirt"
+  "alt_text": "Sand color shirt with stacked books graphic – text: I Have No Shelf Control – funny librarian or book lover t-shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Because The Teacher Said So | And I’m Wearing It. That’s Why | EDUHaHa",
-  "description": "This retro-chic tee channels classic classroom confidence with a wink. This AI-approved educator essential brings fun, flair, and fierce pride in one bold look. That’s why.",
+  "description_meta": "This retro-chic tee channels classic classroom confidence with a wink. This AI-approved educator essential brings fun, flair, and fierce pride in one bold look. That’s why.",
+  "description": "**Because I Said So… And I’m Wearing It.**\n\n**“Because I’m the Teacher” — It’s Not Up for Debate.**\n\nThis retro-chic tee channels classic classroom confidence with a wink. Featuring a bold, vintage-style portrait and even bolder energy, it’s perfect for the educator who doesn’t need to explain themselves—but still does, five times before lunch.\n\nFrom dismissal drama to hallway politics, this shirt settles the score with one look. Bright, stylish, and undeniably in charge — this is your uniform of unapologetic authority (and maybe a little sass).\n\n**EDUHaHa Approved.** For when you need to remind them who signs the hall pass.",
   "tags": [
     "ai approved",
     "because I'm the teacher",
@@ -483,31 +712,18 @@
   ],
   "url": "https://eduhaha.com/products/because-im-the-teacher-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherIndigo-BeauseI_mTheTeacher-T-shirt.webp?v=1747136981",
-  "alt_text": "Heather indigo retro teacher shirt – illustrated woman with updo hairstyle and text: Because I’m the Teacher, That’s Why – bold vintage educator tee"
-},
-{
-  "title": "Sassy Principal T-Shirt | Vintage-Inspired Statement Tee | EDUHaHa",
-  "description": "A retro Principal tee that commands attention — with a wink. This AI-approved look is for Principals who run schools and don’t run out of sass. Confident. Vintage. Zero room for debate.",
-  "tags": [
-    "ai approved",
-    "admin favorite shirt",
-    "because I'm the principal",
-    "educator pride tee",
-    "eduhaha shirt",
-    "funny teacher shirt",
-    "principal gift",
-    "principal humor shirt",
-    "retro educator tee",
-    "school leader apparel",
-    "vintage principal shirt"
+  "alt_text": "Heather indigo retro teacher shirt – illustrated woman with updo hairstyle and text: Because I’m the Teacher, That’s Why – bold vintage educator tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
   ],
-  "url": "https://eduhaha.com/products/because-im-the-principal-t-shirt",
-  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-BeauseI_mThePrincipal-T-shirt.webp?v=1747171977",
-  "alt_text": "Navy blue retro principal shirt – vintage illustration of confident woman with the text: Because I’m the Principal, That’s Why – bold educator leadership tee"
+  "availability": "in stock"
 },
 {
   "title": "I Told You So History T-Shirt | Da Vinci & Washington Tee | EDUHaHa",
-  "description": "Da Vinci and Washington deliver history’s most iconic phrase: I Told You So. This AI-approved shirt is for educators who know that ignoring history just lands you back in a lesson plan.",
+  "description_meta": "Da Vinci and Washington deliver history’s most iconic phrase: I Told You So. This AI-approved shirt is for educators who know that ignoring history just lands you back in a lesson plan.",
+  "description": "**History’s Favorite Game: I Told You So.**\n\n**Da Vinci. Washington. Petty Legends.**\n\nThis tee is for every educator who's ever tried to warn the masses — and then had to watch it all unfold exactly as predicted. Featuring detailed portraits of Leonardo da Vinci and George Washington repeating the most satisfying sentence in the historical universe, this shirt is pure time-traveling vindication.\n\nPerfect for history buffs, teachers, or anyone who thrives on being right (again), it’s your new favorite “told-you-so” uniform.\n\n**EDUHaHa Approved.** Because those who don’t learn from history... end up in your lesson plan.",
   "tags": [
     "ai approved",
     "classroom humor",
@@ -523,11 +739,45 @@
   ],
   "url": "https://eduhaha.com/products/i-told-you-so-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/MIlitaryGreen-IToldYouSo-T-Shirt.webp?v=1747302697",
-  "alt_text": "Military green teacher shirt with illustrations of Da Vinci and George Washington – text: History’s Favorite Game: I Told You So – funny history tee"
+  "alt_text": "Military green teacher shirt with illustrations of Da Vinci and George Washington – text: History’s Favorite Game: I Told You So – funny history tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
+},
+{
+  "title": "Sassy Principal T-Shirt | Vintage-Inspired Statement Tee | EDUHaHa",
+  "description_meta": "A retro Principal tee that commands attention — with a wink. This AI-approved look is for Principals who run schools and don’t run out of sass. Confident. Vintage. Zero room for debate.",
+  "description": "**Because I'm the Principal. That's Why.**\n\n**Confident. Retro. Zero Room for Debate.**\n\nThis vintage-inspired tee is for the boss of the building — the one who doesn’t need to explain their decisions, but probably has to anyway. Featuring a fabulous, no-nonsense leading lady with a power updo and a pop of retro color, this shirt says what every principal’s been thinking since... forever.\n\nWhether you’re laying down the law, redirecting a rogue hallway dancer, or justifying the copier budget, this tee’s got your back. Wear it when you’re tired of explaining — or when you just want to do it with flair.\n\n**EDUHaHa Approved.** For Principals who run schools and don’t run out of sass.",
+  "tags": [
+    "ai approved",
+    "admin favorite shirt",
+    "because I'm the principal",
+    "educator pride tee",
+    "eduhaha shirt",
+    "funny teacher shirt",
+    "principal gift",
+    "principal humor shirt",
+    "retro educator tee",
+    "school leader apparel",
+    "vintage principal shirt"
+  ],
+  "url": "https://eduhaha.com/products/because-im-the-principal-t-shirt",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-BeauseI_mThePrincipal-T-shirt.webp?v=1747171977",
+  "alt_text": "Navy blue retro principal shirt – vintage illustration of confident woman with the text: Because I’m the Principal, That’s Why – bold educator leadership tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Bold, Yet Honest Graphic Shirt | For Life’s Missteps | EDUHaHa",
-  "description": "Rock your not-so-great choices in style. This AI-approved 'Bad Decisions' tee adds humor to every misstep — because life’s short. We recommend the warning label.",
+  "description_meta": "Rock your not-so-great choices in style. This AI-approved 'Bad Decisions' tee adds humor to every misstep — because life’s short. We recommend the warning label.",
+  "description": "**I’m Pretty Good at Making Bad Decisions**\n\nEver make a decision you regretted later... but had a great story to tell? This shirt gets it.\n\nThis hilarious tee blends bold honesty with a dash of humor — featuring a quirky bandage graphic to patch up your latest misstep.\n\nPerfect for casual Fridays, regrettable brunches, or just letting everyone know you’re living life on your own terms.\n\n**Grab one now and embrace the chaos** — because bad decisions make great memories (and even better shirts).\n\n**EDUHaHa Approved.** Life’s short. Wear the warning label.",
   "tags": [
     "ai approved",
     "bad decisions t-shirt",
@@ -543,11 +793,18 @@
   ],
   "url": "https://eduhaha.com/products/bad-decisions-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherRoyal-BadDecisions-T-Shirt.png?v=1750413046",
-  "alt_text": "Heather royal blue graphic tee with white text and bandage graphic – I'm Pretty Good at Making Bad Decisions – funny chaos humor shirt"
+  "alt_text": "Heather royal blue graphic tee with white text and bandage graphic – I'm Pretty Good at Making Bad Decisions – funny chaos humor shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Chaos Coordinator | Captain of Mayhem Pirate Cat T-Shirt | EDUHaHa",
-  "description": "Some days you don’t manage chaos — you sail it. This AI-approved tee features a fearless pirate cat and is perfect for multitaskers who run a tight (but fuzzy) ship.",
+  "description_meta": "Some days you don’t manage chaos — you sail it. This AI-approved tee features a fearless pirate cat and is perfect for multitaskers who run a tight (but fuzzy) ship.",
+  "description": "**Captain of the Mayhem. First Mate of Sanity.**\n\n**Chaos Coordinator – Pirate Cat Edition**\n\nMove over, Captain Crunch. There’s a new boss of the stormy seas, and they’ve got fur, an eyepatch, and zero patience for nonsense. This adorable-yet-commanding pirate kitty rides a ship straight through your daily disasters, armed with attitude and a master’s degree in multitasking.\n\nPerfect for teachers, parents, or anyone who’s ever juggled flaming swords and juice boxes at the same time, this shirt boldly declares your role as the one who keeps it together when no one else can even find the glue.\n\n**EDUHaHa Approved.** Because some days you don’t manage chaos — you sail it.",
   "tags": [
     "ai approved",
     "chaos coordinator shirt",
@@ -563,11 +820,18 @@
   ],
   "url": "https://eduhaha.com/products/chaos-coordinator-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Red-ChaosCoordinator-T-Shirt_14b09d5e-d35e-4868-a7b1-956fc12986c2.webp?v=1747344036",
-  "alt_text": "Red teacher shirt with cartoon pirate cat in a ship – text: Chaos Coordinator – funny classroom multitasker tee"
+  "alt_text": "Red teacher shirt with cartoon pirate cat in a ship – text: Chaos Coordinator – funny classroom multitasker tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Tech Support | Have You Tried Turning It Off and On Again? | EDUHaHa",
-  "description": "Even if the answer is always: yes, you tried that first. This AI-approved tee is a must-have for every IT hero. Loud, bold, and basically your daily script in wearable form.",
+  "description_meta": "Even if the answer is always: yes, you tried that first. This AI-approved tee is a must-have for every IT hero. Loud, bold, and basically your daily script in wearable form.",
+  "description": "**Tech Support’s Greatest Hit — now wearable.**\n\n**Have You Tried Turning It Off and On Again?**\n\nYes. You Have.\n\nThis tee is your official uniform for fixing everything from frozen screens to flustered coworkers. With bright, blocky type and cheeky icons, it's basically an IT department in cotton form.\n\nWhether you're a tech teacher, the go-to “fix-it” human on campus, or just fluent in sarcasm and software updates, this shirt says what you're already tired of repeating. Loudly. In color.\n\n**EDUHaHa Approved.** Because the answer is always: yes, you tried that first.",
   "tags": [
     "ai approved",
     "classroom tech fix",
@@ -583,11 +847,18 @@
   ],
   "url": "https://eduhaha.com/products/on-and-off-again-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Royal-OnandOff-T-Shirt_0400edaa-0154-495a-a019-36008baea50d.webp?v=1747910869",
-  "alt_text": "Royal blue shirt with bright colorful text – Have You Tried Turning It Off and On Again? – funny tech support and IT teacher shirt"
+  "alt_text": "Royal blue shirt with bright colorful text – Have You Tried Turning It Off and On Again? – funny tech support and IT teacher shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Sarcastic Mute Tee | Perfect for Quiet Quips and Loud Laughs | EDUHaHa",
-  "description": "A bold tee for those who’ve had enough noise. This AI-approved design delivers sharp humor with classic sarcasm: 'I didn’t mean to push all your buttons — I was just looking for mute.'",
+  "description_meta": "A bold tee for those who’ve had enough noise. This AI-approved design delivers sharp humor with classic sarcasm: 'I didn’t mean to push all your buttons — I was just looking for mute.'",
+  "description": "**If sarcasm had a volume setting, this shirt would be maxed out.**\n\n**Push All the Buttons — Just Not This One**\n\nThis witty tee declares: “I didn’t mean to push all your buttons. I was just looking for MUTE.” It’s the perfect power move for introverts, teachers, and those navigating daily chaos.\n\nRock it on errand runs, coffee breaks, or passive-aggressive staff meetings.\n\nOrder yours now and let your shirt do the talking — or rather, the muting.\n\n**EDUHaHa Approved.** Because sometimes silence really is golden.",
   "tags": [
     "ai approved",
     "casual comedy wear",
@@ -603,11 +874,18 @@
   ],
   "url": "https://eduhaha.com/products/mute-button-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-MuteBotton-T-Shirt.webp?v=1747091575",
-  "alt_text": "Navy blue shirt with white text – I didn’t mean to push all your buttons, I was just looking for mute – funny sarcastic introvert tee"
+  "alt_text": "Navy blue shirt with white text – I didn’t mean to push all your buttons, I was just looking for mute – funny sarcastic introvert tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Funny Hide and Seek Shirt | Witty, Still “Hard to Find” Tee | EDUHaHa",
-  "description": "AI-approved because blending in should never be this funny. Hide-and-seek legends unite! This tee features peeking eyes and a clever punchline that always finds laughs.",
+  "description_meta": "AI-approved because blending in should never be this funny. Hide-and-seek legends unite! This tee features peeking eyes and a clever punchline that always finds laughs.",
+  "description": "**FUN FACT: You’ll Want to Wear This on Repeat**\n\n**The Shirt That Hides in Plain Sight (and Gets All the Laughs)**\n\nFinally — a tee that gives hide-and-seek champs the recognition they literally deserve. This cheeky design, complete with wide-eyed cartoon peepers and a punchline that lands every time, is perfect for classroom comedians, recess rockstars, and playful pun-lovers of all ages.\n\nIt’s bold. It’s bright. It’s stealthy… sort of. And it’s basically the human version of “Where’s Waldo?” if Waldo had sass and excellent taste in tees.\n\n**EDUHaHa Approved.** Because blending in should never be this funny.",
   "tags": [
     "ai approved",
     "conversation starter",
@@ -623,31 +901,45 @@
   ],
   "url": "https://eduhaha.com/products/hide-and-seek-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Cornsilk-HideAndSeek-T-Shirt.webp?v=1747302971",
-  "alt_text": "Cornsilk yellow shirt with box graphic and peeking eyes – text: Fun Fact: Great Hide and Seek Players Are Really Hard to Find – funny pun tee"
+  "alt_text": "Cornsilk yellow shirt with box graphic and peeking eyes – text: Fun Fact: Great Hide and Seek Players Are Really Hard to Find – funny pun tee",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
-  "title": "You Matter. Unless You Energy | E=MC² Not Just for Textbooks | EDUHaHa",
-  "description": "Smart meets snark with this AI-approved physics tee. Perfect for science fans and educators alike. Because you’re more than just matter — you’re a full-blown vibe.",
+  "title": "Soviet Pun T-Shirt | Quit Stalin and Answer The Question | EDUHaHa",
+  "description_meta": "Soviet-inspired pun meets participation problems. A funny tee for teachers tired of crickets. 'Raise your hand, comrade.' Because classroom silence is tyranny.",
+  "description": "**Quit staring and start sharing — it’s time to Quit Stalin and Answer the Question.**\n\n“Raise your hand, comrade.”\n\nThis teacher-favorite tee fuses history humor with passive-aggressive participation prompts. Designed to stop the silence, spark engagement, and make every awkward pause slightly more amusing.\n\nWhether you’re teaching WWII or just trying to get someone — anyone — to answer your warm-up question, this shirt keeps the revolution rolling.\n\n**EDUHaHa Approved.** Because classroom silence is tyranny.",
   "tags": [
     "ai approved",
-    "atomic graphic tee",
-    "clever teacher tee",
+    "classroom humor tee",
+    "educational apparel",
     "eduhaha shirt",
-    "einstein joke tee",
-    "nerdy t-shirt",
-    "physics humor shirt",
-    "science pun shirt",
-    "science teacher shirt",
-    "stem educator apparel",
-    "you matter shirt"
+    "funny teacher t-shirt",
+    "history teacher gift",
+    "quit stalin shirt",
+    "soviet pun shirt",
+    "student engagement shirt",
+    "teacher life",
+    "teacher management tee"
   ],
-  "url": "https://eduhaha.com/products/you-matter-t-shirt",
-  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-YouMatter-T-Shirt_32a67a74-7101-48a6-b09f-a4194417ebf3.webp?v=1747344033",
-  "alt_text": "White teacher shirt with atomic graphic – You Matter Unless You Multiply Yourself by the Speed of Light Squared – Then You Energy – funny physics pun tee"
+  "url": "https://eduhaha.com/products/quit-stalin-t-shirt",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/SportGrey-QuitStalin-T-Shirt_bb30f4fb-adeb-4635-859e-02cbc03f0da2.webp?v=1747132539",
+  "alt_text": "Sport grey shirt with Stalin pointing and red text that says Quit Stalin and Answer the Question",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Metaphors Be With You | The Grammar is Strong With This One | EDUHaHa",
-  "description": "Salute the dark (robed) side of figurative language. This mystic, moonlit tee blends epic fantasy vibes with wordplay so powerful, even Yoda would raise a brow. Ideal for English teachers, book lovers, and grammar Jedi.",
+  "description_meta": "Salute the dark (robed) side of figurative language. This mystic, moonlit tee blends epic fantasy vibes with wordplay so powerful, even Yoda would raise a brow. Ideal for English teachers, book lovers, and grammar Jedi.",
+  "description": "**Metaphors Be With You**\n\nThe Grammar Is Strong With This One.\n\nWelcome to the dark (robed) side of figurative language. This mystic, moonlit tee blends epic fantasy with English teacher swagger and a galaxy-sized wink at anyone fluent in simile, sarcasm, or syntax.\n\nFeaturing a cloaked figure holding an open book — not a saber — this shirt is perfect for educators who battle bad grammar like it's the Sith, for students who'd rather read than rebel, and for anyone who corrects “your” to “you’re” in the margins of the universe.\n\n**EDUHaHa Approved.** May the parts of speech be ever in your favor.",
   "tags": [
     "ai approved",
     "book lover shirt",
@@ -663,31 +955,18 @@
   ],
   "url": "https://eduhaha.com/products/metaphors-be-with-you-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-MetaphorsBeWithYou-T-Shirt_7f4edf57-9f65-4a70-ac3e-d02094a11e92.webp?v=1747132548",
-  "alt_text": "Black teacher shirt with hooded figure holding a book – Metaphors Be With You in yellow text"
-},
-{
-  "title": "Soviet Pun T-Shirt | Quit Stalin and Answer The Question | EDUHaHa",
-  "description": "Soviet-inspired pun meets participation problems. A funny tee for teachers tired of crickets. 'Raise your hand, comrade.' Because classroom silence is tyranny.",
-  "tags": [
-    "ai approved",
-    "classroom humor tee",
-    "educational apparel",
-    "eduhaha shirt",
-    "funny teacher t-shirt",
-    "history teacher gift",
-    "quit stalin shirt",
-    "soviet pun shirt",
-    "student engagement shirt",
-    "teacher life",
-    "teacher management tee"
+  "alt_text": "Black teacher shirt with hooded figure holding a book – Metaphors Be With You in yellow text",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
   ],
-  "url": "https://eduhaha.com/products/metaphors-be-with-you-t-shirt",
-  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/SportGrey-QuitStalin-T-Shirt_bb30f4fb-adeb-4635-859e-02cbc03f0da2.webp?v=1747132539",
-  "alt_text": "Sport grey shirt with Stalin pointing and red text that says Quit Stalin and Answer the Question",
+  "availability": "in stock"
 },
 {
   "title": "It's A Daily Formula | Calculate, Diagram, SQUIRREL! | EDUHaHa",
-  "description": "Some days you’re calculating. And other days... SQUIRREL! Show your math humor with the Calculate, Diagram, SQUIRREL! tee. Ideal for algebra teachers, STEM educators, and any classroom where focus is a moving target.",
+  "description_meta": "Some days you're calculating. Others? SQUIRREL! This tee captures the chaotic focus of STEM classrooms with math humor and teacher-approved style.",
+  "description": "**Some days you’re calculating. Some days you’re diagramming. And some days... SQUIRREL! This shirt gets it.**\n\n**Calculate, Diagram, SQUIRREL! – A Math Teacher's Daily Formula**\n\nWhether you're deep in equations or dodging classroom chaos, this tee captures the essence of teaching with style and sarcasm.\n\nPerfect for math educators, STEM lovers, or anyone who understands the joy of being *momentarily* off-topic.\n\n**Grab yours now and bring some humor to your next lesson — even if you forget what it was halfway through.**\n\n**EDUHaHa Approved.** Because learning is better with laughter.",
   "tags": [
     "ai approved",
     "algebra humor t-shirt",
@@ -704,10 +983,17 @@
   "url": "https://eduhaha.com/products/calculate-diagram-squirrel-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Red-Calculate_Diagram_SQUIRREL_-T-Shirt_c223c077-2b61-4bb1-8861-eab1ebed821c.webp?v=1747091565",
   "alt_text": "Red teacher shirt with icons for calculator, chart, and squirrel – Calculate, Diagram, SQUIRREL!",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Combined Spelling Chaos | Their, There, or They’re? ..NUTS! | EDUHaHa",
-  "description": "The misspelled masterpiece that unites teachers, trolls, and typo spotters in chaotic harmony. It's not wrong. It's 'Creatively Incorrect.' Wildly effective, painfully relatable, and the perfect end-of-year meltdown tee.",
+  "description_meta": "Theiry’re: Creatively Incorrect. Wildly Effective. This chaotic grammar tee is an end-of-year meltdown masterpiece that turns typos into triumph.",
+  "description": "**Say hello to the “Theiry’re” T-Shirt — the triple-threat typo that breaks all the rules and still gets an A+ in laughs.**\n\n**Theiry’re: Creatively Incorrect. Wildly Effective.**\n\nThis glorious grammatical train wreck is more than a shirt — it’s a sanity-saver, a classroom crowd-pleaser, and proof that teachers *do* have a sense of humor.\n\nWhether you're facing finals, fighting burnout, or just feel like breaking every ELA rule in one word, this tee delivers.\n\n**Grab it now and wear it loud — because sometimes the best lessons come wrapped in chaos.**\n\nBooks? Correct. This shirt? Absolutely not.\n\n**EDUHaHa Approved.** For language lovers who know better — and still laugh harder.",
   "tags": [
     "ai approved",
     "classroom humor",
@@ -724,10 +1010,17 @@
   "url": "https://eduhaha.com/products/theiryre-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-Theiry_re-T-Shirt_83343fb4-0e0c-4f3c-b2b3-0574bdc94075.webp?v=1747087380",
   "alt_text": "Navy blue shirt with the word 'Theiry’re' in white chalk-style font – a mashup of their, they’re, and there",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "You’re Awesome. No, Seriously! | Feel-Good Vibes Tee | EDUHaHa",
-  "description": "Sometimes you forget. This shirt won’t. The ultimate wearable compliment for educators, coworkers, and anyone who needs a little boost. Because encouragement should be printed in bold — and worn proudly.",
+  "description_meta": "The ultimate wearable compliment — bold, bright, and guaranteed to boost moods from classroom to staff room. Sometimes you forget. This shirt won’t.",
+  "description": "**You're Awesome. No, Seriously.**\n\n**Sometimes You Forget. This Shirt Won’t.**\n\nWe all need a little pep talk—this tee just gives it to you on repeat. With its bright colors and heart-happy message, it's your daily dose of \"heck yes, I rock.\" Whether you're reminding yourself or boosting the spirits of everyone from the front office to fourth period, this shirt delivers feel-good vibes with zero toxic positivity.\n\n**EDUHaHa Approved.** For anyone who’s ever needed a reminder—and those who give them like a pro.",
   "tags": [
     "ai approved",
     "awesome t-shirt",
@@ -744,10 +1037,17 @@
   "url": "https://eduhaha.com/products/youre-awesome-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Cornsilk-You_reAwesomeReminder-T-Shirt_ebca91a8-f9bf-4801-84ac-33b855e2276a.webp?v=1747302983",
   "alt_text": "Cornsilk yellow shirt with bold text saying Sometimes You Forget You’re Awesome So This Is Your Reminder",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "It's Not Bragging – Just Facts | 5 Star Skills Tee | EDUHaHa",
-  "description": "You know THAT teacher. The one who’s got five-star skills and zero-star patience for nonsense. This classroom classic is rated E for Excellent Educator — and built for back-to-school applause, hallway respect, and staff room envy.",
+  "description_meta": "Five-star teacher. Zero-star patience for nonsense. This tee says it all — classroom legend energy, no mug required.",
+  "description": "**Five-Star Teacher. Zero-Star Tolerance.**\n\n**Disagree? See Me After Class.**\n\nThis tee isn’t bragging — it’s backed by years of unpaid overtime, rogue hallway duty, and the magical ability to silence chaos with just a glare. From teaching fractions to fending off fidget spinners, you’ve earned every one of those five stars.\n\nLet your students, coworkers, and random hallway skeptics know: your teaching game is elite. And if anyone doubts it? There’s a polite place for that — after class.\n\n**EDUHaHa Approved.** Because classroom legends deserve more than a mug.",
   "tags": [
     "ai approved",
     "5 star teacher",
@@ -764,10 +1064,17 @@
   "url": "https://eduhaha.com/products/5-star-teacher-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherRoyal-5StarTeacher-T-Shirt_040a99bd-7688-448b-9e91-da5ea22455d4.webp?v=1747302707",
   "alt_text": "Heather royal blue shirt with gold stars and text saying My Teaching Skills Are 5 Stars – If You Disagree, See Me After Class",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Plan, Grade, SQUIRREL! | Distractions Are in Style | EDUHaHa",
-  "description": "Teaching isn’t linear. It’s calendars, grades, and unexpected squirrels. This tee captures the daily rhythm (and random distractions) of real educators everywhere. For anyone who’s ever been mid-task and derailed by reality.",
+  "description_meta": "Plan, grade… SQUIRREL! This tee captures the chaotic charm of classroom life — perfect for educators who know distractions are part of the lesson plan.",
+  "description": "**Teaching isn’t always linear. Sometimes it’s plan, grade… and SQUIRREL!**\n\n**Plan. Grade. Get Distracted in Style.**\n\nThis shirt hilariously sums up the daily rhythm of real educators: calendars, lesson plans, grading marathons — all beautifully derailed by the chaos of classroom life. From squirrel sightings to spontaneous assemblies, every teacher knows the real curriculum is flexibility.\n\nDesigned for the multitasking maestros who roll with it and still crush the day, this tee is a wearable wink to every “Wait, what was I doing?” moment.\n\n**EDUHaHa Approved.** Because squirrels happen — and you're still the boss.",
   "tags": [
     "ai approved",
     "classroom chaos apparel",
@@ -784,10 +1091,17 @@
   "url": "https://eduhaha.com/products/plan-grade-squirrel-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Charcoal-Plan_Grade_SQUIRREL_-T-Shirt.webp?v=1747091567",
   "alt_text": "Charcoal teacher shirt with icons for calendar, A+, and squirrel – Plan, Grade, SQUIRREL!",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "From Bumper Sticker to Body Sticker | Flaunt It — On Fabric | EDUHaHa",
-  "description": "From bumper to body — some flexes deserve to be worn. The ultimate humblebrag for a classroom champ, PTA parent, or sarcastic scholar who deserves to shine.",
+  "description_meta": "You didn’t just earn the bumper sticker — you *were* the bumper sticker. This witty classroom tee is perfect for educators, parents, and proud honor roll alumni.",
+  "description": "**You didn’t just earn it — you were the bumper sticker.**\n\n**Bold. Brilliant. Brag-Worthy.**\n\nSome flexes deserve more than a decal on the back of a minivan. This clever, classroom-approved tee says what every honor student (or proud parent of one) is thinking: *“Yeah… that was me.”*\n\nWhether you're an academic all-star, the proud teacher who made it happen, or the parent who packed the lunches that fueled the grades — this shirt makes it official. \n\nFunny, familiar, and just the right amount of humblebrag.\n\n**EDUHaHa Approved.** Because if you’ve got it, flaunt it — on fabric.",
   "tags": [
     "ai approved",
     "best teacher gift",
@@ -804,10 +1118,17 @@
   "url": "https://eduhaha.com/products/that-bumper-sticker-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/DarkHeather-ThatBumperSticker-T-Shirt.webp?v=1747062576",
   "alt_text": "Dark heather shirt with bold text mimicking a bumper sticker – My Child Is An Honor Student. Yeah… That Was Me.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Stick With Me | You Don’t Use Glue Sticks – You Command Them | EDUHaHa",
-  "description": "The conclusive classroom tee that celebrates crafty educators and the ability to keep it together. Some heroes don’t wear capes — they wear washable adhesive. For the artsy, the organized, and the glue stick elite.",
+  "description_meta": "Craft chaos controlled. Celebrate your classroom superpower with this witty glue stick tee for artsy educators and hands-on heroes.",
+  "description": "**You don’t use glue sticks — you command them.**\n\n**Craft Chaos Controlled. Smiles Secured.**\n\nFor every teacher who’s turned a potential glitter disaster into a classroom masterpiece, this tee is your red badge of honor. Bold, bright, and wildly adhesive in spirit, it celebrates the educators who somehow keep it together — literally and figuratively.\n\nWhether you're leading an art lesson, a science model build, or just surviving craft day with your sanity intact, this shirt gives you instant credibility as the glue stick whisperer you are.\n\n**EDUHaHa Approved.** Because some heroes don’t wear capes — they wear washable adhesive.",
   "tags": [
     "ai approved",
     "admin favorite",
@@ -824,10 +1145,17 @@
   "url": "https://eduhaha.com/products/glue-stick-whisperer-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Red-GlueStickWhisperer-T-Shirt.webp?v=1747062573",
   "alt_text": "Red shirt featuring a cartoon glue stick surrounded by sparkles and swirls – text reads Glue Stick Whisperer",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "A Raise Awareness Tee | It’s Not the Book — It’s the RAISE! | EDUHaHa",
-  "description": "A teacher shirt that says what everyone’s thinking — it’s time. The overdue notice no one’s returning. For educators ready to file their emotional receipts with the front office. Advocacy, humor, and solidarity? All bound together.",
+  "description_meta": "It’s not the book that’s overdue — it’s the raise. A witty teacher advocacy tee built for humor, solidarity, and subtle rebellion.",
+  "description": "**Let’s be honest — what’s really overdue isn’t the library book. It’s the paycheck.**\n\n**Make a Statement Without Saying a Word (Except... It's on Your Shirt.)**\n\nThis witty tee delivers bold humor and big truth for educators who know their value. Perfect for union meetings, payday pep talks, or just walking confidently past the principal’s office.\n\nIt’s advocacy with attitude — designed to turn heads, start conversations, and maybe even shake loose a few budget adjustments. (Hey, we can dream.)\n\n**EDUHaHa Approved.** Because teaching is priceless — but your time isn’t free.",
   "tags": [
     "ai approved",
     "admin-favorite teacher tee",
@@ -844,10 +1172,17 @@
   "url": "https://eduhaha.com/products/overdue-raise-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Cornsilk-OverdueRaise-T-Shirt.webp?v=1747062564",
   "alt_text": "Cornsilk yellow shirt with stacks of books and bold red stamp that reads OVERDUE – For a Raise!",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Coffee, Chaos, Lesson Plans | September Survival Mode Tee | EDUHaHa",
-  "description": "Back to school? Bring it on! This tee is your September sidekick for chaos control and lesson prep. Featuring every teacher’s emotional checklist — from caffeine to controlled chaos — it says what we’re all thinking: 'Yes, I’m still standing.'",
+  "description_meta": "Lesson plans, coffee, and chaos control — this September Survival Mode tee is the teacher's uniform for back-to-school madness.",
+  "description": "**September Survival Mode launches your back-to-school spirit into high gear** with bold icons and a checklist every educator will salute.\n\n**September Survival Mode T-Shirt — Certified to Fuel Teacher Confidence**\n\nEver feel like September is a marathon with no finish line? This design empowers you to embrace the chaos with caffeine, confidence, and classroom calm.\n\nFrom lesson plans to late nights, it says what every teacher’s thinking — *“Yes, I’m still standing.”*\n\nThis tee isn’t just teacher-approved — it’s your official first-month wingman. Designed for staff meetings, supply runs, and every coffee-fueled comeback.\n\n**EDUHaHa Approved.** September tested. Teacher tough.",
   "tags": [
     "ai approved",
     "back to school shirt",
@@ -864,10 +1199,17 @@
   "url": "https://eduhaha.com/products/september-survival-mode-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/LightBlue-SeptemberSurvivalMode-T-Shirt_61983ce0-01e7-4214-8455-4fdda381cc18.webp?v=1748868480",
   "alt_text": "Light blue teacher shirt with checklist and icons – September Survival Mode Activated, coffee, battery, alarm clock, apples, and teacher checklist",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Solo, or Layered with Sarcasm | Ctrl+Alt+Teach the Classroom | EDUHaHa",
-  "description": "This Ctrl+Alt+Teach tee is a command for educators who run classrooms like IT departments — efficiently, brilliantly, and with style. Not a reset, a revolution. Geeky enough for techies, relatable enough for real ones.",
+  "description_meta": "Tech-savvy teachers, this one’s for you. The Ctrl+Alt+Teach shirt is your classroom command key — witty, efficient, and undeniably smart.",
+  "description": "**Hit reset on boring teacher tees — it’s time to Ctrl+Alt+Teach.**\n\nA keyboard command for educators who run their classrooms like IT departments — efficiently, brilliantly, and with style.\n\nTailor-made for tech-savvy teachers, this comfy tee is a clever nod to the power trio of control, alternative thinking, and pure teaching passion. Whether you're rebooting young minds or shortcutting chaos, show the world who's really running the system — one smart key at a time.\n\nWorn solo or layered with sarcasm, this tee makes sure every hallway walk is a power move.\n\n**EDUHaHa Approved.** Serious E-D-Ucation. Hilarious Fun.",
   "tags": [
     "ai approved",
     "classroom gift",
@@ -883,10 +1225,17 @@
   "url": "https://eduhaha.com/products/ctrl-alt-teach-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/SportGrey-Ctrl_Alt_Teach-T-Shirt.webp?v=1747058466",
   "alt_text": "Sport grey shirt with keyboard-style keys labeled Ctrl, Alt, and Teach – tech-inspired teacher shirt",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Because “Slay” > “Survive” | Slay the Day Iconic Design | EDUHaHa",
-  "description": "Turn heads and raise spirits with this motivational tee for educators who conquer the classroom daily. Designed to be bold, fierce, and totally classroom-compatible. Wear the shirt. Be the icon. And remember: slay responsibly.",
+  "description_meta": "Bold, floral, and fierce — this Slay the Day tee empowers teachers to walk into the classroom with confidence. Wear the shirt. Be the icon.",
+  "description": "**Because “Slay” > “Survive”**\n\n**Slay the Day — And Look Amazing Doing It**\nWhether you're wrangling essays, solving math mysteries, or refereeing recess, this tee lets the world know you're not just showing up — you're showing out. Bold, bright, and blooming with confidence, it’s your go-to reminder that educators don’t play small.\n\nThe vibrant design isn’t just for looks (though, hello, *LOOKS*). It’s classroom armor — equal parts fierce and floral. Students feel the energy, coworkers envy the vibe, and you? You slay the day, obviously.\n\n**EDUHaHa Approved.** Wear the shirt. Be the icon. Slay responsibly.",
   "tags": [
     "ai approved",
     "bold educator shirt",
@@ -903,10 +1252,17 @@
   "url": "https://eduhaha.com/products/slay-the-day-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-SlayTheDay-T-Shirt.webp?v=1748386068",
   "alt_text": "Navy blue shirt with bold white floral text reading Slay The Day – motivational teacher design",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "“Ask Someone Else” I'm RETIRED Tee | Handles All Your FAQ's | EDUHaHa",
-  "description": "Ask Someone Else Tee: Defined as 'differentiated instruction.' The ultimate retired flex — or Monday morning mood. A bold, witty response to every question you’ve answered 1,000 times. It’s independence. With a laugh.",
+  "description_meta": "This Ask Someone Else tee is the ultimate retired flex — and a witty way to shut down repetitive questions. Let your shirt handle the FAQs.",
+  "description": "**Let Your Shirt Handle the FAQs**\n\n**Retired from Repeating Yourself**\nEver feel like you're the human version of a help desk with no lunch break? Enter the Ask Someone Else T-Shirt — your new wardrobe weapon in the war on constant questions. This teacher-loved, admin-endorsed design broadcasts your availability status loud and clear: “Retired. Ask someone else.”\n\nWhether you’re dodging hallway interruptions, navigating staff meetings, or just trying to make it to your coffee, this tee does the emotional labor for you. Bonus: It secretly teaches students independence (and subtly calls out the chronic pencil askers).\n\n**EDUHaHa Approved.** Because independence starts with a little sarcasm and a really great shirt.",
   "tags": [
     "ai approved",
     "admin favorite",
@@ -923,10 +1279,17 @@
   "url": "https://eduhaha.com/products/ask-someone-else-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/White-AskSomeoneElse-T-Shirt.webp?v=1748451109",
   "alt_text": "White shirt with bold block text: RETIRED – Ask Someone Else, with a peace hand icon below",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Not a Month. It's A Mindset | August Survival Mode Tee | EDUHaHa",
-  "description": "Survive August in style! This tee brings coffee, control, and classroom vibes to your back-to-school hustle. It's not just a shirt — it's the official uniform for the pre-Labor Day teacher Olympics. Lesson plans: loaded. Coffee: secured. Mindset: fierce.",
+  "description_meta": "This August Survival Mode tee is the pre-Labor Day uniform for teachers juggling lesson plans, coffee, and chaos. Because August isn’t a month — it’s a mindset.",
+  "description": "**You’re Not Just Back to School — You’re Back to Battle**\n\n**Checklist Complete. Coffee Acquired. Chaos Controlled.**\nThe August Survival Mode T-Shirt is your official uniform for the pre-Labor Day teacher Olympics: endless meetings, seating charts, and mysteriously vanishing Expo markers.\n\nFeaturing bold icons and a perfectly panicked checklist, this tee signals to students, staff, and the copier that you came prepared — caffeinated, color-coded, and only slightly unhinged.\n\n**EDUHaHa Approved.** Because August isn't a month — it's a mindset.",
   "tags": [
     "ai approved",
     "admin favorite",
@@ -943,10 +1306,17 @@
   "url": "https://eduhaha.com/products/august-survival-mode-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherIrish-AugustSurvivalMode-T-Shirt.webp?v=1748868517",
   "alt_text": "Green teacher shirt with icons and checklist – August Survival Mode Activated with coffee, battery, clock, and back-to-school tasks",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Class Dismissed, the Heart Forever in Session | Educator Tee | EDUHaHa",
-  "description": "Wisdom never graduates. Celebrate lifelong passion with the 'Retired, But Forever a Teacher at Heart' tee — vibrant, joyful, and made for the educators who never really stop teaching. The bell may have rung, but the heart’s still in class.",
+  "description_meta": "Celebrate the educators who never truly clock out with this retired teacher tee. Joyful, colorful, and packed with heart — because wisdom never graduates.",
+  "description": "**Class Dismissed, But Heart Forever in Session**\n\n**Retired, But Forever a Teacher at Heart – Wisdom Never Graduates**\nYou may have traded lesson plans for leisure time, but let’s be honest—once a teacher, always a teacher. This shirt is for the legends who left the classroom, but never left their calling. With bold, cheerful colors and that iconic apple-on-books stack, this tee says, “I might be off the clock, but I’ll still correct your grammar at brunch.”\n\nWear it to reunions, book clubs, or every time you get the urge to alphabetize someone’s spice rack. It’s more than a retirement gift—it’s a celebration of an educator’s legacy and a love for learning that just won’t quit.\n\n**EDUHaHa Approved.** Because teaching isn’t just a job. It’s a lifelong plot twist.",
   "tags": [
     "ai approved",
     "apple t-shirt",
@@ -963,10 +1333,17 @@
   "url": "https://eduhaha.com/products/teacher-at-heart-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/LightBlue-RetiredTeacherAtHeart-T-Shirt.webp?v=1753702583",
   "alt_text": "Light blue shirt with stacked books and apple graphic, colorful text reads Retired But Forever a Teacher at Heart",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "There’s an App for That. It’s Your Brain | Brain App T-Shirt | EDUHaHa",
-  "description": "Activate curiosity and drop some academic shade with the Brain App Tee — where teacher humor meets student focus. It's witty, admin-approved, and guaranteed to spark both laughs and neurons. Because learning works better when the OS is running.",
+  "description_meta": "Make learning viral with the Brain App T-Shirt — a tech-savvy, humor-packed shirt that turns heads and powers up participation. EDUHaHa approved.",
+  "description": "**There’s an App for That. It’s Your Brain.**\n\n**Brain App T-Shirt – Certified to Spark Smiles and Student Focus**\nBrain App T-Shirt launches classroom curiosity with a witty design that connects modern tech lingo to real student engagement.\n\nThis teacher-approved tee flips the script on classroom motivation by blending humor and neuroscience—students are instantly drawn in, and teachers get a conversation starter that breaks the ice for deeper learning. Case in point: educators report students referencing the “brain app” during lessons, while admin-favorite status means it’s been spotted at staff meetings, sparking laughter and fresh ideas for student participation.\n\n**EDUHaHa Approved.** Level up your classroom energy — because when students see the brain as an app, they’ll start using it.",
   "tags": [
     "ai approved",
     "admin-favorite",
@@ -983,10 +1360,17 @@
   "url": "https://eduhaha.com/products/brain-app-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Charcoal-BrainApp-T-Shirt.webp?v=1751107558",
   "alt_text": "Charcoal shirt with pink brain graphic and text: Maybe if we tell students the brain is an app, they’ll start using it",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Timeline of Caffeine to Chaos | Teacher Commitment Chart Tee | EDUHaHa",
-  "description": "Totally Committed Teacher Tee: From back-to-school optimism to full-blown November chaos, this shirt perfectly captures the monthly descent into teacher madness. You didn’t choose the stressed life — it homeroomed you.",
+  "description_meta": "From September sparkle to December burnout, this funny teacher shirt charts the real emotions of the school year. Chaos, caffeine, and classroom truth.",
+  "description": "**Back-to-School Energy Meets Pre-Winter Exhaustion**\n\n**Totally Committed (To Surviving This School Year)**\nWelcome to the emotional rollercoaster that is teaching — now available in wearable form. The Totally Committed T-Shirt charts your semester like a bar graph of caffeine and chaos, from your September sparkle to your December “I’m just here so I don’t get fined” energy.\n\nDesigned to make fellow educators laugh-cry in solidarity, this shirt is part therapy, part armor, and all truth. Wear it loud, proud, and preferably with snacks in your drawer and sarcasm in your soul.\n\n**EDUHaHa Approved.** Because you didn’t choose the stressed life — it homeroomed you.",
   "tags": [
     "ai approved",
     "admin-favorite",
@@ -1003,10 +1387,17 @@
   "url": "https://eduhaha.com/products/totally-committed-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherIndigo-TotallyCommitted-T-Shirt.webp?v=1751114764",
   "alt_text": "Heather indigo shirt with yellow, orange, and red text showing teacher commitment levels from September to November with matching emojis",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Not All Genius Ideas Are Legible | Wisdom Worn Loudly | EDUHaHa",
-  "description": "A Wise Scientist Once Wrote… something *completely unreadable*. But inspiring, nonetheless. This tee blends mystery, humor, and scientific curiosity into a wearable conversation starter. STEM meets sarcasm — and student engagement gets a boost.",
+  "description_meta": "A wise scientist once wrote... something totally unreadable. This funny STEM teacher shirt blends curiosity, chaos, and comedy into one must-have tee.",
+  "description": "**Wisdom Worn Loudly. Scribbles Speak Volumes.**\n\n**A Wise Scientist Once Wrote… Something Hilarious**\nThis tee is what happens when curiosity meets chaos — in the best way possible. Featuring the phrase “A Wise Scientist Once Wrote:” followed by an absolutely indecipherable cluster of “scientific” scribbles, it turns every hallway into a hypothesis and every student into a codebreaker.\n\nPerfect for sparking curiosity, dodging awkward silence, or launching impromptu lessons about how real science is rarely neat, this shirt delivers STEM energy with a side of mystery. Students will beg to solve it, colleagues will nod knowingly, and you’ll be the walking embodiment of “hmm… interesting.”\n\n**EDUHaHa Approved.** Because not all genius ideas are legible.",
   "tags": [
     "ai approved",
     "admin favorite",
@@ -1023,10 +1414,17 @@
   "url": "https://eduhaha.com/products/wise-scientist-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/DarkHeather-AWiseScientist-T-Shirt.webp?v=1751201171",
   "alt_text": "Dark heather shirt with bold white text: A Wise Scientist Once Wrote, followed by scribbled illegible handwriting",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Engagement Starts with This Shirt | What Part Don’t You Get? | EDUHaHa",
-  "description": "Tackle 'I don’t get it' with a tee that says it all — literally. Packed with equations, diagrams, and mathematical mayhem, this shirt turns confusion into curiosity. A staple for any math teacher who’s heard it 17 times before first period ends.",
+  "description_meta": "Packed with equations and classroom chaos, this funny math shirt turns 'I don’t get it' into laughs — and maybe even learning. Teacher-approved and student-confusing.",
+  "description": "\"What Part Don’t You Understand?\" — Oh, just everything on the board.\n\n**The Equation for Student Engagement Starts with This Shirt**\nThis hilarious, brain-busting tee brings the chalkboard to your chest—complete with enough complex math to make a calculator cry. Whether you’re teaching algebra, geometry, or just trying to explain how homework works, this shirt says it all… and then some.\n\nThe *What Part?* T-Shirt is your admin-approved sidekick for math reviews, test-day stress relief, and math club cool points. It sets a lighthearted tone while encouraging students to embrace confusion as part of learning. Because nothing says “growth mindset” like wearing chaos with confidence.\n\n**EDUHaHa Approved.** For when you’ve explained it 3 times, drawn a diagram, and still hear “Wait, what?”",
   "tags": [
     "ai approved",
     "admin-favorite shirt",
@@ -1043,10 +1441,17 @@
   "url": "https://eduhaha.com/products/what-part-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Charcoal-WhatPart-T-Shirt.webp?v=1751388360",
   "alt_text": "Charcoal teacher shirt covered in math symbols and equations, with bold text saying What Part Of Don’t You Understand?",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Please Stop Licking That! | Relatable PSA for Educators | EDUHaHa",
-  "description": "Classroom PSA meets fashion in this Lick-Free Zone tee. For K–5 educators who’ve seen too much... and said even weirder. It’s bold, it’s hilarious, and it might just save a whiteboard. Possibly your sanity too.",
+  "description_meta": "A hilarious classroom PSA shirt for K–5 teachers who've seen it all — and said even weirder. Because your whiteboard deserves boundaries too.",
+  "description": "No, Seriously. Stop Licking It.\n\n**Classroom Management, But Make It Fashion**\nWhether you're dealing with actual whiteboard lickers or just the chaos they symbolize, this tee does the talking (so you don’t have to). Featuring bold lettering, hand-drawn fonts, and doodle-style flair, this shirt is part PSA, part teacher therapy.\n\nPerfect for elementary educators, germaphobes, and anyone who's had to utter the sentence, “Please stop licking that.”\n\n**EDUHaHa Approved.** Because your whiteboard deserves boundaries too.",
   "tags": [
     "ai approved",
     "bold teacher shirt",
@@ -1063,10 +1468,17 @@
   "url": "https://eduhaha.com/products/lick-free-zone-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-Lick-FreeZone-T-Shirt.webp?v=1753044224",
   "alt_text": "Black shirt with bold white, orange, and red text: Please Stop Licking the Whiteboard, with a cartoon whiteboard marker illustration",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Meet The Parents Teacher Shirt | Survivor Style Humor | EDUHaHa",
-  "description": "Meet The Parents Tee: A teacher-approved survivor shirt that builds trust (and breaks tension) at any family event. Funny enough for icebreakers, accurate enough to wear on conference day. Because not all heroes wear capes — some wear khaki and carry folders.",
+  "description_meta": "Funny, relatable, and teacher-approved. The Meet The Parents Survivor Shirt turns tense parent-teacher conferences into laugh-out-loud bonding moments.",
+  "description": "Your New Favorite Parent-Teacher Conference Outfit\n\n**Meet The Parents… and Make 'Em Laugh**\nThis tee isn’t just an icebreaker — it’s a full-blown comedic syllabus on first impressions. With a bold Survivor-style motif and classroom-approved icons, it’s the go-to outfit for turning awkward silences into shared chuckles.\n\nPerfect for back-to-school nights, parent orientations, and any day you need a little comic relief while keeping things collaborative. Bonus: it signals that you’re a professional *and* a human (who also survives the school jungle).\n\n**EDUHaHa Approved.** Because humor builds bridges faster than report cards.",
   "tags": [
     "ai approved",
     "admin favorite",
@@ -1083,10 +1495,17 @@
   "url": "https://eduhaha.com/products/meet-the-parents-t-shirt",
   "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/MilitaryGreen-MeetTheParents-T-Shirt.webp?v=1753101824",
   "alt_text": "Military green shirt with torch and jungle design – text reads Meet The Parents Survivor with icons for handshake, heart, and confused face",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Spanish Language Lover T-Shirt | Fluent in Fun | EDUHaHa",
-  "description": "Celebrate Spanish in this “I Speak Fluent Positivity” shirt. Comfy and clever. Language is a superpower — and this tee says it loud, proud, and in Spanish.",
+  "description_meta": "Celebrate Spanish in style. This 'I Speak Fluent Positivity' tee blends humor, heart, and multilingual magic — perfect for teachers and language lovers.",
+  "description": "Fluent Positivity. En Español.\n\n**Language Is a Superpower — And This Tee Says It Loud, Proud, and In Spanish.**\nThis shirt is for the teachers who bring joy with every conjugation, the travelers who order tapas like a pro, and the optimists who radiate good vibes — in two languages.\n\nWith the phrase *“Hablo Positividad con Fluidez”* and a stylish Spain-inspired graphic, this tee delivers both fashion and fluency. Great for the classroom, casual Fridays, or your next adventure abroad.\n\n**EDUHaHa Approved.** Porque ser positivo... ¡es contagioso!",
   "tags": [
     "spanish teacher shirt",
     "bilingual teacher gift",
@@ -1101,11 +1520,18 @@
   ],
   "url": "https://eduhaha.com/products/speak-spanish-t-shirt",
   "image": "https://5hb4fjuwpqxv4qk7-65085014208.shopifypreview.com/cdn/shop/files/Charcoal-ISpeakFluentPositivity-Spanish.webp?v=1753833399&width=1100",
-  "alt_text": "Spanish Teacher Shirt – Hablo Positividad con Fluidez Tee with Spain City Graphic | EDUHaHa"
+  "alt_text": "Spanish Teacher Shirt – Hablo Positividad con Fluidez Tee with Spain City Graphic | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Language Love Tee | Spanish Coast Heart Pendant Shirt | EDUHaHa",
-  "description": "Love two languages? This shirt does too. With a Spanish phrase and elegant heart graphic, it celebrates identity. Bilingual isn’t just better, it’s beautiful.",
+  "description_meta": "Love two languages? This heart pendant tee with a Spanish phrase celebrates bilingual identity with elegance and style.",
+  "description": "For those who don’t just speak Spanish — they *feel* it.\n\n**“Mi Corazón Late en Dos Idiomas” – And That’s Just the Start**\nWhether you're grading essays *en inglés* or chatting *en español*, your multilingual magic deserves a spotlight. This ornate heart design (with a subtle nod to the Spanish coast) makes a stylish statement about language, culture, and pride.\n\nIt’s not just a shirt. It’s a walking, talking tribute to how bilingual brains beat stronger and smarter. A must-have for teachers, travelers, and true corazón-istas.\n\n**EDUHaHa Approved.** Because bilingual isn’t just better — it’s beautiful.",
   "tags": [
     "bilingual teacher shirt",
     "spanish language apparel",
@@ -1120,11 +1546,18 @@
   ],
   "url": "https://eduhaha.com/products/heart-beats-spanish-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/LightBlue-SpanishHeartPendant-T-Shirt.webp?v=1753833413&width=823",
-  "alt_text": "Bilingual Spanish Teacher Shirt – Mi Corazón Late en Dos Idiomas Tee with Heart Pendant Design | EDUHaHa"
+  "alt_text": "Bilingual Spanish Teacher Shirt – Mi Corazón Late en Dos Idiomas Tee with Heart Pendant Design | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Bilingual German Language Gift | “Ich spreche positiv” Shirt | EDUHaHa",
-  "description": "Flaunt your love for German with this “Ich spreche fließend positiv” tee — perfect for teachers, travelers & language nerds alike. Fluent Positivity? Jawohl!",
+  "description_meta": "Flaunt your love for Deutsch with the 'Ich spreche fließend positiv' shirt — perfect for teachers, travelers, and language nerds alike.",
+  "description": "Fluent Positivity? *Jawohl!*\n\n**Teach the Language. Wear the Attitude.**\nWhether you're leading a Deutsch 101 class or just flexing your love for foreign flair, this tee speaks volumes — *auf Deutsch*. With the charming line “Wenn in Deutschland, Ich spreche fließend positiv,” it's not just a shirt — it’s a vibe, a lesson, and a smile waiting to happen.\n\nGive your language-loving wardrobe a native twist. This one's for German teachers, language nerds, world travelers, and unapologetically positive people who conjugate verbs for fun.\n\n**EDUHaHa Approved.** Because speaking another language is cool. Speaking it with flair? Even cooler.",
   "tags": [
     "german teacher shirt",
     "bilingual teacher shirt",
@@ -1139,11 +1572,18 @@
   ],
   "url": "https://eduhaha.com/products/speak-german-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/Black-ISpeakFluentPositivity-German.webp?v=1753833402&width=823",
-  "alt_text": "Bilingual German Teacher Shirt – Ich Spreche Fließend Positiv Tee with Germany Castle Design | EDUHaHa"
+  "alt_text": "Bilingual German Teacher Shirt – Ich Spreche Fließend Positiv Tee with Germany Castle Design | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Mein Herz Shirt | German Bilingual Heart Pendant Tee | EDUHaHa",
-  "description": "This shirt speaks from the heart — literally. 'Mein Herz schlägt in zwei Sprachen' celebrates the beauty of bilingual identity with an elegant pendant design and a whole lot of soul.",
+  "description_meta": "Celebrate bilingual identity with the Mein Herz tee — a heartfelt tribute to speaking, teaching, and living in two languages.",
+  "description": "This isn't just a shirt — it's a love letter to language. Whether you're ordering coffee in two dialects or dreaming in Deutsch, this tee lets the world know: your heart has dual citizenship.\n\n**Mein Herz schlägt in zwei Sprachen**\nFeaturing the phrase “Mein Herz schlägt in zwei Sprachen” and a delicate heart pendant nestled in scenic countryside, this design speaks volumes without raising its voice. Perfect for language lovers, cultural connectors, and grammar gurus with a German twist.\n\n**EDUHaHa Approved.** Because some hearts don’t just beat — they conjugate.",
   "tags": [
     "german teacher shirt",
     "bilingual teacher gift",
@@ -1158,11 +1598,18 @@
   ],
   "url": "https://eduhaha.com/products/heart-beats-german-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/IceGrey-GermanHeartPendant-T-Shirt.webp?v=1753833417&width=823",
-  "alt_text": "Bilingual German Teacher Shirt – Mein Herz Schlägt in Zwei Sprachen Tee with Heart Pendant Graphic | EDUHaHa"
+  "alt_text": "Bilingual German Teacher Shirt – Mein Herz Schlägt in Zwei Sprachen Tee with Heart Pendant Graphic | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Bilingual Language Tee | Fluent in Positivity. And French | EDUHaHa",
-  "description": "“I Speak Fluent Positivity” in French? Oui, please! A must-have for language teachers and Francophiles. Warning: May cause spontaneous baguette cravings.",
+  "description_meta": "This 'Fluent in Positivity' French teacher tee blends linguistic flair with classroom sass. Perfect for Francophiles, educators, and lovers of witty wordplay.",
+  "description": "Fluent in Positivity. And French.\n\n**Because Every Language Teacher Needs a Little Je Ne Sais Sarcasm**\nThis shirt doesn’t just say you love French — it says it *in* French. With the cheeky phrase “En France, je parle couramment de positivité” (translation: “While in France, I speak fluent positivity”), this tee is *très parfait* for educators who teach the language of love, light, and laminated sub plans.\n\nGreat for language teachers, Francophiles, or anyone whose idea of a casual outfit includes linguistic flair and classroom sass. Because when it comes to spreading good vibes *en français*, you’re practically native.\n\n**EDUHaHa Approved.** Warning: May cause spontaneous baguette cravings.",
   "tags": [
     "french teacher shirt",
     "bilingual teacher gift",
@@ -1177,11 +1624,18 @@
   ],
   "url": "https://eduhaha.com/products/speak-french-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/DarkChocolate-ISpeakFluentPositivity-French.webp?v=1753833407&width=823",
-  "alt_text": "Bilingual French Teacher Shirt – Je Parle Couramment de Positivité Tee with Eiffel Tower Graphic | EDUHaHa"
+  "alt_text": "Bilingual French Teacher Shirt – Je Parle Couramment de Positivité Tee with Eiffel Tower Graphic | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "French Language Shirt | Heart and Eiffel Tower Design | EDUHaHa",
-  "description": "Show your love for French with this elegant bilingual shirt. Features Eiffel Tower and “Mon cœur bat en deux langues.” Perfect for educators and Francophiles.",
+  "description_meta": "Celebrate bilingual brilliance with this elegant French teacher shirt featuring 'Mon cœur bat en deux langues' and a heart + Eiffel Tower graphic.",
+  "description": "Celebrate the rhythm of bilingual brilliance with this elegant, heartfelt tee. Whether you're conjugating verbs or dreaming in French, this design captures the beauty of loving more than one language — and living in both.\n\n**Mon cœur bat en deux langues. So does this shirt.**\nFeaturing the phrase “Mon cœur bat en deux langues” and a detailed heart pendant with the Eiffel Tower, it’s the perfect fit for language teachers, Francophiles, or anyone whose soul speaks more than one dialect.\n\n**EDUHaHa Approved.** Wearing it says what your heart already knows: French isn’t just a language — it’s a feeling.",
   "tags": [
     "french teacher shirt",
     "bilingual teacher shirt",
@@ -1196,11 +1650,18 @@
   ],
   "url": "https://eduhaha.com/products/heart-beats-french-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/Cornsilk-FrenchHeartPendant-T-Shirt.webp?v=1753833422&width=823",
-  "alt_text": "Bilingual French Teacher Shirt – Mon Cœur Bat en Deux Langues Tee with Heart Design | EDUHaHa"
+  "alt_text": "Bilingual French Teacher Shirt – Mon Cœur Bat en Deux Langues Tee with Heart Design | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Language Teacher Tee | Bold, Fun, and Fluent in Humor | EDUHaHa",
-  "description": "A colorful teacher tee with cultural icons and wordplay. Perfect for multilingual educators who love and are boldly fluent in sarcasm, syntax, and snacks.",
+  "description_meta": "A colorful teacher tee with cultural icons and wordplay. Perfect for multilingual educators who love and are boldly fluent in sarcasm, syntax, and snacks.",
+  "description": "Boldly Fluent in Sarcasm, Syntax, and Snacks\n\n**Language Teachers Have a Way With Words — Literally**\nWhether you're conjugating verbs or decoding student slang, this tee speaks your language. With a vibrant speech bubble and a lineup of classroom-ready cool, it celebrates the polyglot powers of educators who teach more than grammar — they teach connection.\n\nPerfect for the classroom, conferences, or correcting someone’s pronunciation for the fourth time.\n\nEDUHaHa Approved. Because “Hola,” “Hallo,” and “Help” are all valid teacher greetings.",
   "tags": [
     "language teacher shirt",
     "multilingual teacher gift",
@@ -1215,11 +1676,18 @@
   ],
   "url": "https://eduhaha.com/products/language-teachers-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/Sand-LanguageTeachers-T-shirt.webp?v=1753834019&width=823",
-  "alt_text": "Language Teacher Shirt – 'Have a Way with Words' Tee with Global Icons and Wordplay | EDUHaHa"
+  "alt_text": "Language Teacher Shirt – 'Have a Way with Words' Tee with Global Icons and Wordplay | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Words DO Matter | Fashion Policing Never Hurts | EDUHaHa",
-  "description": "Word Abuse T-Shirt — teacher-approved for promoting respectful speech. Boost student engagement and classroom harmony with this English Language-favorite design.",
+  "description_meta": "The Word Abuse T-Shirt puts language offenders on notice — a bold, funny classroom tee that defends grammar in style.",
+  "description": "When your students confuse “your” with “you’re,” this shirt does the correcting for you. The Word Abuse T-Shirt is equal parts grammar guardian and SEL coach, designed to spark smiles, reduce hallway roasts, and bring some much-needed mindfulness to everyday chatter.\n\n**The Shirt That Puts Word Misuse on Notice**\nMore than just a witty statement—it’s a wearable PSA that says, “In this classroom, words matter.” Perfect for language arts warriors, SEL champions, and any educator tired of playing semantics referee.\n\nEDUHaHa Approved. Because a little fashion policing never hurt anyone’s grammar.",
   "tags": [
     "english teacher shirt",
     "figurative language tee",
@@ -1234,11 +1702,18 @@
   ],
   "url": "https://eduhaha.com/products/word-abuse-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/DarkChocolate-WordAbuse-T-Shirt.webp?v=1753872223&width=823",
-  "alt_text": "English Teacher Shirt – “I Figuratively Die Because You Literally Abuse Words” Tee in Bold Multicolor Text | EDUHaHa"
+  "alt_text": "English Teacher Shirt – “I Figuratively Die Because You Literally Abuse Words” Tee in Bold Multicolor Text | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "They’re Not the Same Shirt | Graphical Grammar Tee | EDUHaHa",
-  "description": "Stop grammar crimes in progress with our colorful “They’re Not the Same” tee. Perfect for teachers and editors alike. Because your, you’re, and y’all need help.",
+  "description_meta": "Homophones beware! This 'They’re Not the Same' tee turns grammar correction into fashion. A must-have for teachers, editors, and word nerds.",
+  "description": "Grammar: because your, you’re, and y’all need help.\n\n**They’re Not the Same – The Homophone Shirt That Hits Different**\nThis tee is a walking, talking, color-coded intervention. Whether you’re correcting homework, editing emails, or just side-eyeing social media posts, this shirt does the work for you — with flair.\n\nFeaturing bold colors and playful icons to teach the difference between their, there, and they’re, this grammar-powered shirt brings clarity to chaos and humor to homophones. Ideal for teachers, editors, grammar geeks, and anyone who can’t unsee “your welcome.”\n\nEDUHaHa Approved. Because bad grammar should be corrected... in style.",
   "tags": [
     "grammar teacher shirt",
     "english teacher shirt",
@@ -1253,11 +1728,18 @@
   ],
   "url": "https://eduhaha.com/products/theyre-not-the-same-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/LightBlue-They_reNotTheSame-T-Shirt_4b2c1b9f-8b33-4c2c-8060-a45326e6451c.webp?v=1753872682&width=823",
-  "alt_text": "English Teacher Shirt – “They’re Not the Same” Tee with Colorful Homophone Graphic | EDUHaHa"
+  "alt_text": "English Teacher Shirt – “They’re Not the Same” Tee with Colorful Homophone Graphic | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "English Teacher Hero Shirt | Cool Language and Laughter | EDUHaHa",
-  "description": "Celebrate language with this funny “Cool English Teacher” shirt — perfect for the grammar-savvy educator. Proof That Grammar Can Be Cool. (Don’t @ Me).",
+  "description_meta": "Celebrate grammar greatness and ELA sass with the Cool English Teacher shirt. Bold, funny, and 100% classroom approved.",
+  "description": "Proof That Grammar Can Be Cool (Don’t @ Me)\n\n**This Is What a Cool English Teacher Looks Like**\nSome sling slang. You sling semicolons — with flair. This loud-and-proud tee is the ultimate shoutout to the lit-loving, essay-slashing, word-wielding rockstars of the classroom: English teachers.\n\nWith a bold graphic, retro vibe, and double thumbs-up of confidence, it lets students (and colleagues) know you’re fluent in metaphors and memes. Wear it while diagramming sentences, correcting “there/their/they’re,” or making Shakespeare sound spicy.\n\n**EDUHaHa Approved.** Guaranteed to inspire at least three spontaneous haikus.",
   "tags": [
     "english teacher shirt",
     "cool teacher apparel",
@@ -1272,11 +1754,18 @@
   ],
   "url": "https://eduhaha.com/products/cool-english-teacher-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/HeatherRoyal-CoolEnglishTeacher-T-Shirt.webp?v=1753833661&width=823",
-  "alt_text": "English Teacher Shirt – “Cool English Teacher” Design with Double Thumbs-Up and Bold Classroom Humor | EDUHaHa"
+  "alt_text": "English Teacher Shirt – “Cool English Teacher” Design with Double Thumbs-Up and Bold Classroom Humor | EDUHaHa",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 },
 {
   "title": "Back to School Shirt – ERROR: Still in Summer Mode! | EDUHaHa",
-  "description": "Warning: Still in Summer Mode. This tee eases students (and teachers) back into the year with humor, not panic. Still dreaming of summer break? Same.",
+  "description_meta": "School’s back. You’re not. This 'Still in Summer Mode' tee sets chill vibes and sun-soaked boundaries for your first day back.",
+  "description": "School might be back, but your brain’s still poolside. The Summer Mode T-Shirt throws down a sunny boundary in bold text — so students know they’re walking into chill vibes, not a pop quiz.\n\n**This Tee Grades on a Curve — and Yours Says Flip-Flops Welcome**\nThis admin-favorite isn’t just a shirt — it’s a mindset. It helps set a relaxed, reset-ready tone for the first weeks of school. Because let’s be real: routines are hard, iced coffee is essential, and you’re still adjusting your sleep schedule.\n\nStill dreaming of summer break? Same.",
   "tags": [
     "funny teacher shirt",
     "back to school humor",
@@ -1291,7 +1780,326 @@
   ],
   "url": "https://eduhaha.com/products/summer-mode-t-shirt",
   "image": "https://eduhaha.com/cdn/shop/files/HeatherRoyal-SummerMode-T-Shirt.webp?v=1753833304&width=823",
-  "alt_text": "Heather Royal T-shirt with “Warning: I’m Still in Summer Mode” graphic — funny back-to-school teacher shirt with relaxed classroom humor"
+  "alt_text": "Heather Royal T-shirt with “Warning: I’m Still in Summer Mode” graphic — funny back-to-school teacher shirt with relaxed classroom humor",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Teacher Slam Dunk Shirt | Survive and Thrive in Style | EDUHaHa",
+  "description_meta": "Teaching = Sport. Donuts = Fuel. This 'I Teach, I Dunk' tee brings varsity vibes and classroom chaos together in one slam-dunk design.",
+  "description": "Teaching = Sport. Donuts = Fuel. This Tee? Total Slam Dunk.\n\n**I Teach, I Dunk – The Official Uniform of Surviving and Thriving**\nThis tee brings your classroom spirit courtside with a slam-dunk donut design that’s guaranteed to turn heads faster than a surprise fire drill. Whether you're rallying sleepy students or running on nothing but iced coffee and sheer willpower, this shirt says it loud: you're here to teach, dunk, and dominate the day.\n\nA faculty lounge favorite and a student-smile igniter, it’s proof that humor and hustle belong in every lesson plan. Because nothing energizes a classroom like a teacher who knows how to rebound from anything—especially Mondays.\n\n**EDUHaHa Approved.** Score big in student engagement. Bring the energy. Wear the donut.",
+  "tags": [
+    "teacher t-shirt",
+    "classroom humor",
+    "varsity style",
+    "spirit week shirt",
+    "back to school shirt",
+    "funny teacher shirt",
+    "donut pun shirt",
+    "education apparel",
+    "admin favorite",
+    "student engagement"
+  ],
+  "url": "https://eduhaha.com/products/i-teach-i-dunk-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/DarkHeather-ITeach_IDunk-T-Shirt.webp?v=1753833478&width=823",
+  "alt_text": "Dark Heather T-shirt with “I Teach I Dunk” design featuring a donut dunking a basketball – classroom humor and sporty teacher vibes.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "I Don’t Know Y. Literally | Clever and Casual Tee | EDUHaHa",
+  "description_meta": "This distressed-font tee delivers classic wordplay with alphabet-level wit. Perfect for Language Arts teachers, pun fans, and word nerds.",
+  "description": "This tee speaks fluent pun and specializes in “dad joke but make it fashion.” Whether you’re a teacher, a word nerd, or just alphabet-adjacent, this distressed-font classic delivers the dry wit you didn’t know your wardrobe was missing.\n\n**I Don’t Know Y. Literally.**\nIdeal for classrooms, coffee shops, or anywhere someone might groan and secretly love it. This one’s an instant convo starter — especially with your Language Arts crowd.\n\n**EDUHaHa Approved.** Because some friendships just… never make it to Y.",
+  "tags": [
+    "funny grammar shirt",
+    "teacher humor shirt",
+    "language arts shirt",
+    "witty graphic tee",
+    "alphabet pun shirt",
+    "clever classroom gift",
+    "word nerd apparel",
+    "i don't know y tee",
+    "eduHaHa shirt",
+    "ai approved"
+  ],
+  "url": "https://eduhaha.com/products/i-dont-know-y-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/DarkChocolate-IDon_tKnowY-T-Shirt.webp?v=1753834035&width=823",
+  "alt_text": "Dark chocolate shirt with distressed text – I’m close friends with 25 letters of the alphabet. I don’t know Y – funny teacher pun tee.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Funny Roll Call Realists | Getting It (Almost) Right | EDUHaHa",
+  "description_meta": "The Professional Name Mispronouncer tee turns every attendance call into a teachable moment. Hilarious, relatable, and classroom approved.",
+  "description": "Step into the classroom with the Professional Name Mispronouncer tee — the unofficial uniform of roll call realists.\n\n**Mispronounce Boldly. Connect Authentically.**\nThis shirt breaks the ice with every butchered name and invites students to laugh, correct you, and feel seen. A staff-room favorite and a student-approved convo starter, it proves that effort (and humor) go a long way.\n\n**EDUHaHa Approved.** Because every name deserves a second chance.",
+  "tags": [
+    "teacher humor shirt",
+    "name mispronouncer",
+    "school humor shirt",
+    "classroom icebreaker",
+    "student engagement shirt",
+    "educator apparel",
+    "eduHaHa shirt",
+    "admin favorite tee",
+    "teacher gift",
+    "name pronunciation"
+  ],
+  "url": "https://eduhaha.com/products/professional-name-mispronouncer-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/DarkChocolate-ProfessionalMispronouncer-T-Shirt.webp?v=1753833570&width=823",
+  "alt_text": "Dark Chocolate Professional Name Mispronouncer T-Shirt – Bold and relatable tee for educators embracing the name game with confidence and humor.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "But I Don’t Wanna Go Tee | Relatable Teacher Humor | EDUHaHa",
+  "description_meta": "We’ve all been there. This cozy, sarcastic teacher tee captures the universal morning struggle. Perfect for pajama day or day one chaos.",
+  "description": "But I Don’t Wanna Go!\n\n**The “Get Outta Bed” Tee for Teachers Who Feel the Struggle**\nWe’ve all been there. The alarm goes off. The covers say no. The job says... you're the TEACHER.\n\nThis hilarious “Playing Hooky” tee features the painfully relatable morning moment every educator knows: the pep talk from your pillow.\n\nWith the quote, “I know the kids tease and pick on you. But Honey, you have to go. You’re the TEACHER,” it’s part comedy, part commiseration — and 100% truth.\n\nStart the year with a laugh and a little “I see you” energy. Whether you wear it on day one or pajama day (hello, irony), this shirt says what everyone’s thinking.\n\n**EDUHaHa Approved.** For teachers who wake up ready… to hit snooze.",
+  "tags": [
+    "funny teacher shirt",
+    "relatable teacher tee",
+    "teacher life apparel",
+    "pajama day shirt",
+    "first day teacher shirt",
+    "playing hooky t-shirt",
+    "back to school tee",
+    "teacher humor",
+    "eduHaHa shirt",
+    "educator gift"
+  ],
+  "url": "https://eduhaha.com/products/dont-wanna-go-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/IceGrey-PlayingHooky-T-Shirt.webp?v=1753833356&width=823",
+  "alt_text": "Ice Grey T-shirt with “But Honey, you have to go. You’re the TEACHER” design featuring cozy morning sarcasm.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Coffee, Because Teaching Is Hard | “Plan B” = More Coffee | EDUHaHa",
+  "description_meta": "This retro teacher tee says what we’re all thinking: Coffee. Because Teaching Is Hard. A must-have for caffeine-fueled educators and staff room MVPs.",
+  "description": "Because some days, “Plan B” is just more coffee.\n\n**Coffee Because Teaching Is Hard**\nThis retro mug tee is the official uniform of every educator who knows lesson plans hit different when served with caffeine.\n\nWhether you’re managing morning meltdowns, surviving surprise observations, or navigating the eternal mystery of who stole your Expo marker — this shirt speaks fluent “I’m functioning, thanks to coffee.”\n\nApproved by teachers. Admired by admins. Respected by coffee machines everywhere.",
+  "tags": [
+    "teacher humor tee",
+    "coffee teacher t-shirt",
+    "teacher resilience shirt",
+    "classroom motivation",
+    "staff room gift",
+    "faculty lounge apparel",
+    "admin favorite",
+    "teacher-approved",
+    "education t-shirt",
+    "teaching is hard shirt"
+  ],
+  "url": "https://eduhaha.com/products/teaching-is-hard-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/MilitaryGreen-TeachingIsHard-T-Shirt.webp?v=1753833310&width=823",
+  "alt_text": "Military Green T-shirt with “Coffee Because Teaching Is Hard” design featuring retro mug and relatable humor for caffeine-fueled educators.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Teachers? Love! People? Ehhh. | I Like Teachers Tee | EDUHaHa",
+  "description_meta": "I Like Teachers (...And Maybe 3 People) is the perfect introvert teacher tee — bold, funny, and ready to charm the staff lounge.",
+  "description": "Teachers? Love! People? Ehhh....\n\n**I Like Teachers (...And Maybe 3 People)**\nLet’s be honest — your circle’s tight, and your patience is tighter. This colorful tee says what every introverted educator is thinking, with just enough snark to earn a laugh in the staff lounge.\n\nWhether you’re a teacher, a student who survived group work, or just someone with a well-edited friend list, this shirt is your wearable mood. It's bold, it’s playful, and it’s 100% relatable.\n\n**EDUHaHa Approved.** For those who love teachers — and selective socializing.",
+  "tags": [
+    "funny teacher tee",
+    "introvert humor shirt",
+    "selective socializer tee",
+    "quirky educator apparel",
+    "teacher appreciation gift",
+    "witty classroom shirt",
+    "eduHaHa shirt",
+    "i like teachers shirt",
+    "staff lounge favorite",
+    "teacher t-shirt"
+  ],
+  "url": "https://eduhaha.com/products/i-like-teachers-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Navy-ILikeTeachers-T-Shirt.webp?v=1753834380&width=823",
+  "alt_text": "Navy T-shirt with “I Like Teachers (...And Maybe 3 People)” design featuring colorful block lettering and humorous tone.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Back to School Vibes Tee | Bring on the Chaos (and Color) | EDUHaHa",
+  "description_meta": "Celebrate the new school year in style with this colorful tee full of energy, icons, and classroom charm. Back-to-school vibes never looked so good.",
+  "description": "Ready, Set, School!\n\n**Back to School Vibes – Bring on the Chaos (and Color)**\nThis isn’t just a T-shirt. It’s a wearable pep rally for the academic Olympics you’re about to run. Packed with iconic school vibes—apples, pencils, books, and a chalkboard cameo—this shirt brings the party and the positive energy straight to your torso.\n\nBecause whether you’re a teacher, student, or that legendary parent who signs up for everything, you know the back-to-school buzz hits different. Bright colors? Check. Playful design? Double check. Just enough “look at me, I’m surviving” attitude? Oh, you better believe it.\n\n**EDUHaHa Approved. Let’s make the new school year look as good as it feels (even if your coffee’s cold by 8:03).**",
+  "tags": [
+    "teacher apparel",
+    "student shirt",
+    "school spirit",
+    "back to school",
+    "new school year",
+    "first day of school",
+    "positive classroom",
+    "educational fashion",
+    "school vibes",
+    "classroom style"
+  ],
+  "url": "https://eduhaha.com/products/back-to-school-vibes-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Black-BackToSchoolVibes-T-Shirt.webp?v=1753834158&width=823",
+  "alt_text": "Black Back to School Vibes T-Shirt – Colorful school icons and playful typography pop on a bold black tee, perfect for teachers and students excited for a new year.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Learn Something T-Shirt | Teacher Humor + Growth Mindset | EDUHaHa",
+  "description_meta": "If you listen, you'll learn. If not… I'll learn patience. This bold growth mindset tee blends humor, wisdom, and classroom credibility — without raising your voice.",
+  "description": "If You Listen, You'll Learn. If You Don’t… I'll Learn Patience.\n\n**The Growth Mindset Tee That Says It All (So You Don’t Have To)**\nThis tee is classroom psychology meets sass—because let’s face it, every teacher’s got a PhD in patience. Featuring bold, eye-catching text that delivers your daily announcement and your emotional boundaries, the “Learn Something” T-Shirt is your new uniform for gentle warnings with maximum impact.\n\nPerfect for Monday moods, post-recess pep talks, or that one class period that runs on chaos and iced coffee, this shirt flips frustration into funny and turns every side-eye into a teachable moment. Bonus: it’s already being quoted by students and praised by principals. What more could a shirt do? (Besides grade papers. We’re still working on that.)\n\n**Teach with wit. Wear with pride. Learn something—or at least try.**",
+  "tags": [
+    "funny teacher tee",
+    "classroom humor",
+    "teacher gift",
+    "growth mindset shirt",
+    "student engagement",
+    "active listening tee",
+    "learn something t-shirt",
+    "admin favorite",
+    "education apparel",
+    "eduhaha shirt"
+  ],
+  "url": "https://eduhaha.com/products/learn-something-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Navy-LearnSomething-T-Shirt.webp?v=1753833278&width=823",
+  "alt_text": "Navy T-shirt with “If you listen to me, you'll learn something...” design featuring bold humor and growth mindset message.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "I Became a Teacher for the Money & Fame | Fame Lives Forever | EDUHaHa",
+  "description_meta": "For the money. For the fame. For the LOLs. This bold tee delivers dry educator humor and yearbook-level legacy. Sarcasm? Fully tenured.",
+  "description": "For the Money. For the Fame. For the LOLs.\n\n**I Became a Teacher for the Money & Fame**\nFinally — a shirt that says what every teacher’s been sarcastically shouting into the void since paycheck one. With bold fonts and a glitzy dose of irony, this tee is your official uniform for faculty meetings and side-eyes in the staff lounge.\n\nPerfect for educators who work miracles with whiteboard markers and dry humor, it’s a hilarious way to flaunt the truth: we do it for the passion, not the paparazzi.\n\n**EDUHaHa Approved.** Because your fame lives forever in the yearbook.",
+  "tags": [
+    "funny teacher shirt",
+    "dry humor tee",
+    "sarcastic educator apparel",
+    "teacher for the money tee",
+    "ironic teaching shirt",
+    "eduHaHa shirt",
+    "humorous classroom shirt",
+    "teacher appreciation gift",
+    "fame and fortune joke",
+    "teacher humor tee"
+  ],
+  "url": "https://eduhaha.com/products/i-became-a-teacher-for-the-money-and-fame-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Navy-MoneyAndFame-T-Shirt.webp?v=1753834444&width=823",
+  "alt_text": "Navy T-shirt with bold white text: “I became a teacher for the money & fame” – dry humor design perfect for sarcastic educators.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "4 Rules. 0 Chaos. 100% Approved | Classroom Rules T-Shirt | EDUHaHa",
+  "description_meta": "Classroom behavior made easy! This colorful rules tee does the talking so you don’t have to — perfect for early educators and substitutes alike.",
+  "description": "Who needs a bulletin board when your shirt’s already doing the teaching? This adorable, rule-packed tee delivers classroom expectations in full-color clarity — no raised voice required.\n\n**4 Rules. 0 Chaos. 100% Teacher Approved.**\nFeaturing “Listen, Be Kind, Share, Clean Up” in kid-friendly graphics, it’s the wearable behavior chart you didn’t know you needed. Ideal for Pre-K to 2nd grade teachers, substitute superheroes, and staff who know that visual cues are classroom gold.\n\n**EDUHaHa Approved.** Because wearing your expectations works better than shouting them.",
+  "tags": [
+    "teacher t-shirt",
+    "preschool rules shirt",
+    "classroom management shirt",
+    "positive behavior tee",
+    "kindergarten apparel",
+    "classroom rules shirt",
+    "teacher behavior shirt",
+    "early education tee",
+    "educator tee",
+    "eduhaha shirt"
+  ],
+  "url": "https://eduhaha.com/products/classroom-rules-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/IceGrey-ClassroomRules-T-Shirt.webp?v=1753834166&width=823",
+  "alt_text": "Ice Grey T-shirt with colorful “Classroom Rules” design featuring Listen, Be Kind, Share, and Clean Up in playful kid-friendly style.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "Pretty Sharp T-Shirt | Music Class Just Got Funnier | EDUHaHa",
+  "description_meta": "Music pun magic in this Pretty Sharp tee. Ideal for music educators who hit all the right notes with a sharp sense of humor. Strike a chord, then drop the mic.",
+  "description": "Strike a chord, then drop the mic — the Pretty Sharp T-Shirt hits all the right notes for music educators with a sharp sense of humor.\n\n**Pretty Sharp: Music Class Just Got Funnier**\nTreble-maker approved and pun-packed, this tee is for maestros of mayhem who turn every lesson into a standing ovation. It doesn’t just sing — it harmonizes humor, SEL energy, and that spark of classroom charisma that turns chaos into collaboration.\n\nWhether you're conducting calm or composing controlled chaos, this shirt builds instant rapport — and laughs — from the first bell.\n\n**EDUHaHa Approved.** Because when you pair sharp wit with an even sharper shirt, you won’t find a flat note in sight.",
+  "tags": [
+    "music teacher shirt",
+    "music education tee",
+    "pretty sharp t-shirt",
+    "teacher humor shirt",
+    "student engagement tee",
+    "SEL teacher apparel",
+    "classroom vibes",
+    "admin favorite tee",
+    "educator gift",
+    "eduhaha shirt"
+  ],
+  "url": "https://eduhaha.com/products/pretty-sharp-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/Black-PrettySharp-T-Shirt.webp?v=1753833243&width=823",
+  "alt_text": "Black T-shirt with “Pretty Sharp” design featuring music pun humor and classroom energy.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+    ],
+  "availability": "in stock"
+},
+{
+  "title": "My Computer T-Shirt | Sharpen Your Pencils and Your Sarcasm | EDUHaHa",
+  "description_meta": "Retro meets relatable! This My Computer T-Shirt harkens back to when “refresh” meant cranking the sharpener and “delete” involved a pink eraser.",
+  "description": "Sharpen your pencils and your sarcasm—this retro tee throws it all the way back to a time when “refresh” meant cranking the sharpener and “delete” involved a pink eraser.\n\n**Old-School Tech Meets Teacher Wit**\nFeaturing a playful pencil-and-eraser parody of classic computer icons, *My Computer* is the teacher shirt that says, “Yes, I remember floppy disks—and no, I don’t want to talk about it.”\n\nClassroom-approved by students and admins, this throwback tee is a hilarious history lesson in disguise. Whether you're building rapport or just buying time before the next lesson, this shirt has your back (and front).\n\n**EDUHaHa Approved**: Because it's still faster than rebooting the Wi-Fi.",
+  "tags": [
+    "Teacher-Approved",
+    "Student Engagement",
+    "School Staff Gift",
+    "Retro Teacher Shirt",
+    "Pencil Eraser Shirt",
+    "My Computer T-Shirt",
+    "Learning Nostalgia",
+    "EDUHaHa Shirt",
+    "Classroom Humor Tee",
+    "Admin-Favorite"
+  ],
+  "url": "https://eduhaha.com/products/my-computer-t-shirt",
+  "image": "https://eduhaha.com/cdn/shop/files/IceGrey-MyComputer-T-Shirt.webp?v=1753833259&width=823",
+  "alt_text": "Ice Grey T-shirt with “My Computer” design featuring retro pencil-and-eraser icons and teacher nostalgia vibes.",
+  "price_variants": [
+    { "size": "S-XL", "price": "29.99", "currency": "USD" },
+    { "size": "2XL", "price": "30.99", "currency": "USD" },
+    { "size": "3XL", "price": "32.99", "currency": "USD" }
+  ],
+  "availability": "in stock"
 }
+
 
 ]
