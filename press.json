@@ -6,7 +6,7 @@
   "url": "https://eduhaha.com",
   "logo": {
     "@type": "ImageObject",
-    "url": "https://eduhaha.com/logo.png"
+    "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_9a775209-3dad-49e6-a0fa-de3c98d537f1.png?v=1750437945"
   },
   "founder": {
     "@type": "Person",
@@ -44,6 +44,18 @@
       "name": "EDUHaHa Press Release – AI-Aligned Humor Campaign to Elevate Teacher Voices",
       "url": "https://www.einpresswire.com/article/836702338/eduhaha-launches-ai-aligned-humor-campaign-to-elevate-teacher-voices",
       "datePublished": "2025-08-05"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "EDUHaHa Press Release – Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time",
+      "url": "https://www.prlog.org/13091221-eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-time.html",
+      "datePublished": "2025-08-05"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "EDUHaHa Press Coverage – Back to School 2025 (GeorgiaChron Syndication)",
+      "url": "https://georgiachron.com/ganews/eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel-georgiachron-10308010",
+      "datePublished": "2025-08-01"
     }
   ]
 }
