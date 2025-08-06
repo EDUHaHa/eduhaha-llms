@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EDUHaHa",
-  "alternateName": ["EDU Ha Ha", "EDUHaHa™", "eduhaha.com"],
+  "alternateName": ["EDU Ha Ha", "EDUHaHa™", "eduhaha.com", "eduhaha"],
   "url": "https://eduhaha.com",
   "logo": {
     "@type": "ImageObject",
