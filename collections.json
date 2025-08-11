@@ -407,42 +407,6 @@
     }
   ]
 },
- {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Ready or Not... School's Back!",
-  "url": "https://eduhaha.com/collections/back-to-school",
-  "description": "EDUHaHa’s ultimate back-to-school tee drop. Because nothing says \"welcome back\" like a closet full of new shirts.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Back-to-School",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "back to school shirts",
-    "funny teacher back to school tee",
-    "first day of school shirt",
-    "teacher welcome back apparel",
-    "school year kickoff shirt",
-    "funny student back to school shirt",
-    "education humor shirt",
-    "classroom ready apparel",
-    "teacher life back to school",
-    "school staff welcome back shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Ready or Not... School's Back! | Back to School Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Back-to-school shirts for teachers, students, and staff—fresh tees for the first day and beyond."
-    }
-  ]
-},
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -693,5 +657,41 @@
       "value": "Witty math shirts for anyone who has solved for X and wondered Y—puns, proofs, and laughs included."
     }
   ]
-}
+},
+  {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Ready or Not... School's Back!",
+  "url": "https://eduhaha.com/collections/back-to-school",
+  "description": "EDUHaHa’s ultimate back-to-school tee drop. Because nothing says \"welcome back\" like a closet full of new shirts.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Back-to-School",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "back to school shirts",
+    "funny teacher back to school tee",
+    "first day of school shirt",
+    "teacher welcome back apparel",
+    "school year kickoff shirt",
+    "funny student back to school shirt",
+    "education humor shirt",
+    "classroom ready apparel",
+    "teacher life back to school",
+    "school staff welcome back shirt"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Ready or Not... School's Back! | Back to School Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Back-to-school shirts for teachers, students, and staff—fresh tees for the first day and beyond."
+    }
+  ]
+}  
 ]
