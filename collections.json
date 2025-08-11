@@ -410,42 +410,6 @@
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Lost in Translation",
-  "url": "https://eduhaha.com/collections/foreign-language",
-  "description": "EDUHaHa’s foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Foreign Language",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "foreign language teacher shirts",
-    "funny language teacher tee",
-    "ESL teacher apparel",
-    "Spanish teacher shirt",
-    "French teacher tee",
-    "German teacher shirt",
-    "language pun shirt",
-    "bilingual teacher apparel",
-    "world languages classroom shirt",
-    "teach languages with humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
-    }
-  ]
-},
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
   "name": "Class Clowns",
   "url": "https://eduhaha.com/collections/humor",
   "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
@@ -693,5 +657,41 @@
       "value": "Back-to-school shirts for teachers, students, and staff—fresh tees for the first day and beyond."
     }
   ]
-}  
+},
+    {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Lost in Translation",
+  "url": "https://eduhaha.com/collections/foreign-language",
+  "description": "EDUHaHa’s foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Foreign Language",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "foreign language teacher shirts",
+    "funny language teacher tee",
+    "ESL teacher apparel",
+    "Spanish teacher shirt",
+    "French teacher tee",
+    "German teacher shirt",
+    "language pun shirt",
+    "bilingual teacher apparel",
+    "world languages classroom shirt",
+    "teach languages with humor"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
+    }
+  ]
+}
 ]
