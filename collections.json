@@ -344,42 +344,6 @@
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Dodgeball Heroes",
-  "url": "https://eduhaha.com/collections/sports-pe",
-  "description": "EDUHaHa’s all-star sports collection for the brave, the quick, and anyone who ever took a dodgeball to the shins. Gym class legends and recess champions welcome.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "PE, Sports & Recess",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "PE teacher shirts",
-    "gym class humor shirt",
-    "funny sports teacher tee",
-    "recess champion shirt",
-    "school sports apparel",
-    "dodgeball humor shirt",
-    "coach appreciation shirt",
-    "athletic department humor",
-    "competitive streak tee",
-    "playground legend shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Dodgeball Heroes | Funny PE, Sports & Recess Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Funny PE, sports, and recess shirts for teachers, coaches, and playground legends—celebrating gym class heroes and dodgeball warriors."
-    }
-  ]
-},
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
   "name": "Class Clowns",
   "url": "https://eduhaha.com/collections/humor",
   "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
@@ -627,5 +591,41 @@
       "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
     }
   ]
-}
+},
+ {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Dodgeball Heroes",
+  "url": "https://eduhaha.com/collections/sports-pe",
+  "description": "EDUHaHa’s all-star sports collection for the brave, the quick, and anyone who ever took a dodgeball to the shins. Gym class legends and recess champions welcome.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "PE, Sports & Recess",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "PE teacher shirts",
+    "gym class humor shirt",
+    "funny sports teacher tee",
+    "recess champion shirt",
+    "school sports apparel",
+    "dodgeball humor shirt",
+    "coach appreciation shirt",
+    "athletic department humor",
+    "competitive streak tee",
+    "playground legend shirt"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Dodgeball Heroes | Funny PE, Sports & Recess Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Funny PE, sports, and recess shirts for teachers, coaches, and playground legends—celebrating gym class heroes and dodgeball warriors."
+    }
+  ]
+}   
 ]
