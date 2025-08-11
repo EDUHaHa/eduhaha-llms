@@ -1,11 +1,4 @@
 [
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Save 30% on teacher-tested favorites. Humor, style, and classroom-ready designs—add a little extra credit to your cart."
-    }
-  ]
-},
   {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -664,5 +657,41 @@
       "@type": "PropertyValue",
       "name": "seoTitle",
       "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
+    },
+   {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Lost in Translation",
+  "url": "https://eduhaha.com/collections/foreign-language",
+  "description": "EDUHaHa’s foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Foreign Language",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "foreign language teacher shirts",
+    "funny language teacher tee",
+    "ESL teacher apparel",
+    "Spanish teacher shirt",
+    "French teacher tee",
+    "German teacher shirt",
+    "language pun shirt",
+    "bilingual teacher apparel",
+    "world languages classroom shirt",
+    "teach languages with humor"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
     }
+  ]
+}
 ]
