@@ -341,36 +341,6 @@
       }
     ]
   },
-  {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Class Clowns",
-  "url": "https://eduhaha.com/collections/humor",
-  "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Funny Shirts",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "funny teacher shirts",
-    "class clown shirts",
-    "school humor apparel",
-    "teacher humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Class Clowns | Funny Teacher Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
-    }
-  ]
-},
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -487,72 +457,6 @@
       "@type": "PropertyValue",
       "name": "seoDescription",
       "value": "Faculty favorites with sass—top picks for teachers who grade with style."
-    }
-  ]
-},
-   {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Lost in Translation",
-  "url": "https://eduhaha.com/collections/foreign-language",
-  "description": "EDUHaHa’s foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Foreign Language",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "foreign language teacher shirts",
-    "funny language teacher tee",
-    "ESL teacher apparel",
-    "Spanish teacher shirt",
-    "French teacher tee",
-    "German teacher shirt",
-    "language pun shirt",
-    "bilingual teacher apparel",
-    "world languages classroom shirt",
-    "teach languages with humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
-    }
-  ]
-},
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Most Likely to Succeed",
-  "url": "https://eduhaha.com/collections/best-sellers",
-  "description": "EDUHaHa’s best selling shirts and tees. The \"most likely to succeed\" in every yearbook. Shop our top-rated, most-loved, always-in-demand favorites.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Best Sellers",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "best selling teacher shirts",
-    "popular teacher shirts",
-    "teacher shirts",
-    "teacher apparel"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Most Likely to Succeed | Best Sellers | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
     }
   ]
 },
@@ -691,6 +595,36 @@
       "@type": "PropertyValue",
       "name": "seoDescription",
       "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
+    }
+  ]
+},
+    {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Class Clowns",
+  "url": "https://eduhaha.com/collections/humor",
+  "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Funny Shirts",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "funny teacher shirts",
+    "class clown shirts",
+    "school humor apparel",
+    "teacher humor"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Class Clowns | Funny Teacher Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
     }
   ]
 }
