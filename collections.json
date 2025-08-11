@@ -604,5 +604,107 @@
         "value": "Funny PE, sports, and recess shirts for teachers, coaches, and playground legends—celebrating gym class heroes and dodgeball warriors."
       }
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Coloring Outside the Lines",
+    "url": "https://eduhaha.com/collections/art",
+    "description": "EDUHaHa's art shirts and creative teacher tees for every educator who believes in coloring outside the lines. From art teachers to accidental finger-painters, this collection's for anyone who makes a mess on purpose.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Art",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "art teacher shirts",
+      "creative classroom apparel",
+      "funny art teacher tee",
+      "paint splatter shirt",
+      "art class humor",
+      "elementary art teacher gift",
+      "drawing and painting shirt",
+      "creative educator apparel",
+      "coloring outside the lines shirt",
+      "crafty teacher tee"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Coloring Outside the Lines | Art Teacher T-Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Art teacher shirts and creative tees—paint splatters, puns, and classroom color for those who make a mess on purpose."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Break Time Bliss",
+    "url": "https://eduhaha.com/collections/school-breaks",
+    "description": "EDUHaHa's getaway collection for every kind of break—summer, winter, or that sacred single federal holiday circled in red. For educators who know recess isn't just for kids.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "School Breaks",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "teacher vacation shirts",
+      "funny teacher break shirt",
+      "summer break teacher tee",
+      "winter break teacher apparel",
+      "spring break educator shirt",
+      "teacher out of office shirt",
+      "recess isn't just for kids shirt",
+      "teacher getaway apparel",
+      "holiday break teacher shirt",
+      "teacher relaxation shirt"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Break Time Bliss | Teacher Vacation & Holiday Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Vacation and holiday shirts for teachers—funny, relaxing, and ready for summer, winter, spring, or any well-earned break."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Most Likely to Succeed",
+    "url": "https://eduhaha.com/collections/best-sellers",
+    "description": "EDUHaHa's best selling shirts and tees. The \"most likely to succeed\" in every yearbook. Shop our top-rated, most-loved, always-in-demand favorites.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Best Sellers",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "best selling teacher shirts",
+      "popular teacher shirts",
+      "teacher shirts",
+      "teacher apparel"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Most Likely to Succeed | Best Sellers | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
+      }
+    ]
   }
 ]
