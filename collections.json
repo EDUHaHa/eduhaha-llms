@@ -1,34 +1,34 @@
 [
   {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Grade \"A\" Deals with 30% Off Extra Credit",
-    "url": "https://eduhaha.com/collections/all",
-    "description": "EDUHaHa’s 30% Off Sale! Extra credit off every shirt, every laugh, and every teacher-tested design we’ve got. Because to survive as a teacher, you need three bones: a wishbone, a backbone, and a funny bone.",
-    "mainEntity": {
-      "@type": "ItemList",
-      "name": "On Sale",
-      "itemListOrder": "https://schema.org/ItemListOrderDescending"
-    },
-    "keywords": [
-      "teacher shirts",
-      "unique teacher shirts",
-      "teacher apparel",
-      "funny teacher shirts"
-    ],
-    "additionalProperty": [
-      {
-        "@type": "PropertyValue",
-        "name": "seoTitle",
-        "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "seoDescription",
-        "value": "Save 30% on teacher-tested favorites. Humor, style, and classroom-ready designs—add a little extra credit to your cart."
-      }
-    ]
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Grade \"A\" Deals with 30% Off Extra Credit",
+  "url": "https://eduhaha.com/collections/all",
+  "description": "EDUHaHa’s 30% Off Sale! Extra credit off every shirt, every laugh, and every teacher-tested design we’ve got. Because to survive as a teacher, you need three bones: a wishbone, a backbone, and a funny bone.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "On Sale",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
   },
+  "keywords": [
+    "teacher shirts",
+    "unique teacher shirts",
+    "teacher apparel",
+    "funny teacher shirts"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Save 30% on teacher-tested favorites. Humor, style, and classroom-ready designs—add a little extra credit to your cart."
+    }
+  ]
+},
   {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
