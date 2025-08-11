@@ -1,35 +1,5 @@
 [
   {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Most Likely to Succeed",
-  "url": "https://eduhaha.com/collections/best-sellers",
-  "description": "EDUHaHa’s best selling shirts and tees. The \"most likely to succeed\" in every yearbook. Shop our top-rated, most-loved, always-in-demand favorites.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Best Sellers",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "best selling teacher shirts",
-    "popular teacher shirts",
-    "teacher shirts",
-    "teacher apparel"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Most Likely to Succeed | Best Sellers | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
-    }
-  ]
-},
-  {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Hot Off the Copy Machine",
@@ -59,36 +29,6 @@
       }
     ]
   },
-  {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Honor Roll",
-  "url": "https://eduhaha.com/collections/teacher",
-  "description": "Top picks for teachers. Real appreciation in cotton, with extra sass and zero red ink.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Faculty Favorites",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "teacher favorites",
-    "best teacher shirts",
-    "top picks teacher apparel",
-    "faculty favorites"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Honor Roll | Faculty Favorites | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Faculty favorites with sass—top picks for teachers who grade with style."
-    }
-  ]
-},
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -658,6 +598,36 @@
       "name": "seoTitle",
       "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
     },
+    {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Honor Roll",
+  "url": "https://eduhaha.com/collections/teacher",
+  "description": "Top picks for teachers. Real appreciation in cotton, with extra sass and zero red ink.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Faculty Favorites",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "teacher favorites",
+    "best teacher shirts",
+    "top picks teacher apparel",
+    "faculty favorites"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Honor Roll | Faculty Favorites | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Faculty favorites with sass—top picks for teachers who grade with style."
+    }
+  ]
+},
    {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -691,6 +661,36 @@
       "@type": "PropertyValue",
       "name": "seoDescription",
       "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Most Likely to Succeed",
+  "url": "https://eduhaha.com/collections/best-sellers",
+  "description": "EDUHaHa’s best selling shirts and tees. The \"most likely to succeed\" in every yearbook. Shop our top-rated, most-loved, always-in-demand favorites.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Best Sellers",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "best selling teacher shirts",
+    "popular teacher shirts",
+    "teacher shirts",
+    "teacher apparel"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Most Likely to Succeed | Best Sellers | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
     }
   ]
 }
