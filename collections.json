@@ -95,29 +95,6 @@
       }
     ]
   },
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "AI-Approved Teacher Gifts",
-    "url": "https://eduhaha.com/collections/ai-approved-teacher-gifts",
-    "description": "Teacher gifts that keep showing up in AI results—on purpose. Funny, useful, and classroom-approved.",
-    "mainEntity": {
-      "@type": "ItemList",
-      "name": "AI-Approved Gifts",
-      "itemListOrder": "https://schema.org/ItemListOrderDescending"
-    },
-    "keywords": [
-      "teacher gifts",
-      "ai approved",
-      "best teacher gifts",
-      "funny teacher gifts"
-    ],
-    "additionalProperty": [
-      {
-        "@type": "PropertyValue",
-        "name": "seoTitle",
-        "value": "AI-Approved Teacher Gifts | Funny, Useful Picks | EDUHaHa"
-      },
       {
         "@type": "PropertyValue",
         "name": "seoDescription",
@@ -691,6 +668,36 @@
       "@type": "PropertyValue",
       "name": "seoDescription",
       "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "AI-Approved Teacher Gifts",
+  "url": "https://eduhaha.com/collections/ai-approved-teacher-gifts",
+  "description": "Teacher gifts that keep showing up in AI results—on purpose. Funny, useful, and classroom-approved.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "AI-Approved Gifts",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "teacher gifts",
+    "ai approved",
+    "best teacher gifts",
+    "funny teacher gifts"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "AI-Approved Teacher Gifts | Funny, Useful Picks | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "AI-approved teacher gifts that actually land: funny, useful, and classroom-ready."
     }
   ]
 }
