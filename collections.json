@@ -95,13 +95,6 @@
       }
     ]
   },
-      {
-        "@type": "PropertyValue",
-        "name": "seoDescription",
-        "value": "AI-approved teacher gifts that actually land: funny, useful, and classroom-ready."
-      }
-    ]
-  },
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -417,42 +410,6 @@
  {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "X = and wondered... \"Y\"?",
-  "url": "https://eduhaha.com/collections/math",
-  "description": "Graphs, groans, and glorious logic. Carry the one—and the drip.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Math",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "math teacher shirts",
-    "funny math tee",
-    "algebra teacher shirt",
-    "geometry teacher apparel",
-    "calculus teacher shirt",
-    "math pun shirt",
-    "STEM math teacher tee",
-    "equation humor shirt",
-    "teach math with humor",
-    "math classroom spirit shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "X = and wondered... \"Y\"? | Math Teacher T-Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Witty math shirts for anyone who has solved for X and wondered Y—puns, proofs, and laughs included."
-    }
-  ]
-},
- {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
   "name": "Ready or Not... School's Back!",
   "url": "https://eduhaha.com/collections/back-to-school",
   "description": "EDUHaHa’s ultimate back-to-school tee drop. Because nothing says \"welcome back\" like a closet full of new shirts.",
@@ -698,6 +655,42 @@
       "@type": "PropertyValue",
       "name": "seoDescription",
       "value": "AI-approved teacher gifts that actually land: funny, useful, and classroom-ready."
+    }
+  ]
+},
+    {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "X = and wondered... \"Y\"?",
+  "url": "https://eduhaha.com/collections/math",
+  "description": "Graphs, groans, and glorious logic. Carry the one—and the drip.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Math",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+  },
+  "keywords": [
+    "math teacher shirts",
+    "funny math tee",
+    "algebra teacher shirt",
+    "geometry teacher apparel",
+    "calculus teacher shirt",
+    "math pun shirt",
+    "STEM math teacher tee",
+    "equation humor shirt",
+    "teach math with humor",
+    "math classroom spirit shirt"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "X = and wondered... \"Y\"? | Math Teacher T-Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Witty math shirts for anyone who has solved for X and wondered Y—puns, proofs, and laughs included."
     }
   ]
 }
