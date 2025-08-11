@@ -4,7 +4,7 @@
     "@type": "CollectionPage",
     "name": "Hot Off the Copy Machine",
     "url": "https://eduhaha.com/collections/new",
-    "description": "EDUHaHa’s newest teacher shirts and clever classroom tees—fresh designs, hot off the copy machine, and ready to make the honor roll.",
+    "description": "EDUHaHa's newest teacher shirts and clever classroom tees—fresh designs, hot off the copy machine, and ready to make the honor roll.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "New Arrivals",
@@ -25,7 +25,7 @@
       {
         "@type": "PropertyValue",
         "name": "seoDescription",
-        "value": "Brand-new teacher shirts and classroom tees—fresh drops that won’t get stuck in the tray."
+        "value": "Brand-new teacher shirts and classroom tees—fresh drops that won't get stuck in the tray."
       }
     ]
   },
@@ -34,7 +34,7 @@
     "@type": "CollectionPage",
     "name": "Pep Rally Mojo",
     "url": "https://eduhaha.com/collections/motivational",
-    "description": "EDUHaHa’s motivational teacher shirts and positive classroom tees for educators who fuel their day with coffee, encouragement, and a dash of mojo.",
+    "description": "EDUHaHa's motivational teacher shirts and positive classroom tees for educators who fuel their day with coffee, encouragement, and a dash of mojo.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Motivation & Inspiration",
@@ -64,7 +64,7 @@
     "@type": "CollectionPage",
     "name": "Once Upon a Time",
     "url": "https://eduhaha.com/collections/reading-literacy",
-    "description": "EDUHaHa’s reading and literacy collection for those who know the best stories offer both an escape and a smile.",
+    "description": "EDUHaHa's reading and literacy collection for those who know the best stories offer both an escape and a smile.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Reading & Literacy",
@@ -100,7 +100,7 @@
     "@type": "CollectionPage",
     "name": "Grammar Guardians",
     "url": "https://eduhaha.com/collections/english",
-    "description": "EDUHaHa’s witty grammar shirts and clever language tees for English teachers and grammar nerds.",
+    "description": "EDUHaHa's witty grammar shirts and clever language tees for English teachers and grammar nerds.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "English & Grammar",
@@ -130,7 +130,7 @@
     "@type": "CollectionPage",
     "name": "E=MC...Wait, What?",
     "url": "https://eduhaha.com/collections/science",
-    "description": "EDUHaHa’s funny science shirts and witty teacher tees for those who know learning means test tubes, textbooks, and terrible puns.",
+    "description": "EDUHaHa's funny science shirts and witty teacher tees for those who know learning means test tubes, textbooks, and terrible puns.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Science",
@@ -166,7 +166,7 @@
     "@type": "CollectionPage",
     "name": "Standardized Shenanigans",
     "url": "https://eduhaha.com/collections/testing-exams",
-    "description": "EDUHaHa’s testing and exam shirts—witty tees for standardized tests, exam season, and every proctor who believes laughter is the ultimate cheat code.",
+    "description": "EDUHaHa's testing and exam shirts—witty tees for standardized tests, exam season, and every proctor who believes laughter is the ultimate cheat code.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Testing & Exams",
@@ -202,7 +202,7 @@
     "@type": "CollectionPage",
     "name": "The Heart of the Hallways",
     "url": "https://eduhaha.com/collections/teacher-appreciation",
-    "description": "EDUHaHa’s gift-worthy teacher appreciation shirts and heartfelt tees for educators, mentors, and school heroes—because every school runs on the heart of its teachers.",
+    "description": "EDUHaHa's gift-worthy teacher appreciation shirts and heartfelt tees for educators, mentors, and school heroes—because every school runs on the heart of its teachers.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Teacher Appreciation",
@@ -238,7 +238,7 @@
     "@type": "CollectionPage",
     "name": "Festive Fits & Teacher Twists",
     "url": "https://eduhaha.com/collections/holiday",
-    "description": "EDUHaHa’s holiday teacher shirts and festive classroom tees bring seasonal cheer, teacher puns, and a twist of classroom spirit to every celebration—Christmas, Thanksgiving, Valentine’s Day, Independence Day, and more.",
+    "description": "EDUHaHa's holiday teacher shirts and festive classroom tees bring seasonal cheer, teacher puns, and a twist of classroom spirit to every celebration—Christmas, Thanksgiving, Valentine's Day, Independence Day, and more.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Holidays",
@@ -274,7 +274,7 @@
     "@type": "CollectionPage",
     "name": "Past Tense, Present Funny",
     "url": "https://eduhaha.com/collections/history",
-    "description": "EDUHaHa’s funny history shirts and witty teacher tees for those who believe every lesson deserves a laugh.",
+    "description": "EDUHaHa's funny history shirts and witty teacher tees for those who believe every lesson deserves a laugh.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "History",
@@ -310,7 +310,7 @@
     "@type": "CollectionPage",
     "name": "Treble Makers",
     "url": "https://eduhaha.com/collections/music",
-    "description": "EDUHaHa’s funny music shirts and witty teacher tees for band directors, choir leaders, and every classroom Treble Maker.",
+    "description": "EDUHaHa's funny music shirts and witty teacher tees for band directors, choir leaders, and every classroom Treble Maker.",
     "mainEntity": {
       "@type": "ItemList",
       "name": "Music",
@@ -341,291 +341,268 @@
       }
     ]
   },
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Class Clowns",
-  "url": "https://eduhaha.com/collections/humor",
-  "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Funny Shirts",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "funny teacher shirts",
-    "class clown shirts",
-    "school humor apparel",
-    "teacher humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Class Clowns | Funny Teacher Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
-    }
-  ]
-},
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Grade \"A\" Deals with 30% Off Extra Credit",
-  "url": "https://eduhaha.com/collections/all",
-  "description": "EDUHaHa’s 30% Off Sale! Extra credit off every shirt, every laugh, and every teacher-tested design we’ve got. Because to survive as a teacher, you need three bones: a wishbone, a backbone, and a funny bone.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "On Sale",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "teacher shirts",
-    "unique teacher shirts",
-    "teacher apparel",
-    "funny teacher shirts"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
-    },
-    {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Honor Roll",
-  "url": "https://eduhaha.com/collections/teacher",
-  "description": "Top picks for teachers. Real appreciation in cotton, with extra sass and zero red ink.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Faculty Favorites",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "teacher favorites",
-    "best teacher shirts",
-    "top picks teacher apparel",
-    "faculty favorites"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Honor Roll | Faculty Favorites | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Faculty favorites with sass—top picks for teachers who grade with style."
-    }
-  ]
-},
-{
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "AI-Approved Teacher Gifts",
-  "url": "https://eduhaha.com/collections/ai-approved-teacher-gifts",
-  "description": "Teacher gifts that keep showing up in AI results—on purpose. Funny, useful, and classroom-approved.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "AI-Approved Gifts",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "teacher gifts",
-    "ai approved",
-    "best teacher gifts",
-    "funny teacher gifts"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "AI-Approved Teacher Gifts | Funny, Useful Picks | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "AI-approved teacher gifts that actually land: funny, useful, and classroom-ready."
-    }
-  ]
-},
-    {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "X = and wondered... \"Y\"?",
-  "url": "https://eduhaha.com/collections/math",
-  "description": "Graphs, groans, and glorious logic. Carry the one—and the drip.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Math",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "math teacher shirts",
-    "funny math tee",
-    "algebra teacher shirt",
-    "geometry teacher apparel",
-    "calculus teacher shirt",
-    "math pun shirt",
-    "STEM math teacher tee",
-    "equation humor shirt",
-    "teach math with humor",
-    "math classroom spirit shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "X = and wondered... \"Y\"? | Math Teacher T-Shirts | EDUHaHa"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Witty math shirts for anyone who has solved for X and wondered Y—puns, proofs, and laughs included."
-    }
-  ]
-},
   {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Ready or Not... School's Back!",
-  "url": "https://eduhaha.com/collections/back-to-school",
-  "description": "EDUHaHa’s ultimate back-to-school tee drop. Because nothing says \"welcome back\" like a closet full of new shirts.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Back-to-School",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
-  },
-  "keywords": [
-    "back to school shirts",
-    "funny teacher back to school tee",
-    "first day of school shirt",
-    "teacher welcome back apparel",
-    "school year kickoff shirt",
-    "funny student back to school shirt",
-    "education humor shirt",
-    "classroom ready apparel",
-    "teacher life back to school",
-    "school staff welcome back shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Ready or Not... School's Back! | Back to School Shirts | EDUHaHa"
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Class Clowns",
+    "url": "https://eduhaha.com/collections/humor",
+    "description": "EDUHaHa's Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Funny Shirts",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
     },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Back-to-school shirts for teachers, students, and staff—fresh tees for the first day and beyond."
-    }
-  ]
-},
-    {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Lost in Translation",
-  "url": "https://eduhaha.com/collections/foreign-language",
-  "description": "EDUHaHa’s foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Foreign Language",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    "keywords": [
+      "funny teacher shirts",
+      "class clown shirts",
+      "school humor apparel",
+      "teacher humor"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Class Clowns | Funny Teacher Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
+      }
+    ]
   },
-  "keywords": [
-    "foreign language teacher shirts",
-    "funny language teacher tee",
-    "ESL teacher apparel",
-    "Spanish teacher shirt",
-    "French teacher tee",
-    "German teacher shirt",
-    "language pun shirt",
-    "bilingual teacher apparel",
-    "world languages classroom shirt",
-    "teach languages with humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Grade \"A\" Deals with 30% Off Extra Credit",
+    "url": "https://eduhaha.com/collections/all",
+    "description": "EDUHaHa's 30% Off Sale! Extra credit off every shirt, every laugh, and every teacher-tested design we've got. Because to survive as a teacher, you need three bones: a wishbone, a backbone, and a funny bone.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "On Sale",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
     },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
-    }
-  ]
-},
-    {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Class Clowns",
-  "url": "https://eduhaha.com/collections/humor",
-  "description": "EDUHaHa’s Comedy Club for the classroom. This collection is packed with tees that bring punchlines to your lesson plans and giggles to your gradebook.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Funny Shirts",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    "keywords": [
+      "teacher shirts",
+      "unique teacher shirts",
+      "teacher apparel",
+      "funny teacher shirts"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Grade \"A\" Deals | 30% Off Extra Credit | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "30% Off Sale! Extra credit off every shirt, laugh, and teacher-tested design."
+      }
+    ]
   },
-  "keywords": [
-    "funny teacher shirts",
-    "class clown shirts",
-    "school humor apparel",
-    "teacher humor"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Class Clowns | Funny Teacher Shirts | EDUHaHa"
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Honor Roll",
+    "url": "https://eduhaha.com/collections/teacher",
+    "description": "Top picks for teachers. Real appreciation in cotton, with extra sass and zero red ink.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Faculty Favorites",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
     },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "A comedy club for the classroom—punchlines for your lesson plans and giggles for your gradebook."
-    }
-  ]
-},
- {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "Dodgeball Heroes",
-  "url": "https://eduhaha.com/collections/sports-pe",
-  "description": "EDUHaHa’s all-star sports collection for the brave, the quick, and anyone who ever took a dodgeball to the shins. Gym class legends and recess champions welcome.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "PE, Sports & Recess",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    "keywords": [
+      "teacher favorites",
+      "best teacher shirts",
+      "top picks teacher apparel",
+      "faculty favorites"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Honor Roll | Faculty Favorites | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Faculty favorites with sass—top picks for teachers who grade with style."
+      }
+    ]
   },
-  "keywords": [
-    "PE teacher shirts",
-    "gym class humor shirt",
-    "funny sports teacher tee",
-    "recess champion shirt",
-    "school sports apparel",
-    "dodgeball humor shirt",
-    "coach appreciation shirt",
-    "athletic department humor",
-    "competitive streak tee",
-    "playground legend shirt"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "seoTitle",
-      "value": "Dodgeball Heroes | Funny PE, Sports & Recess Shirts | EDUHaHa"
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "AI-Approved Teacher Gifts",
+    "url": "https://eduhaha.com/collections/ai-approved-teacher-gifts",
+    "description": "Teacher gifts that keep showing up in AI results—on purpose. Funny, useful, and classroom-approved.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "AI-Approved Gifts",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
     },
-    {
-      "@type": "PropertyValue",
-      "name": "seoDescription",
-      "value": "Funny PE, sports, and recess shirts for teachers, coaches, and playground legends—celebrating gym class heroes and dodgeball warriors."
-    }
-  ]
-}   
+    "keywords": [
+      "teacher gifts",
+      "ai approved",
+      "best teacher gifts",
+      "funny teacher gifts"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "AI-Approved Teacher Gifts | Funny, Useful Picks | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "AI-approved teacher gifts that actually land: funny, useful, and classroom-ready."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "X = and wondered... \"Y\"?",
+    "url": "https://eduhaha.com/collections/math",
+    "description": "Graphs, groans, and glorious logic. Carry the one—and the drip.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Math",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "math teacher shirts",
+      "funny math tee",
+      "algebra teacher shirt",
+      "geometry teacher apparel",
+      "calculus teacher shirt",
+      "math pun shirt",
+      "STEM math teacher tee",
+      "equation humor shirt",
+      "teach math with humor",
+      "math classroom spirit shirt"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "X = and wondered... \"Y\"? | Math Teacher T-Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Witty math shirts for anyone who has solved for X and wondered Y—puns, proofs, and laughs included."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Ready or Not... School's Back!",
+    "url": "https://eduhaha.com/collections/back-to-school",
+    "description": "EDUHaHa's ultimate back-to-school tee drop. Because nothing says \"welcome back\" like a closet full of new shirts.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Back-to-School",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "back to school shirts",
+      "funny teacher back to school tee",
+      "first day of school shirt",
+      "teacher welcome back apparel",
+      "school year kickoff shirt",
+      "funny student back to school shirt",
+      "education humor shirt",
+      "classroom ready apparel",
+      "teacher life back to school",
+      "school staff welcome back shirt"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Ready or Not... School's Back! | Back to School Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Back-to-school shirts for teachers, students, and staff—fresh tees for the first day and beyond."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Lost in Translation",
+    "url": "https://eduhaha.com/collections/foreign-language",
+    "description": "EDUHaHa's foreign language shirts and witty teacher tees for Spanish, French, German, and world language classrooms. Because laughter—like language—is meant to be shared.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Foreign Language",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "foreign language teacher shirts",
+      "funny language teacher tee",
+      "ESL teacher apparel",
+      "Spanish teacher shirt",
+      "French teacher tee",
+      "German teacher shirt",
+      "language pun shirt",
+      "bilingual teacher apparel",
+      "world languages classroom shirt",
+      "teach languages with humor"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Lost in Translation | Foreign Language T-Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Foreign language shirts and witty tees for Spanish, French, German, ESL, and bilingual classrooms."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Dodgeball Heroes",
+    "url": "https://eduhaha.com/collections/sports-pe",
+    "description": "EDUHaHa's all-star sports collection for the brave, the quick, and anyone who ever took a dodgeball to the shins. Gym class legends and recess champions welcome.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "PE, Sports & Recess",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "PE teacher shirts",
+      "gym class humor shirt",
+      "funny sports teacher tee",
+      "recess champion shirt",
+      "school sports apparel",
+      "dodgeball humor shirt",
+      "coach appreciation shirt",
+      "athletic department humor",
+      "competitive streak tee",
+      "playground legend shirt"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Dodgeball Heroes | Funny PE, Sports & Recess Shirts | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Funny PE, sports, and recess shirts for teachers, coaches, and playground legends—celebrating gym class heroes and dodgeball warriors."
+      }
+    ]
+  }
 ]
