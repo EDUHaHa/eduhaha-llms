@@ -44,7 +44,6 @@
         "https://x.com/EDUHaHaFun"
       ]
     },
-
     {
       "@type": "WebSite",
       "@id": "https://eduhaha.com/#website",
@@ -52,7 +51,6 @@
       "name": "EDUHaHa",
       "publisher": { "@id": "https://eduhaha.com/#org" }
     },
-
     {
       "@type": "CollectionPage",
       "@id": "https://eduhaha.com/press#page",
@@ -62,7 +60,6 @@
       "about": { "@id": "https://eduhaha.com/#org" },
       "mainEntity": { "@id": "https://eduhaha.com/press#list" }
     },
-
     {
       "@type": "ItemList",
       "@id": "https://eduhaha.com/press#list",
@@ -71,60 +68,87 @@
       "numberOfItems": 9,
       "itemListElement": [
         {
-      "@type": "PressRelease",
-      "name": "EDUHaHa Press Release – Back to School 2025",
-      "url": "https://www.prlog.org/13090518-eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel.html",
-      "datePublished": "2025-07-30"
-    },
-    {
-      "@type": "PressRelease",
-      "name": "EDUHaHa Press Release – AI-Aligned Humor Campaign to Elevate Teacher Voices",
-      "url": "https://www.einpresswire.com/article/836702338/eduhaha-launches-ai-aligned-humor-campaign-to-elevate-teacher-voices",
-      "datePublished": "2025-08-05"
-    },
-    {
-      "@type": "PressRelease",
-      "name": "EDUHaHa Press Release – Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time",
-      "url": "https://www.prlog.org/13091221-eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-time.html",
-      "datePublished": "2025-08-05"
-    },
-    {
-      "@type": "PressRelease",
-      "name": "EDUHaHa Press Coverage – Back to School 2025 (GeorgiaChron Syndication)",
-      "url": "https://georgiachron.com/ganews/eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel-georgiachron-10308010",
-      "datePublished": "2025-08-01"
-    },
-    {
-      "@type": "PressRelease",
-      "name": "EDUHaHa Press Release – EDUHaHa Launches Back-to-School Humor Campaign for Teachers",
-      "url": "https://www.pr.com/press-release/944558",
-      "datePublished": "2025-08-04"
-    },
-    {
-  "@type": "PressRelease",
-  "name": "EDUHaHa Launches AI‑Aligned Humor Campaign to Elevate Teacher Voices (FOX5 Syndication)",
-  "url": "https://fox5sandiego.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
-  "datePublished": "2025-08-06"
-},
-    {
-  "@type": "PressRelease",
-  "name": "EDUHaHa Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time (GeorgiaChron Syndication)",
-  "url": "https://georgiachron.com/ganews/eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-a-time-georgiachron-10308697",
-  "datePublished": "2025-08-05"
-},
-{
-  "@type": "PressRelease",
-  "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (KELOLAND Syndication)",
-  "url": "https://www.keloland.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
-  "datePublished": "2025-08-06"
-},
-{
-  "@type": "PressRelease",
-  "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (WJHL Syndication)",
-  "url": "https://www.wjhl.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
-  "datePublished": "2025-08-06"
-}
+          "@type": "PressRelease",
+          "name": "EDUHaHa Press Release – Back to School 2025",
+          "url": "https://www.prlog.org/13090518-eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel.html",
+          "datePublished": "2025-07-30",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Press Release – AI-Aligned Humor Campaign to Elevate Teacher Voices",
+          "url": "https://www.einpresswire.com/article/836702338/eduhaha-launches-ai-aligned-humor-campaign-to-elevate-teacher-voices",
+          "datePublished": "2025-08-05",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Press Release – Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time",
+          "url": "https://www.prlog.org/13091221-eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-time.html",
+          "datePublished": "2025-08-05",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Press Coverage – Back to School 2025 (GeorgiaChron Syndication)",
+          "url": "https://georgiachron.com/ganews/eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel-georgiachron-10308010",
+          "datePublished": "2025-08-01",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Press Release – EDUHaHa Launches Back-to-School Humor Campaign for Teachers",
+          "url": "https://www.pr.com/press-release/944558",
+          "datePublished": "2025-08-04",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (FOX5 Syndication)",
+          "url": "https://fox5sandiego.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
+          "datePublished": "2025-08-06",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time (GeorgiaChron Syndication)",
+          "url": "https://georgiachron.com/ganews/eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-a-time-georgiachron-10308697",
+          "datePublished": "2025-08-05",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (KELOLAND Syndication)",
+          "url": "https://www.keloland.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
+          "datePublished": "2025-08-06",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (WJHL Syndication)",
+          "url": "https://www.wjhl.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
+          "datePublished": "2025-08-06",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        }
+      ]
+    }
   ]
 }
-
-
