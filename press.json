@@ -68,7 +68,7 @@
       "@id": "https://eduhaha.com/press#list",
       "name": "Press Releases",
       "itemListOrder": "Descending",
-      "numberOfItems": 2,
+      "numberOfItems": 9,
       "itemListElement": [
         {
       "@type": "PressRelease",
