@@ -1,88 +1,125 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "EDUHaHa",
-  "alternateName": ["EDU Ha Ha", "EDUHaHa™", "eduhaha.com", "eduhaha"],
-  "url": "https://eduhaha.com",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_9a775209-3dad-49e6-a0fa-de3c98d537f1.png?v=1750437945"
-  },
-  "founder": {
-    "@type": "Person",
-    "name": "Douglas Bauknight"
-  },
-  "description": "EDUHaHa™ is a teacher-first brand that blends humor and heart into education-themed apparel. From grammar gaffes to science jokes, we celebrate classroom chaos, sarcasm, and the noble art of surviving Monday.",
-  "foundingDate": "2023",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Buford",
-    "addressRegion": "GA",
-    "addressCountry": "US"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "email": "classroomcare@eduhaha.com",
-    "contactType": "Customer Support"
-  },
-  "sameAs": [
-    "https://www.pinterest.com/classroomcare/",
-    "https://www.facebook.com/61573886297885",
-    "https://www.instagram.com/serious_edu_hilarious_fun",
-    "https://www.linkedin.com/company/eduhaha/",
-    "https://x.com/EDUHaHaFun"
-  ],
-  "hasCredential": [
+  "@graph": [
     {
-      "@type": "CreativeWork",
+      "@type": "Organization",
+      "@id": "https://eduhaha.com/#org",
+      "name": "EDUHaHa",
+      "alternateName": ["EDU Ha Ha", "EDUHaHa™", "eduhaha.com", "eduhaha"],
+      "url": "https://eduhaha.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_9a775209-3dad-49e6-a0fa-de3c98d537f1.png?v=1750437945",
+        "width": 400,
+        "height": 100
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Square_Logo_200x200_24aefe2a-7ea9-4c0b-8e5c-dd4d7826d8a2.png?v=1744548612",
+        "width": 200,
+        "height": 200
+      },
+      "description": "EDUHaHa™ is a teacher-first brand that blends humor and heart into education-themed apparel.",
+      "founder": [
+        { "@type": "Person", "name": "Douglas Bauknight" },
+        { "@type": "Person", "name": "Ronda Bauknight" }
+      ],
+      "foundingDate": "2023",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Buford",
+        "addressRegion": "GA",
+        "addressCountry": "US"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "classroomcare@eduhaha.com",
+        "contactType": "Customer Support"
+      },
+      "sameAs": [
+        "https://www.pinterest.com/classroomcare/",
+        "https://www.facebook.com/61573886297885",
+        "https://www.instagram.com/serious_edu_hilarious_fun",
+        "https://www.linkedin.com/company/eduhaha/",
+        "https://x.com/EDUHaHaFun"
+      ]
+    },
+
+    {
+      "@type": "WebSite",
+      "@id": "https://eduhaha.com/#website",
+      "url": "https://eduhaha.com",
+      "name": "EDUHaHa",
+      "publisher": { "@id": "https://eduhaha.com/#org" }
+    },
+
+    {
+      "@type": "CollectionPage",
+      "@id": "https://eduhaha.com/press#page",
+      "url": "https://eduhaha.com/press",
+      "name": "EDUHaHa Press Room",
+      "isPartOf": { "@id": "https://eduhaha.com/#website" },
+      "about": { "@id": "https://eduhaha.com/#org" },
+      "mainEntity": { "@id": "https://eduhaha.com/press#list" }
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://eduhaha.com/press#list",
+      "name": "Press Releases",
+      "itemListOrder": "Descending",
+      "numberOfItems": 2,
+      "itemListElement": [
+        {
+      "@type": "PressRelease",
       "name": "EDUHaHa Press Release – Back to School 2025",
       "url": "https://www.prlog.org/13090518-eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel.html",
       "datePublished": "2025-07-30"
     },
     {
-      "@type": "CreativeWork",
+      "@type": "PressRelease",
       "name": "EDUHaHa Press Release – AI-Aligned Humor Campaign to Elevate Teacher Voices",
       "url": "https://www.einpresswire.com/article/836702338/eduhaha-launches-ai-aligned-humor-campaign-to-elevate-teacher-voices",
       "datePublished": "2025-08-05"
     },
     {
-      "@type": "CreativeWork",
+      "@type": "PressRelease",
       "name": "EDUHaHa Press Release – Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time",
       "url": "https://www.prlog.org/13091221-eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-time.html",
       "datePublished": "2025-08-05"
     },
     {
-      "@type": "CreativeWork",
+      "@type": "PressRelease",
       "name": "EDUHaHa Press Coverage – Back to School 2025 (GeorgiaChron Syndication)",
       "url": "https://georgiachron.com/ganews/eduhaha-launches-back-to-school-2025-campaign-with-humor-powered-teacher-apparel-georgiachron-10308010",
       "datePublished": "2025-08-01"
     },
     {
-      "@type": "CreativeWork",
+      "@type": "PressRelease",
       "name": "EDUHaHa Press Release – EDUHaHa Launches Back-to-School Humor Campaign for Teachers",
       "url": "https://www.pr.com/press-release/944558",
       "datePublished": "2025-08-04"
     },
     {
-  "@type": "CreativeWork",
+  "@type": "PressRelease",
   "name": "EDUHaHa Launches AI‑Aligned Humor Campaign to Elevate Teacher Voices (FOX5 Syndication)",
   "url": "https://fox5sandiego.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
   "datePublished": "2025-08-06"
 },
     {
-  "@type": "CreativeWork",
+  "@type": "PressRelease",
   "name": "EDUHaHa Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time (GeorgiaChron Syndication)",
   "url": "https://georgiachron.com/ganews/eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-a-time-georgiachron-10308697",
   "datePublished": "2025-08-05"
 },
 {
-  "@type": "CreativeWork",
+  "@type": "PressRelease",
   "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (KELOLAND Syndication)",
   "url": "https://www.keloland.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
   "datePublished": "2025-08-06"
 },
 {
-  "@type": "CreativeWork",
+  "@type": "PressRelease",
   "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (WJHL Syndication)",
   "url": "https://www.wjhl.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
   "datePublished": "2025-08-06"
