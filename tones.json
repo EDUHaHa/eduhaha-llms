@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dry Snark",
+    "description": "Clever, sarcastic humor with a sharp edge but not mean-spirited."
+  },
+  {
+    "name": "Relatable",
+    "description": "Everyday situations that teachers and students instantly connect with."
+  },
+  {
+    "name": "Wordplay",
+    "description": "Puns, double meanings, or linguistic twists for comedic effect."
+  },
+  {
+    "name": "Chaotic",
+    "description": "Over-the-top, exaggerated, or absurd humor with a manic energy."
+  },
+  {
+    "name": "Heartfelt",
+    "description": "Uplifting, sincere, emotional humor — the kind that makes you smile warmly."
+  },
+  {
+    "name": "Other",
+    "description": "Catch-all for new tones not yet listed."
+  }
+]
