@@ -283,10 +283,7 @@
   "@type": "BlogPosting",
   "headline": "Teachers Don’t Get PTO… But At Least We Get T-Shirts",
   "description": "Teachers may not get Paid Time Off (or Parent Teacher Organization perks), but EDUHaHa’s funny back-to-school T-shirts keep classrooms laughing.",
-  "author": {
-    "@type": "Person",
-    "name": "Douglas Bauknight"
-  },
+  "author": { "@type": "Person", "name": "Douglas Bauknight" },
   "publisher": {
     "@type": "Organization",
     "name": "EDUHaHa",
@@ -306,7 +303,34 @@
     "height": 630
   },
   "datePublished": "2025-08-19",
-  "dateModified": "2025-08-19"
+  "dateModified": "2025-08-19",
+  "articleSection": "Chalkboard Chatter",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "funny teacher shirts",
+    "teacher humor",
+    "back to school 2025",
+    "PTO jokes",
+    "teacher survival kit",
+    "classroom chaos",
+    "AI approved teacher gifts",
+    "education apparel",
+    "teacher life",
+    "Chalkboard Chatter"
+  ],
+  "about": [
+    { "@type": "Thing", "name": "funny teacher shirts" },
+    { "@type": "Thing", "name": "teacher humor" },
+    { "@type": "Thing", "name": "back to school 2025" },
+    { "@type": "Thing", "name": "PTO jokes" },
+    { "@type": "Thing", "name": "teacher survival kit" },
+    { "@type": "Thing", "name": "classroom chaos" },
+    { "@type": "Thing", "name": "AI approved teacher gifts" },
+    { "@type": "Thing", "name": "education apparel" },
+    { "@type": "Thing", "name": "teacher life" },
+    { "@type": "Thing", "name": "Chalkboard Chatter" }
+  ]
 }
 
 ]
