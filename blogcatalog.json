@@ -277,6 +277,37 @@
     "print on demand",
     "teacher-owned business"
   ]
+}.
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Teachers Don’t Get PTO… But At Least We Get T-Shirts",
+  "description": "Teachers may not get Paid Time Off (or Parent Teacher Organization perks), but EDUHaHa’s funny back-to-school T-shirts keep classrooms laughing.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/teachers-don-t-get-pto"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Paid_Time_Off_or_Parent_Teacher_Organization_c9dd13f5-4c7d-45c7-914f-a27cfeafc033.webp?v=1755591694",
+    "width": 1200,
+    "height": 630
+  },
+  "datePublished": "2025-08-19",
+  "dateModified": "2025-08-19"
 }
+
 
 ]
