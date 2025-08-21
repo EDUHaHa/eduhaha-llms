@@ -331,6 +331,34 @@
     { "@type": "Thing", "name": "teacher life" },
     { "@type": "Thing", "name": "Chalkboard Chatter" }
   ]
+},
+  {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Open House Bingo: 25 Things That Happen Every. Single. Year.",
+  "description": "From copier jams to peanut-free confirmations, here are 25 classic Open House moments teachers see every year—plus quick wins and humor-ready tees.",
+  "datePublished": "2025-08-21",
+  "dateModified": "2025-08-21",
+  "author": { "@type": "Person", "name": "Douglas Bauknight" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/open-house-bingo"
+  },
+  "sameAs": [
+    "https://eduhaha.link/open-house-bingo" 
+  ],
+  "image": [
+    "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/open-house-bingo-header.webp?v=1755771856"
+  ],
+  "keywords": "teacher humor, open house, back to school, classroom tips, funny teacher shirts"
 }
 
 ]
