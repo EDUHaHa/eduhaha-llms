@@ -1,4 +1,11 @@
 {
+  "version": "1.0.0",
+  "brand": "EDUHaHa",
+  "short_description": "The JSON Files is EDUHaHa’s AI press wire — documenting citations, brand milestones, and structured stories.",
+  "source": "https://thejsonfileseduhaha.substack.com/",
+  "updated": "2025-08-28T17:00:00Z",
+  "posts": [
+{
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Who is EDUHaHa? (And Why Even Google AI Wants to Know)",
