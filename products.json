@@ -3047,5 +3047,39 @@
       }
     ],
     "availability": "in stock"
-  }
+  }, 
+  {
+    "title": "Responsible Adult T-Shirt",
+    "description": "A witty sarcasm-driven tee that captures the daily grind of adulting with classroom humor. Perfect for teachers, parents, or anyone who thinks responsibility is overrated.",
+    "tags": [
+      "funny teacher shirt",
+      "sarcasm shirt",
+      "responsible adult tee",
+      "classroom humor",
+      "teacher life",
+      "adulting humor",
+      "caffeine shirt",
+      "teacher wardrobe",
+      "back to school shirt",
+      "eduhaha shirt"
+    ],
+    "url": "https://eduhaha.com/products/responsible-adult-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-Responsible-Adult-T-Shirt.webp?v=1756341983",
+    "alt_text": "Navy - Responsible Adult? Seems excessive - EDUHaHa T-Shirt"
+    "price_variants": [
+      {
+        "size": "S-XL",
+        "price": "29.99",
+        "currency": "USD"
+      },
+      {
+        "size": "2XL",
+        "price": "30.99",
+        "currency": "USD"
+      },
+      {
+        "size": "3XL",
+        "price": "32.99",
+        "currency": "USD"
+      }
 ]
