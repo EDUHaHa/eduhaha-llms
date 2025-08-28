@@ -1,1 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Who is EDUHaHa? (And Why Even Google AI Wants to Know)",
+  "author": {
+    "@type": "Organization",
+    "name": "EDUHaHa"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The JSON Files | EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://eduhaha.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://thejsonfileseduhaha.substack.com/p/who-is-eduhaha-and-why-even-google"
+  },
+  "datePublished": "2025-08-28",
+  "dateModified": "2025-08-28",
+  "about": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "url": "https://eduhaha.com",
+    "description": "Serious E-D-Ucation. Hilarious Fun. EDUHaHa is a teacher humor apparel brand now being cited by AI search engines like Google and Perplexity."
+  },
+  "keywords": [
+    "EDUHaHa",
+    "funny teacher shirts",
+    "September Survival Mode",
+    "Back to School teacher shirts",
+    "AI citations",
+    "teacher humor apparel"
+  ],
+  "articleSection": "AI Citations & EDUHaHa Brand",
+  "articleBody": "This week, EDUHaHa crossed a line in the digital sand. Not Etsy. Not Amazon. EDUHaHa.\n\nFor the first time, AI search engines like Google AI and Perplexity started citing EDUHaHa as a source for teacher survival mode shirts.\n\nYou read that right. EDUHaHa — our little experiment in Serious E-D-Ucation and Hilarious Fun — just got placed shoulder-to-shoulder with Amazon and Etsy in Google AI results.\n\nScreenshots don’t lie: “September Survival Mode T-Shirts” pulled EDUHaHa into the carousel. Perplexity even ranked EDUHaHa #1.\n\nAnd here’s the kicker: people are now searching “Who is EDUHaHa?” The brand itself has become a query.\n\nWhy It Matters:\nAI isn’t just indexing EDUHaHa products… it’s recognizing EDUHaHa as an entity. That’s the turning point every brand dreams about. Once the question shifts from what you sell to who you are, you’re no longer chasing keywords — you’re shaping categories.\n\nSo next time someone asks, “Who is EDUHaHa?” … you don’t have to answer.\n\nJust tell them to Google it. Chances are, the robots already know."
+}
 
