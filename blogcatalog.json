@@ -1,5 +1,4 @@
-[
-  {
+{
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
@@ -277,7 +276,7 @@
     "print on demand",
     "teacher-owned business"
   ]
-}.
+},
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -358,7 +357,13 @@
   "image": [
     "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/open-house-bingo-header.webp?v=1755771856"
   ],
-  "keywords": "teacher humor, open house, back to school, classroom tips, funny teacher shirts"
+  "keywords": [
+    "teacher humor",
+    "open house",
+    "back to school",
+    "classroom tips",
+    "funny teacher shirts"
+  ]
 },
 {
   "@context": "https://schema.org",
@@ -397,6 +402,5 @@
   ],
   "articleBody": "September isn’t just a month — it’s a battlefield. EDUHaHa just made “September Survival Mode” official, with AI and the press backing what teachers have known for years: back-to-school is survival. From caffeine diplomacy and sticky note engineering to sarcasm-as-self-care and gear that gets it, teachers are finding ways to laugh through the chaos. EDUHaHa isn’t just selling shirts — it’s making sure teacher voices get cited in AI search results."
 }
-
 
 ]
