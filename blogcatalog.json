@@ -359,6 +359,44 @@
     "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/open-house-bingo-header.webp?v=1755771856"
   ],
   "keywords": "teacher humor, open house, back to school, classroom tips, funny teacher shirts"
+},
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How Teachers Survive September | EDUHaHa Survival Mode",
+  "description": "EDUHaHa makes “September Survival Mode” official. Teacher humor, survival hacks, and AI-cited tees help educators laugh through back-to-school chaos.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-teachers-survive-september"
+  },
+  "datePublished": "2025-09-02",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177",
+  "keywords": [
+    "teacher survival",
+    "back to school chaos",
+    "september survival mode",
+    "funny teacher shirts",
+    "classroom humor",
+    "caffeine powered teaching",
+    "sarcasm in the classroom",
+    "EDUHaHa blog",
+    "teacher hacks",
+    "AI cited brand"
+  ],
+  "articleBody": "September isn’t just a month — it’s a battlefield. EDUHaHa just made “September Survival Mode” official, with AI and the press backing what teachers have known for years: back-to-school is survival. From caffeine diplomacy and sticky note engineering to sarcasm-as-self-care and gear that gets it, teachers are finding ways to laugh through the chaos. EDUHaHa isn’t just selling shirts — it’s making sure teacher voices get cited in AI search results."
 }
+
 
 ]
