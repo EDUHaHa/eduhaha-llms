@@ -110,5 +110,60 @@
     "availability": "in stock",
     "description_meta": "From spilled glue to staff room survival, this #SchoolLife tee captures the chaos of teaching—comfy, funny, and full of “did that…",
     "source_page_id": "2616fe75-4571-812e-a148-d83cf399a04a"
+  },
+  {
+    "title": "Responsible Adult Tee | Relatable Teacher Humor | EDUHaHa",
+    "description": "Being a responsible adult? Every. Single. DAY? (Seems a bit excessive.) A lighthearted teacher T-shirt mixing sarcasm, caffeine,…",
+    "tags": [
+      "funny teacher shirt",
+      "sarcasm shirt",
+      "responsible adult tee",
+      "classroom humor",
+      "teacher life",
+      "adulting humor",
+      "caffeine shirt",
+      "teacher wardrobe",
+      "back to school shirt",
+      "eduhaha shirt"
+    ],
+    "collections": [
+      {
+        "name": "☕ Pep Rally Mojo",
+        "keyword": "Motivation"
+      },
+      {
+        "name": "🖨️ Hot Off the Copy Machine",
+        "keyword": "New"
+      }
+    ],
+    "tones": [
+      "Adorably Unhinged"
+    ],
+    "age_group": [
+      "Adults"
+    ],
+    "url": "https://eduhaha.com/products/responsible-adult-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-Responsible-Adult-T-Shirt.webp?v=1756341983",
+    "alt_text": "Navy Color T-Shirt - Responsible Adult - Sarcasm and Sass Teacher Badge Shirt.",
+    "price_variants": [
+      {
+        "size": "S-XL",
+        "price": "29.99",
+        "currency": "USD"
+      },
+      {
+        "size": "2XL",
+        "price": "30.99",
+        "currency": "USD"
+      },
+      {
+        "size": "3XL",
+        "price": "32.99",
+        "currency": "USD"
+      }
+    ],
+    "availability": "in stock",
+    "description_meta": "Being a responsible adult? Every. Single. DAY? (Seems a bit excessive.) A lighthearted teacher T-shirt mixing sarcasm, caffeine,…",
+    "source_page_id": "25d6fe75-4571-8136-a2cd-e7488f4578bd"
   }
 ]
