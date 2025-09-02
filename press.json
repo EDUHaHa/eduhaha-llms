@@ -1,5 +1,4 @@
-        {
-{
+  {
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -162,7 +161,16 @@
           "@type": "PressRelease",
           "name": "EDUHaHa Declares 'September Survival Mode' Official — Helps Teachers Win Back-to-School Chaos",
           "url": "https://www.prlog.org/13091220-eduhaha-declares-september-survival-mode-official-helps-teachers-win-back-to-school-chaos.html",
-          "datePublished": "2025-08-06",
+          "datePublished": "2025-09-01",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Declares 'September Survival Mode' Official — Helps Teachers Win Back-to-School Chaos (GeorgiaChron Syndication)",
+          "url": "https://georgiachron.com/ganews/eduhaha-declares-september-survival-mode-official-helps-teachers-win-back-to-school-chaos-georgiachron-10311338",
+          "datePublished": "2025-09-01",
           "publisher": { "@id": "https://eduhaha.com/#org" },
           "about": { "@id": "https://eduhaha.com/#org" },
           "isPartOf": { "@id": "https://eduhaha.com/press#page" }
@@ -170,4 +178,3 @@
       ]
     }
   ]
-}
