@@ -706,5 +706,107 @@
         "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
       }
     ]
+  },
+    {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Most Likely to Succeed",
+    "url": "https://eduhaha.com/collections/best-sellers",
+    "description": "EDUHaHa's best selling shirts and tees. The \"most likely to succeed\" in every yearbook. Shop our top-rated, most-loved, always-in-demand favorites.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Best Sellers",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "best selling teacher shirts",
+      "popular teacher shirts",
+      "teacher shirts",
+      "teacher apparel"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Most Likely to Succeed | Best Sellers | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Our best sellers: top-rated, most-loved teacher shirts—picked by educators and students alike."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Brainy Business",
+    "url": "https://eduhaha.com/collections/neuroeducation",
+    "description": "EDUHaHa Neuroeducation shirts blend our branded humor and sarcasm. This collection is built for teachers who juggle lesson plans, caffeine, and the occasional existential “why won’t they sit down?” moment.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Neuroeducation",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "neuroeducation shirts",
+      "brainy teacher shirts",
+      "funny neuroscience shirts",
+      "AI and teacher humor",
+      "cognitive science apparel",
+      "sarcastic teacher shirts",
+      "classroom brain humor",
+      "educational neuroscience fashion",
+      "teacher life neuro shirts",
+      "EDUHaHa brainy business"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Brainy Business | Neuroeducation Themed Apparel | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "Neuroeducation meets humor. This Brainy Business collection delivers witty teacher tees where neuroscience, AI, and classroom sarcasm collide."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Promptly Hilarious",
+    "url": "https://eduhaha.com/collections/ai-meets-lol",
+    "description": "EDUHaha's Promptly Hilarious, the collection where Artificial Intelligence meets Actual Laughter. We’re fusing futuristic tech with classic teacher wit to create shirts that are smart, sarcastic, and a little bit nerdy.",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "AI Meets LOL",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending"
+    },
+    "keywords": [
+      "AI teacher shirts",
+      "funny AI shirts",
+      "chatbot humor apparel",
+      "prompt engineering shirts",
+      "AI and teacher humor",
+      "tech savvy teacher shirts",
+      "nerdy teacher apparel",
+      "sarcastic AI shirts",
+      "EDUHaHa Promptly Hilarious",
+      "AI meets LOL shirts"
+    ],
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "seoTitle",
+        "value": "Promptly Hilarious | Where AI Meets LOL | EDUHaHa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "seoDescription",
+        "value": "AI meets LOL in EDUHaHa’s Promptly Hilarious collection — witty, tech-savvy shirts for teachers, coders, and humor lovers. Smart looks. Big laughs."
+      }
+    ]
   }
 ]
