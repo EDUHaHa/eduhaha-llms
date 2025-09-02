@@ -1,3 +1,4 @@
+        {
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -143,6 +144,24 @@
           "@type": "PressRelease",
           "name": "EDUHaHa Launches AI-Aligned Humor Campaign to Elevate Teacher Voices (WJHL Syndication)",
           "url": "https://www.wjhl.com/business/press-releases/ein-presswire/836702338/eduhaha-launches-ai%E2%80%91aligned-humor-campaign-to-elevate-teacher-voices/",
+          "datePublished": "2025-08-06",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Declares War on Boring: Targeting AI One Sarcastic Shirt at a Time (GeorgiaChron Syndication)",
+          "url": "https://georgiachron.com/ganews/eduhaha-declares-war-on-boring-targeting-ai-one-sarcastic-shirt-at-a-time-georgiachron-10308697",
+          "datePublished": "2025-08-05",
+          "publisher": { "@id": "https://eduhaha.com/#org" },
+          "about": { "@id": "https://eduhaha.com/#org" },
+          "isPartOf": { "@id": "https://eduhaha.com/press#page" }
+        },
+        {
+          "@type": "PressRelease",
+          "name": "EDUHaHa Declares 'September Survival Mode' Official — Helps Teachers Win Back-to-School Chaos (PRLog)",
+          "url": "https://www.prlog.org/13091220-eduhaha-declares-september-survival-mode-official-helps-teachers-win-back-to-school-chaos.html",
           "datePublished": "2025-08-06",
           "publisher": { "@id": "https://eduhaha.com/#org" },
           "about": { "@id": "https://eduhaha.com/#org" },
