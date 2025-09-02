@@ -500,5 +500,65 @@
     ],
     "availability": "in stock",
     "source_page_id": "25d6fe75-4571-8136-a2cd-e7488f4578bd"
+  },
+  {
+    "title": "Sarcastic Holiday Tee | Define Good Educator Shirt | EDUHaHa",
+    "description": "If “good” means not losing it before winter break, this tee nails it. A snarky, comfy Christmas must-have for every educator.",
+    "tags": [
+      "holiday teacher shirt",
+      "christmas teacher humor",
+      "define good shirt",
+      "sarcastic teacher tee",
+      "funny staff gift",
+      "teacher holiday party",
+      "classroom chaos",
+      "teacher life",
+      "winter break humor",
+      "education sarcasm"
+    ],
+    "collections": [
+      {
+        "name": "🎄 Festive Fits & Teacher Twists",
+        "keyword": "Holiday"
+      },
+      {
+        "name": "❤️ The Heart of the Hallways",
+        "keyword": "Teacher Appreciation"
+      },
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      }
+    ],
+    "tones": [
+      "Dry Snark",
+      "Relatable",
+      "Sarcastic"
+    ],
+    "age_groups": [
+      "All Ages"
+    ],
+    "url": "https://eduhaha.com/products/define-good-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Black-DefineGood-T-Shirt.webp?v=1756132592",
+    "alt_text": "Black Color T-shirt with \"Define Good?\" design featuring bold holiday sarcasm and witty educator humor.",
+    "price_variants": [
+      {
+        "size": "S-XL",
+        "price": "29.99",
+        "currency": "USD"
+      },
+      {
+        "size": "2XL",
+        "price": "30.99",
+        "currency": "USD"
+      },
+      {
+        "size": "3XL",
+        "price": "32.99",
+        "currency": "USD"
+      }
+    ],
+    "availability": "in stock",
+    "source_page_id": "2596fe75-4571-8153-b9f9-c922dbe1173f"
   }
 ]
