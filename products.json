@@ -1007,5 +1007,72 @@
     ],
     "availability": "in stock",
     "source_page_id": "25e6fe75-4571-817b-9882-e5b31e6e7d4b"
+  },
+  {
+    "title": "Younger Siblings Tee | Fun, Relatable Teacher Apparel | EDUHaHa",
+    "description": "Younger Siblings tee: laughter, learning, and identity—all in one shirt. Make empathy stylish. Warns teachers and builds…",
+    "tags": [
+      "Younger Siblings",
+      "SEL shirt",
+      "classroom icebreaker",
+      "teacher tee",
+      "sibling shirt",
+      "empathy apparel",
+      "admin favorite",
+      "student connection",
+      "eduhaha shirt",
+      "identity learning"
+    ],
+    "collections": [
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      },
+      {
+        "name": "🚌 Ready or Not… School’s Back!",
+        "keyword": "BTS"
+      },
+      {
+        "name": "✨ Honor Roll",
+        "keyword": "Teacher Picks"
+      },
+      {
+        "name": "☕ Pep Rally Mojo",
+        "keyword": "Motivation"
+      },
+      {
+        "name": "🤖 Promptly Hilarious",
+        "keyword": "AI meets LOL"
+      }
+    ],
+    "tones": [
+      "Relatable Chaos",
+      "Sarcastic"
+    ],
+    "age_groups": [
+      "Adult"
+    ],
+    "url": "https://eduhaha.com/products/younger-siblings-t-shirt",
+    "image": "https://drive.google.com/file/d/1Y9Rev5VObk-FftEAKSsCOl6qcIRT8B-D/view?usp=drive_link",
+    "alt_text": "Black T-shirt with “Younger Siblings” design featuring playful classroom tone and bold SEL-friendly message",
+    "price_variants": [
+      {
+        "size": "S-XL",
+        "price": "29.99",
+        "currency": "USD"
+      },
+      {
+        "size": "2XL",
+        "price": "30.99",
+        "currency": "USD"
+      },
+      {
+        "size": "3XL",
+        "price": "32.99",
+        "currency": "USD"
+      }
+    ],
+    "availability": "in stock",
+    "source_page_id": "2376fe75-4571-8035-b9c6-d07c6374bb62"
   }
 ]
