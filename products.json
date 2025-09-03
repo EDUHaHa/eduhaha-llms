@@ -452,7 +452,20 @@
       "teacher-approved apparel",
       "what part tee"
     ],
-    "collections": [],
+    "collections": [
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      },
+      {
+        "name": "✖️ = and wondered...\"Y\"?",
+        "keyword": "Math"
+      },
+      {
+        "name": "🤖 AI‑Approved Teacher Gifts",
+        "keyword": "AI"
+      }
+    ],
     "tones": [
       "Relatable Chaos"
     ],
