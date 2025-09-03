@@ -736,7 +736,7 @@
   },
   {
     "title": "Pretty Sharp T-Shirt | Music Class Just Got Funnier | EDUHaHa",
-    "description": "Music pun magic in this Pretty Sharp tee. Ideal for music educators who hit all the right notes with a sharp sense of humor.…",
+    "description": "Music pun magic in this Pretty Sharp tee. Ideal for music educators who hit all the right notes with a sharp sense of humor.",
     "tags": [
       "Admin Favorite Tee",
       "Classroom Vibes",
@@ -751,8 +751,12 @@
     ],
     "collections": [
       {
-        "name": "🖨️ Hot Off the Copy Machine",
-        "keyword": "New"
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      },
+      {
+        "name": "🎶 Treble Makers",
+        "keyword": "Music"
       }
     ],
     "tones": [
