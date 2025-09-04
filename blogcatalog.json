@@ -2,6 +2,31 @@
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "180 Days? Oh, You Mean the Next 9 Months of My Life",
+    "description": "A reality check on the marathon ahead—equal parts chaos, coffee, and connection.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/next-9-months"
+    },
+    "datePublished": "2025-07-22",
+    "dateModified": "2025-07-22",
+    "tags": [
+      "teacher life",
+      "school year",
+      "humor"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "2025 Back-to-School Tax-Free Weekend Guide – State-by-State Savings",
     "description": "Plan smarter: 2025 back-to-school tax-free weekends by state. Free calendar links, PDF download & savings tips for parents, teachers, and savvy shoppers.",
     "datePublished": "2025-07-08",
@@ -278,6 +303,58 @@
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "From the Classroom to the Gridiron: Why Football Season Is Basically Teacher Season",
+    "description": "A playful crossover: lesson plans as playbooks, hall duty as defense—plus a sideline-ready tee.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/classroom-gridiron"
+    },
+    "datePublished": "2025-08-12",
+    "dateModified": "2025-08-12",
+    "tags": [
+      "football season",
+      "teacher life",
+      "back to school 2025",
+      "humor"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Fun With Collections: How EDUHaHa Turned “Motivational” Into “Pep Rally Mojo”",
+    "description": "Behind the naming strategy that turns bland categories into shareable, memorable collections.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/fun-collection-names"
+    },
+    "datePublished": "2025-08-14",
+    "dateModified": "2025-08-14",
+    "tags": [
+      "branding",
+      "collections",
+      "site navigation",
+      "humor"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
     "description": "From hand-pressed mugs to AI-powered classroom apparel, here's how EDUHaHa became the humor-fueled print-on-demand brand for teachers.",
     "datePublished": "2025-05-01",
@@ -317,6 +394,32 @@
       "humor-based ecommerce",
       "print-on-demand origin"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "How Teachers Actually Survive September (Hint: Humor Helps)",
+    "description": "EDUHaHa makes “September Survival Mode” official with tactics and a press boost to help teachers laugh through the chaos.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-teachers-survive-september"
+    },
+    "datePublished": "2025-09-02",
+    "dateModified": "2025-09-02",
+    "tags": [
+      "September Survival",
+      "back to school 2025",
+      "teacher humor",
+      "ClassroomCare"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
   },
   {
     "@context": "https://schema.org",
@@ -361,6 +464,31 @@
       "classroom tips",
       "funny teacher shirts"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Teacher Self-Care That Isn’t Just Bubble Baths and Pinterest Quotes",
+    "description": "Boundaries, rest, and real strategies teachers can actually use—minus the fluff.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/teacher-self-care"
+    },
+    "datePublished": "2025-07-10",
+    "dateModified": "2025-07-10",
+    "tags": [
+      "teacher wellness",
+      "ClassroomCare",
+      "self care"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
   },
   {
     "@context": "https://schema.org",
@@ -464,6 +592,31 @@
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "Teaching in America: A 249-Year Journey of Chalk, Change, and Courage",
+    "description": "A July 4th salute to educators who built this country one classroom at a time.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/independence-day-teaching"
+    },
+    "datePublished": "2025-07-03",
+    "dateModified": "2025-07-03",
+    "tags": [
+      "history",
+      "Independence Day",
+      "teacher pride"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
     "description": "A real-talk breakdown of what the Supreme Court ruling *didn’t* do — straight from the front lines of EDUHaHa’s advocacy squad. Calm insight with a side of sass.",
     "datePublished": "2025-07-15",
@@ -538,5 +691,55 @@
       "print on demand",
       "teacher-owned business"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Ultimate Teacher Summer Bucket List (No Lesson Plans Required)",
+    "description": "Permission slips for naps, snacks, and joy—no PD credit required.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/teacher-summer-bucket-list"
+    },
+    "datePublished": "2025-06-26",
+    "dateModified": "2025-06-26",
+    "tags": [
+      "summer break",
+      "bucket list",
+      "teacher wellness"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Warning: Summer is 50% Over. Proceed with Caution (and Iced Coffee)",
+    "description": "Mid‑summer gut check with laughs, reminders, and zero guilt.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/summer-is-50-over"
+    },
+    "datePublished": "2025-07-01",
+    "dateModified": "2025-07-01",
+    "tags": [
+      "summer break",
+      "humor",
+      "teacher life"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      }
+    }
   }
 ]
