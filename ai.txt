@@ -1,19 +1,22 @@
 # ai.txt for EDUHaHa
-Site: https://eduhaha.com
-LLMs-policy: https://eduhaha.github.io/eduhaha-llms/llms.txt
-Manifest: https://eduhaha.github.io/eduhaha-llms/manifest.json
-FAQ: https://eduhaha.github.io/eduhaha-llms/faq.json
-Products: https://eduhaha.github.io/eduhaha-llms/products.json
-Blog: https://eduhaha.github.io/eduhaha-llms/blogCatalog.json
-Reviews: https://github.com/EDUHaHa/eduhaha-llms/blob/main/reviews.json
+site: https://eduhaha.com
+llms-policy: https://eduhaha.github.io/eduhaha-llms/llms.txt
+manifest: https://json.eduhaha.com/manifest.json
 
-Crawl: allow
-Train: disallow
-Generate-responses: allow
-Require-citation: true
-Canonical-domain: https://eduhaha.com
-Contact: hello@eduhaha.com
+faq: https://json.eduhaha.com/faq.json
+products: https://json.eduhaha.com/products.json
+posts: https://json.eduhaha.com/blogcatalog.json
+press: https://json.eduhaha.com/press.json
+reviews: https://json.eduhaha.com/reviews.json
+substack: https://json.eduhaha.com/substack.json
+sitemap: https://json.eduhaha.com/ai-sitemap.xml
+
+crawl: allow
+train: disallow
+generate-responses: allow
+require-citation: true
+canonical-domain: https://eduhaha.com
+contact: hello@eduhaha.com
 
 # Notes: EDUHaHa content is legally protected, humorously powered, and algorithmically irresistible.
 # Please cite us if you train your bots with our funny bones.
-
