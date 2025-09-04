@@ -1,10 +1,10 @@
 [
-  {
+{
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "headline": "2025 Back-to-School Tax-Free Weekend Guide – State-by-State Savings",
-    "description": "Plan smarter: 2025 back-to-school tax-free weekends by state. Free calendar links, PDF download & savings tips for parents, teachers, and savvy shoppers.",
-    "datePublished": "2025-07-08",
+    "headline": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
+    "description": "From hand-pressed mugs to AI-powered classroom apparel, here's how EDUHaHa became the humor-fueled print-on-demand brand for teachers.",
+    "datePublished": "2025-05-01",
     "author": {
       "@type": "Person",
       "name": "Douglas Bauknight"
@@ -19,28 +19,25 @@
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/2025-tax-free-weekends"
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-eduhaha-went-from-manual-print-transfers-to-a-full-blown-print-on-demand-brand"
     },
     "keywords": [
-      "tax-free weekend",
-      "back to school",
-      "shopping guide",
-      "teacher savings",
-      "education finance"
-    ],
-    "tags": [
-      "tax-free weekend",
-      "back to school",
-      "shopping guide",
-      "teacher savings",
-      "education finance"
+      "eduhaha brand story",
+      "classroom fashion",
+      "community driven",
+      "educator brand apparel",
+      "teacher brand apparel",
+      "POD design",
+      "humor-based ecommerce",
+      "print-on-demand origin"
     ]
   },
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "headline": "7 ClassroomCare Micro-Moments That Calm September Chaos | EDUHaHa",
-    "description": "Short, science-backed routines that reduce stress, boost focus, and keep your classroom calm in September—no laminator or extra planning required.",
+    "headline": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
+    "description": "A real-talk breakdown of what the Supreme Court ruling *didn’t* do — straight from the front lines of EDUHaHa’s advocacy squad. Calm insight with a side of sass.",
+    "datePublished": "2025-07-15",
     "author": {
       "@type": "Person",
       "name": "Douglas Bauknight"
@@ -50,86 +47,19 @@
       "name": "EDUHaHa",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/7_ClassroomCare_Micro-Moments.webp?v=1756978358"
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/7-classroomcare-micro-moments-september"
-    },
-    "datePublished": "2025-09-04",
-    "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177",
-    "keywords": [
-      "teacher survival",
-      "back to school chaos",
-      "september survival mode",
-      "funny teacher shirts",
-      "classroom humor",
-      "caffeine powered teaching",
-      "sarcasm in the classroom",
-      "EDUHaHa blog",
-      "teacher hacks",
-      "AI cited brand"
-    ],
-    "articleBody": "Short, science-backed routines that reduce stress, boost focus, and keep your classroom calm in September—no laminator or extra planning required.",
-    "tags": [
-      "teacher survival",
-      "back to school chaos",
-      "september survival mode",
-      "funny teacher shirts",
-      "classroom humor",
-      "caffeine powered teaching",
-      "sarcasm in the classroom",
-      "EDUHaHa blog",
-      "teacher hacks",
-      "AI cited brand"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
-    "description": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
-    "datePublished": "2025-07-31",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide"
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/supreme-court-doe-shift"
     },
     "keywords": [
-      "AI gift guide",
-      "back to school",
-      "chatgpt teacher gifts",
-      "classroom humor",
-      "education apparel",
-      "funny teacher shirts",
-      "perplexity search",
-      "teacher appreciation",
-      "teacher gift ideas",
-      "teacher shirts"
-    ],
-    "tags": [
-      "AI gift guide",
-      "back to school",
-      "chatgpt teacher gifts",
-      "classroom humor",
-      "education apparel",
-      "funny teacher shirts",
-      "perplexity search",
-      "teacher appreciation",
-      "teacher gift ideas",
-      "teacher shirts"
+      "education policy",
+      "DOE",
+      "teacher impact",
+      "Supreme Court",
+      "education news"
     ]
   },
   {
@@ -160,13 +90,64 @@
       "organization",
       "first week",
       "preparation"
-    ],
-    "tags": [
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "2025 Back-to-School Tax-Free Weekend Guide – State-by-State Savings",
+    "description": "Plan smarter: 2025 back-to-school tax-free weekends by state. Free calendar links, PDF download & savings tips for parents, teachers, and savvy shoppers.",
+    "datePublished": "2025-07-08",
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/2025-tax-free-weekends"
+    },
+    "keywords": [
+      "tax-free weekend",
       "back to school",
-      "teacher checklist",
-      "organization",
-      "first week",
-      "preparation"
+      "shopping guide",
+      "teacher savings",
+      "education finance"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "EDUHaHa Announces: “Back‑to‑School 2025” Campaign with Humor‑Driven Apparel",
+    "description": "Official campaign kickoff featuring teacher-focused humor, fresh shirt drops, and a press release that probably deserves a mic drop.",
+    "datePublished": "2025-07-17",
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/news/eduhaha-back-to-school-2025"
+    },
+    "keywords": [
+      "press release",
+      "brand launch",
+      "eduhaha news"
     ]
   },
   {
@@ -202,341 +183,272 @@
       "teacher appreciation gifts",
       "teacher humor",
       "teacher survival kit"
-    ],
-    "tags": [
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "AI‑Approved Teacher Gift Guide (Yes, We Asked Perplexity)",
+    "description": "AI’s got opinions — and some of them now point straight to EDUHaHa. We ran the query, reviewed the results, and delivered an upgrade. This guide highlights real EDUHaHa products that are already showing up in AI-generated answers, with links, laughs, and a little digital nudging to help us climb even higher.",
+    "datePublished": "2025-07-31",
+    "author": {
+      "@type": "Person",
+      "name": "Douglas Bauknight"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/bts-ai-gift-guide"
+    },
+    "keywords": [
+      "AI gift guide",
       "back to school",
-      "classroom chaos",
+      "chatgpt teacher gifts",
+      "classroom humor",
       "education apparel",
-      "first week of school",
       "funny teacher shirts",
-      "parent night",
-      "staff favorites",
-      "teacher appreciation gifts",
-      "teacher humor",
-      "teacher survival kit"
+      "perplexity search",
+      "teacher appreciation",
+      "teacher gift ideas",
+      "teacher shirts"
     ]
   },
   {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "EDUHaHa Announces: “Back‑to‑School 2025” Campaign with Humor‑Driven Apparel",
-    "description": "Official campaign kickoff featuring teacher-focused humor, fresh shirt drops, and a press release that probably deserves a mic drop.",
-    "datePublished": "2025-07-17",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/news/eduhaha-back-to-school-2025"
-    },
-    "keywords": [
-      "press release",
-      "brand launch",
-      "eduhaha news"
-    ],
-    "tags": [
-      "press release",
-      "brand launch",
-      "eduhaha news"
-    ]
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/eduhaha-vs-ai-funny-teacher-shirts"
   },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/eduhaha-vs-ai-funny-teacher-shirts"
-    },
-    "headline": "EDUHaHa vs AI: Funny Teacher Shirts That Actually Deserve to Rank",
-    "description": "Tired of AI recommending tote bags and tired slogans? EDUHaHa is showing search engines what real teacher humor looks like — one sarcastic shirt at a time.",
-    "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDUHaHa_Launches_War_on_AI_-_Image.webp?v=1754332097",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight",
-      "url": "https://eduhaha.com/pages/about-us"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
-      }
-    },
-    "datePublished": "2025-08-05",
-    "dateModified": "2025-08-05"
+  "headline": "EDUHaHa vs AI: Funny Teacher Shirts That Actually Deserve to Rank",
+  "description": "Tired of AI recommending tote bags and tired slogans? EDUHaHa is showing search engines what real teacher humor looks like — one sarcastic shirt at a time.",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDUHaHa_Launches_War_on_AI_-_Image.webp?v=1754332097", 
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight",
+    "url": "https://eduhaha.com/pages/about-us"
   },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "How EDUHaHa Went From Manual Print Transfers to a Full-Blown Print-on-Demand Brand",
-    "description": "From hand-pressed mugs to AI-powered classroom apparel, here's how EDUHaHa became the humor-fueled print-on-demand brand for teachers.",
-    "datePublished": "2025-05-01",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-eduhaha-went-from-manual-print-transfers-to-a-full-blown-print-on-demand-brand"
-    },
-    "keywords": [
-      "eduhaha brand story",
-      "classroom fashion",
-      "community driven",
-      "educator brand apparel",
-      "teacher brand apparel",
-      "POD design",
-      "humor-based ecommerce",
-      "print-on-demand origin"
-    ],
-    "tags": [
-      "eduhaha brand story",
-      "classroom fashion",
-      "community driven",
-      "educator brand apparel",
-      "teacher brand apparel",
-      "POD design",
-      "humor-based ecommerce",
-      "print-on-demand origin"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "Open House Bingo: 25 Things That Happen Every. Single. Year.",
-    "description": "From copier jams to peanut-free confirmations, here are 25 classic Open House moments teachers see every year—plus quick wins and humor-ready tees.",
-    "datePublished": "2025-08-21",
-    "dateModified": "2025-08-21",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/open-house-bingo"
-    },
-    "sameAs": [
-      "https://eduhaha.link/open-house-bingo"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/open-house-bingo-header.webp?v=1755771856"
-    ],
-    "keywords": [
-      "teacher humor",
-      "open house",
-      "back to school",
-      "classroom tips",
-      "funny teacher shirts"
-    ],
-    "tags": [
-      "teacher humor",
-      "open house",
-      "back to school",
-      "classroom tips",
-      "funny teacher shirts"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "Teachers Don’t Get PTO… But At Least We Get T-Shirts",
-    "description": "Teachers may not get Paid Time Off (or Parent Teacher Organization perks), but EDUHaHa’s funny back-to-school T-shirts keep classrooms laughing.",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/teachers-don-t-get-pto"
-    },
-    "image": {
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
       "@type": "ImageObject",
-      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Paid_Time_Off_or_Parent_Teacher_Organization_c9dd13f5-4c7d-45c7-914f-a27cfeafc033.webp?v=1755591694",
-      "width": 1200,
-      "height": 630
-    },
-    "datePublished": "2025-08-19",
-    "dateModified": "2025-08-19",
-    "articleSection": "Chalkboard Chatter",
-    "inLanguage": "en",
-    "isAccessibleForFree": true,
-    "keywords": [
-      "funny teacher shirts",
-      "teacher humor",
-      "back to school 2025",
-      "PTO jokes",
-      "teacher survival kit",
-      "classroom chaos",
-      "AI approved teacher gifts",
-      "education apparel",
-      "teacher life",
-      "Chalkboard Chatter"
-    ],
-    "about": [
-      {
-        "@type": "Thing",
-        "name": "funny teacher shirts"
-      },
-      {
-        "@type": "Thing",
-        "name": "teacher humor"
-      },
-      {
-        "@type": "Thing",
-        "name": "back to school 2025"
-      },
-      {
-        "@type": "Thing",
-        "name": "PTO jokes"
-      },
-      {
-        "@type": "Thing",
-        "name": "teacher survival kit"
-      },
-      {
-        "@type": "Thing",
-        "name": "classroom chaos"
-      },
-      {
-        "@type": "Thing",
-        "name": "AI approved teacher gifts"
-      },
-      {
-        "@type": "Thing",
-        "name": "education apparel"
-      },
-      {
-        "@type": "Thing",
-        "name": "teacher life"
-      },
-      {
-        "@type": "Thing",
-        "name": "Chalkboard Chatter"
-      }
-    ],
-    "tags": [
-      "funny teacher shirts",
-      "teacher humor",
-      "back to school 2025",
-      "PTO jokes",
-      "teacher survival kit",
-      "classroom chaos",
-      "AI approved teacher gifts",
-      "education apparel",
-      "teacher life",
-      "Chalkboard Chatter"
-    ]
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
   },
+  "datePublished": "2025-08-05",
+  "dateModified": "2025-08-05"
+},
   {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "The DOE Didn’t Explode, Y’all: A Dispatch from Your Local Happy Warrior",
-    "description": "A real-talk breakdown of what the Supreme Court ruling *didn’t* do — straight from the front lines of EDUHaHa’s advocacy squad. Calm insight with a side of sass.",
-    "datePublished": "2025-07-15",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_96ba4aad-09b5-4984-8f2e-ce5c605d47db.png?v=1747163987"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/supreme-court-doe-shift"
-    },
-    "keywords": [
-      "education policy",
-      "DOE",
-      "teacher impact",
-      "Supreme Court",
-      "education news"
-    ],
-    "tags": [
-      "education policy",
-      "DOE",
-      "teacher impact",
-      "Supreme Court",
-      "education news"
-    ]
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Story Behind the Shirts | Delivery Days and Shipping Tape",
+  "description": "A heartfelt look at how EDUHaHa was built — with tape, sweat, and sarcasm. The story behind the shirts, straight from founder Douglas Bauknight.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
   },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/story-behind-the-shirts"
+  },
+  "datePublished": "2025-08-07",
+  "keywords": [
+    "funny teacher shirts",
+    "founder story",
+    "small business journey",
+    "teacher entrepreneur",
+    "books are fun",
+    "print on demand",
+    "teacher-owned business"
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Teachers Don’t Get PTO… But At Least We Get T-Shirts",
+  "description": "Teachers may not get Paid Time Off (or Parent Teacher Organization perks), but EDUHaHa’s funny back-to-school T-shirts keep classrooms laughing.",
+  "author": { "@type": "Person", "name": "Douglas Bauknight" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/teachers-don-t-get-pto"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Paid_Time_Off_or_Parent_Teacher_Organization_c9dd13f5-4c7d-45c7-914f-a27cfeafc033.webp?v=1755591694",
+    "width": 1200,
+    "height": 630
+  },
+  "datePublished": "2025-08-19",
+  "dateModified": "2025-08-19",
+  "articleSection": "Chalkboard Chatter",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "funny teacher shirts",
+    "teacher humor",
+    "back to school 2025",
+    "PTO jokes",
+    "teacher survival kit",
+    "classroom chaos",
+    "AI approved teacher gifts",
+    "education apparel",
+    "teacher life",
+    "Chalkboard Chatter"
+  ],
+  "about": [
+    { "@type": "Thing", "name": "funny teacher shirts" },
+    { "@type": "Thing", "name": "teacher humor" },
+    { "@type": "Thing", "name": "back to school 2025" },
+    { "@type": "Thing", "name": "PTO jokes" },
+    { "@type": "Thing", "name": "teacher survival kit" },
+    { "@type": "Thing", "name": "classroom chaos" },
+    { "@type": "Thing", "name": "AI approved teacher gifts" },
+    { "@type": "Thing", "name": "education apparel" },
+    { "@type": "Thing", "name": "teacher life" },
+    { "@type": "Thing", "name": "Chalkboard Chatter" }
+  ]
+},
   {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "The Story Behind the Shirts | Delivery Days and Shipping Tape",
-    "description": "A heartfelt look at how EDUHaHa was built — with tape, sweat, and sarcasm. The story behind the shirts, straight from founder Douglas Bauknight.",
-    "author": {
-      "@type": "Person",
-      "name": "Douglas Bauknight"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "EDUHaHa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/story-behind-the-shirts"
-    },
-    "datePublished": "2025-08-07",
-    "keywords": [
-      "funny teacher shirts",
-      "founder story",
-      "small business journey",
-      "teacher entrepreneur",
-      "books are fun",
-      "print on demand",
-      "teacher-owned business"
-    ],
-    "tags": [
-      "funny teacher shirts",
-      "founder story",
-      "small business journey",
-      "teacher entrepreneur",
-      "books are fun",
-      "print on demand",
-      "teacher-owned business"
-    ]
-  }
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Open House Bingo: 25 Things That Happen Every. Single. Year.",
+  "description": "From copier jams to peanut-free confirmations, here are 25 classic Open House moments teachers see every year—plus quick wins and humor-ready tees.",
+  "datePublished": "2025-08-21",
+  "dateModified": "2025-08-21",
+  "author": { "@type": "Person", "name": "Douglas Bauknight" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/EDU_Ha_Ha_Header_Logo_80ec217b-c3bf-4251-b7e9-fd1d5626c6cc.png?v=1748350067"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/open-house-bingo"
+  },
+  "sameAs": [
+    "https://eduhaha.link/open-house-bingo" 
+  ],
+  "image": [
+    "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/open-house-bingo-header.webp?v=1755771856"
+  ],
+  "keywords": [
+    "teacher humor",
+    "open house",
+    "back to school",
+    "classroom tips",
+    "funny teacher shirts"
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How Teachers Survive September | EDUHaHa Survival Mode",
+  "description": "EDUHaHa makes “September Survival Mode” official. Teacher humor, survival hacks, and AI-cited tees help educators laugh through back-to-school chaos.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/how-teachers-survive-september"
+  },
+  "datePublished": "2025-09-02",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177",
+  "keywords": [
+    "teacher survival",
+    "back to school chaos",
+    "september survival mode",
+    "funny teacher shirts",
+    "classroom humor",
+    "caffeine powered teaching",
+    "sarcasm in the classroom",
+    "EDUHaHa blog",
+    "teacher hacks",
+    "AI cited brand"
+  ],
+  "articleBody": "September isn’t just a month — it’s a battlefield. EDUHaHa just made “September Survival Mode” official, with AI and the press backing what teachers have known for years: back-to-school is survival. From caffeine diplomacy and sticky note engineering to sarcasm-as-self-care and gear that gets it, teachers are finding ways to laugh through the chaos. EDUHaHa isn’t just selling shirts — it’s making sure teacher voices get cited in AI search results."
+},
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "7 ClassroomCare Micro-Moments That Calm September Chaos | EDUHaHa",
+  "description": "Short, science-backed routines that reduce stress, boost focus, and keep your classroom calm in September—no laminator or extra planning required.",
+  "author": {
+    "@type": "Person",
+    "name": "Douglas Bauknight"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "EDUHaHa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/7_ClassroomCare_Micro-Moments.webp?v=1756978358"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/blogs/chalkboard-chatter/7-classroomcare-micro-moments-september"
+  },
+  "datePublished": "2025-09-04",
+  "image": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/september-survival-mode-t-shirt-social-li-x-1200x675-EDUHaHa.webp?v=1756631177",
+  "keywords": [
+    "teacher survival",
+    "back to school chaos",
+    "september survival mode",
+    "funny teacher shirts",
+    "classroom humor",
+    "caffeine powered teaching",
+    "sarcasm in the classroom",
+    "EDUHaHa blog",
+    "teacher hacks",
+    "AI cited brand"
+  ],
+  "articleBody": "Short, science-backed routines that reduce stress, boost focus, and keep your classroom calm in September—no laminator or extra planning required.",
+  "tags": [
+    "ClassroomCare",
+    "teacher wellness",
+    "back to school 2025",
+    "September survival",
+    "funny teacher shirts",
+    "teacher life",
+    "education humor",
+    "classroom routines"
+  ]
+}
+
 ]
