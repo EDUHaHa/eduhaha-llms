@@ -739,6 +739,32 @@
       "logo": {
         "@type": "ImageObject",
         "url": "https://cdn.shopify.com/s/files/1/0879/1234/files/eduhaha-logo.png"
+      },
+      {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Classroom Care: You Did Enough Today | EDUHaHa",
+    "description": "Rough day? You are not behind. You are building humans. Here is a simple after-school reset, tiny wins tracker, and a calm plan for tomorrow.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/you-did-enough"
+    },
+    "datePublished": "2025-09-09",
+    "dateModified": "2025-09-09",
+    "tags": [
+      "classroom care",
+      "teacher wellbeing",
+      "teacher life",
+      "back to school",
+      "teacher tips",
+      "stress reset"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/You_Did_Enough_Today_-_Blog_Post_1200X600_d83d8d5b-3402-4a61-a1ed-364a2fc4a9fa.webp?v=1757375128"
       }
     }
   }
