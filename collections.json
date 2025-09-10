@@ -60,44 +60,82 @@
     ]
   },
   {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Once Upon a Time",
-    "url": "https://eduhaha.com/collections/reading-literacy",
-    "description": "EDUHaHa's reading and literacy collection for those who know the best stories offer both an escape and a smile.",
-    "mainEntity": {
-      "@type": "ItemList",
-      "name": "Reading & Literacy",
-      "itemListOrder": "https://schema.org/ItemListOrderDescending"
-    },
-    "keywords": [
-      "t shirts for reading teachers",
-      "literacy shirts",
-      "science of reading shirt",
-      "reading teacher shirts",
-      "literacy advocate apparel",
-      "funny reading shirt",
-      "book lover teacher tee",
-      "read across america shirt",
-      "library humor shirt",
-      "reading is my superpower shirt",
-      "teacher literacy gift",
-      "book club teacher shirt",
-      "reading week school spirit"
-    ],
-    "additionalProperty": [
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Once Upon a Time | Reading & Literacy Shirts",
+  "url": "https://eduhaha.com/collections/reading-literacy",
+  "inLanguage": "en",
+  "description": "EDUHaHa's reading and literacy shirts collection for teachers, book lovers, and literacy advocates—because every great story deserves a funny tee.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://eduhaha.com/collections/reading-literacy"
+  },
+  "about": [
+    { "@type": "Thing", "name": "literacy shirts" },
+    { "@type": "Thing", "name": "t shirts for reading teachers" },
+    { "@type": "Thing", "name": "science of reading shirt" }
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Reading & Literacy Collection",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending",
+    "numberOfItems": 19,
+    "itemListElement": [
       {
-        "@type": "PropertyValue",
-        "name": "seoTitle",
-        "value": "Once Upon a Time | Reading & Literacy Shirts | EDUHaHa"
+        "@type": "Product",
+        "name": "No Shelf Control T-Shirt",
+        "url": "https://eduhaha.com/products/no-shelf-control-t-shirt"
       },
       {
-        "@type": "PropertyValue",
-        "name": "seoDescription",
-        "value": "Reading and literacy shirts for book lovers and educators—because every good story deserves a great tee."
+        "@type": "Product",
+        "name": "I Don’t Know Y T-Shirt",
+        "url": "https://eduhaha.com/products/i-dont-know-y-t-shirt"
+      },
+      {
+        "@type": "Product",
+        "name": "I Like Big Books T-Shirt",
+        "url": "https://eduhaha.com/products/i-like-big-books-t-shirt"
+      },
+      {
+        "@type": "Product",
+        "name": "Book Worm T-Shirt",
+        "url": "https://eduhaha.com/products/book-worm-t-shirt"
+      },
+      {
+        "@type": "Product",
+        "name": "WILD About Reading T-Shirt",
+        "url": "https://eduhaha.com/products/wild-about-reading-t-shirt"
       }
     ]
   },
+  "keywords": [
+    "t shirts for reading teachers",
+    "literacy shirts",
+    "science of reading shirt",
+    "reading teacher shirts",
+    "funny reading shirt",
+    "book lover teacher tee",
+    "literacy advocate apparel",
+    "read across america shirt",
+    "library humor shirt",
+    "reading is my superpower shirt",
+    "teacher literacy gift",
+    "book club teacher shirt",
+    "reading week school spirit"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "seoTitle",
+      "value": "Once Upon a Time | Reading & Literacy Shirts | EDUHaHa"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "seoDescription",
+      "value": "Reading and literacy shirts for book lovers and educators—because every good story deserves a great tee."
+    }
+  ]
+},
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
