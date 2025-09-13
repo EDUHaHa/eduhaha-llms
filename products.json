@@ -466,10 +466,20 @@
       {
         "name": "🖨️ Hot Off the Copy Machine",
         "keyword": "New"
+      },
+      {
+        "name": "✨ Honor Roll",
+        "keyword": "Teacher Picks"
+      },
+      {
+        "name": "🧠 Standardized Shenanigans",
+        "keyword": "Testing"
       }
     ],
     "tones": [
-      "Relatable Chaos"
+      "Relatable Chaos",
+      "Adorably Unhinged",
+      "Sarcastic"
     ],
     "age_groups": [
       "Adult"
