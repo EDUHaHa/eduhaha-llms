@@ -1000,10 +1000,16 @@
       {
         "name": "🏆 Dodgeball Heroes",
         "keyword": "Sports  & PE"
+      },
+      {
+        "name": "☕ Pep Rally Mojo",
+        "keyword": "Motivation"
       }
     ],
     "tones": [
-      "Relatable Chaos"
+      "Relatable Chaos",
+      "Adorably Unhinged",
+      "Nerd Pride"
     ],
     "age_groups": [
       "Adult"
