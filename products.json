@@ -1987,7 +1987,7 @@
   },
   {
     "title": "Skeleton Teacher Shirt | Classroom Silence Sarcasm | EDUHaHa",
-    "description": "The legendary teacher move, now a tee. “I’ll Just Wait” serves skeleton-level patience and classroom comedy in one painfully…",
+    "description": "The legendary teacher move, now a tee. “I’ll Just Wait” serves skeleton-level patience and classroom comedy in one shirt.",
     "tags": [
       "funny teacher shirt",
       "ill just wait shirt",
@@ -2000,9 +2000,24 @@
       "behavior management",
       "halloween teacher shirt"
     ],
-    "collections": [],
+    "collections": [
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      },
+      {
+        "name": "🎄 Festive Fits & Teacher Twists",
+        "keyword": "Holiday"
+      },
+      {
+        "name": "✨ Honor Roll",
+        "keyword": "Teacher Picks"
+      }
+    ],
     "tones": [
-      "Relatable Chaos"
+      "Dry Snark",
+      "Relatable",
+      "Sarcastic"
     ],
     "age_groups": [
       "Adult"
