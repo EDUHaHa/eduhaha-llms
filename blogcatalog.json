@@ -728,6 +728,37 @@
       }
     }
   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Midweek Micro Wins: 5 Tiny Teacher Wins You Should Celebrate | EDUHaHa",
+    "description": "A midweek checkpoint and celebrate 5 tiny wins that actually keep classrooms running (and spirits up).",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/5-midweek-micro-wins"
+    },
+    "datePublished": "2025-09-16",
+    "dateModified": "2025-09-16",
+    "tags": [
+      "teacher wins",
+      "teacher self care",
+      "funny teacher shirts",
+      "midweek teacher motivation",
+      "classroom humor",
+      "teacher survival",
+      "teacher life blog",
+      "Chalkboard Chatter",
+      "EDUHaHa"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Midweek_Micro_Wins.webp?v=1758014441"
+      }
+    }
+  },
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
