@@ -1288,8 +1288,8 @@
         "keyword": "Teacher Picks"
       },
       {
-        "name": "🧠 Standardized Shenanigans",
-        "keyword": "Testing"
+        "name": "🏅 Most Likely to Succeed",
+        "keyword": "Best Sellers"
       }
     ],
     "tones": [
@@ -1321,6 +1321,13 @@
       }
     ],
     "availability": "in stock",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/HeatherRoyal-CopyMachineWhisperer-T-Shirt.webp?v=1757748032",
+        "alt": "Royal Heather T-shirt with \"Copy Machine Whisperer\" design featuring bold lettering and staff-room tech sarcasm.",
+        "license": "https://eduhaha.com/pages/license"
+      }
+    ],
     "source_page_id": "26c6fe75-4571-8170-bdae-fb53aa325635"
   },
   {
