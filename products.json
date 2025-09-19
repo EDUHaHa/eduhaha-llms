@@ -1685,6 +1685,10 @@
       {
         "name": "🤖 AI‑Approved Teacher Gifts",
         "keyword": "AI"
+      },
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
       }
     ],
     "tones": [
@@ -1716,6 +1720,13 @@
       }
     ],
     "availability": "in stock",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Sand-ShelfControl-T-Shirt.webp?v=1753834005",
+        "alt": "Sand Color T-shirt with \"No Shelf Control\" design featuring ransom-note font and stacked books for reading humor.",
+        "license": "https://eduhaha.com/pages/license"
+      }
+    ],
     "source_page_id": "26a6fe75-4571-81f0-bc02-e3dcaf2ab1b9"
   },
   {
