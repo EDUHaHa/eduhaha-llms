@@ -2132,8 +2132,12 @@
         "keyword": "Humor"
       },
       {
-        "name": "🤖 AI‑Approved Teacher Gifts",
-        "keyword": "AI"
+        "name": "🖨️ Hot Off the Copy Machine",
+        "keyword": "New"
+      },
+      {
+        "name": "✏️ Grade-A Deals (With 30% Off Extra Credit!)",
+        "keyword": "✏️ Grade-A Deals (With 30% Off Extra Credit!)"
       }
     ],
     "tones": [
@@ -2165,6 +2169,13 @@
       }
     ],
     "availability": "in stock",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Navy-_sic_Happens-T-Shirt.webp?v=1757070094",
+        "alt": "Navy Color T-shirt with \"[sic] Happens\" design featuring bold typewriter-style text, witty grammar humor, and dry editorial sarcasm.",
+        "license": "https://eduhaha.com/pages/license"
+      }
+    ],
     "source_page_id": "2656fe75-4571-818e-a5c3-ca148bd83ed5"
   },
   {
