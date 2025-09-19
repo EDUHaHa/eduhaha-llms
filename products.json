@@ -2195,6 +2195,10 @@
       {
         "name": "📖 Once Upon a Time",
         "keyword": "Reading & Lit"
+      },
+      {
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
       }
     ],
     "tones": [
@@ -2224,6 +2228,13 @@
       }
     ],
     "availability": "in stock",
+    "images": [
+      {
+        "url": "https://eduhaha.com/cdn/shop/files/DarkChocolate-IDon_tKnowY-T-Shirt.webp?v=1753834035&width=823",
+        "alt": "Dark Chocolate T-shirt with “I Don’t Know Y” design in distressed white font for dry pun lovers.",
+        "license": "https://eduhaha.com/pages/license"
+      }
+    ],
     "source_page_id": "26a6fe75-4571-81d2-a5e0-dff3e49c4760"
   },
   {
