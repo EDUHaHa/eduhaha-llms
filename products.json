@@ -5122,20 +5122,12 @@
     ],
     "collections": [
       {
-        "name": "🤡 Class Clowns",
-        "keyword": "Humor"
-      },
-      {
-        "name": "🚌 Ready or Not… School’s Back!",
-        "keyword": "BTS"
+        "name": "🖨️ Hot Off the Copy Machine",
+        "keyword": "New"
       },
       {
         "name": "✨ Honor Roll",
         "keyword": "Teacher Picks"
-      },
-      {
-        "name": "☕ Pep Rally Mojo",
-        "keyword": "Motivation"
       }
     ],
     "tones": [
@@ -5166,6 +5158,13 @@
       }
     ],
     "availability": "in stock",
+    "images": [
+      {
+        "url": "https://drive.google.com/file/d/1Y9Rev5VObk-FftEAKSsCOl6qcIRT8B-D/view?usp=drive_link",
+        "alt": "Black T-shirt with “Younger Siblings” design featuring playful classroom tone and bold SEL-friendly message",
+        "license": "https://eduhaha.com/pages/license"
+      }
+    ],
     "source_page_id": "2376fe75-4571-8035-b9c6-d07c6374bb62"
   }
 ]
