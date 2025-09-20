@@ -4807,7 +4807,7 @@
   },
   {
     "title": "Teacher Life Tee | Sarcastic Educator Humor | EDUHaHa",
-    "description": "Survive staff meetings and school-wide shenanigans with this funny “Crazy? We’ll Train You” shirt for educators. Embrace the…",
+    "description": "Survive staff meetings and school-wide shenanigans with this funny “Crazy? We’ll Train You” shirt for educators.",
     "tags": [
       "funny teacher shirt",
       "school staff humor",
@@ -4822,12 +4822,26 @@
     ],
     "collections": [
       {
-        "name": "🖨️ Hot Off the Copy Machine",
-        "keyword": "New"
+        "name": "🤡 Class Clowns",
+        "keyword": "Humor"
+      },
+      {
+        "name": "❤️ The Heart of the Hallways",
+        "keyword": "Teacher Appreciation"
+      },
+      {
+        "name": "🚌 Ready or Not… School’s Back!",
+        "keyword": "Back To School"
+      },
+      {
+        "name": "🤖 AI‑Approved Teacher Gifts",
+        "keyword": "AI"
       }
     ],
     "tones": [
-      "Relatable Chaos"
+      "Relatable Chaos",
+      "Sarcastic",
+      "Adorably Unhinged"
     ],
     "age_groups": [
       "Adult"
