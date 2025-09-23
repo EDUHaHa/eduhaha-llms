@@ -2,6 +2,38 @@
    {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "Hall Pass Humor: Things Students Say That Deserve an Award | EDUHaHa",
+    "description": "Students are natural comedians, and sometimes their one-liners deserve more than just a chuckle. These belong in the Hall Pass Awards.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/hall-pass-humor"
+    },
+    "datePublished": "2025-09-23",
+    "dateModified": "2025-09-23",
+    "tags": [
+    "funny teacher stories", 
+    "classroom humor", 
+    "student quotes", 
+    "teacher life", 
+    "teacher blog", 
+    "classroom culture", 
+    "teacher comedy", 
+    "Chalkboard Chatter", 
+    "Hall Pass Humor", 
+    "education humor"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Hall_Pass_Humor.webp?v=1758622669"
+      }
+    }
+  },
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "Classroom Tech Tools We Love: Low-Effort, High-Impact Hacks | EDUHaHa",
     "description": "Tired of tech that makes life harder? Here are 5 low-effort, high-impact teacher tools that actually save time, sanity, and classroom chaos.",
     "mainEntityOfPage": {
