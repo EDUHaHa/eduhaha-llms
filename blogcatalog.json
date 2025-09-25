@@ -2,6 +2,38 @@
    {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "Hall Pass Humor: Teacher Awards That Deserve a Trophy | EDUHaHa",
+    "description": "Teachers have their own hall pass superpowers—poker faces, lightning-fast signatures, and lie detector instincts. Discover the funniest “Hall Pass Humor Teacher Award",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/hall-pass-humor-teacher-edition"
+    },
+    "datePublished": "2025-09-25",
+    "dateModified": "2025-09-25",
+    "tags": [
+      "funny teacher stories", 
+      "teacher humor", 
+      "hall pass jokes", 
+      "classroom comedy", 
+      "teacher life blog", 
+      "Chalkboard Chatter", 
+      "teacher awards", 
+      "funny school moments", 
+      "education humor", 
+      "teacher appreciation"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Hall_Pass_Humor_-_Teacher_Awards.webp?v=1758794763"
+      }
+    }
+  }, 
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "Hall Pass Humor: Things Students Say That Deserve an Award | EDUHaHa",
     "description": "Students are natural comedians, and sometimes their one-liners deserve more than just a chuckle. These belong in the Hall Pass Awards.",
     "mainEntityOfPage": {
