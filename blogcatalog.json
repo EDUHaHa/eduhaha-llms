@@ -2,6 +2,67 @@
    {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "Neuroscience & Neuroeducation: Brain-Based Learning Tees | EDUHaHa",
+    "description": "Brain-based learning meets humor. EDUHaHa launches it's Neuroeducation Collection: funny neuroscience, neuroplasticity, dopamine, and synapse tees.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/neuroeducation-meets-humor"
+    },
+    "datePublished": "2025-10-02",
+    "dateModified": "2025-10-02",
+    "tags": [
+  "neuroscience shirts",
+  "neuroeducation apparel",
+  "funny teacher shirts",
+  "brain science t-shirts",
+  "neuroplasticity shirt",
+  "dopamine shirt",
+  "synapse shirt",
+  "STEM teacher gift",
+  "psychology teacher shirt",
+  "brain-based learning clothing"
+],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/neuroplasticity-in-progress-social-li-x-1200x675-EDUHaHa.webp?v=1759397853"
+      }
+    }
+  }, 
+    {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "On Task? Put a Book in Their Hand: Why Literacy Wins Every Time | EDUHaHa",
+    "description": "Some leaders think books are a distraction. Real educators know better. See why giving kids a book is the fastest way to keep them engaged and excited to learn.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/on-task"
+    },
+    "datePublished": "2025-0930",
+    "dateModified": "2025-09-30",
+    "tags": [
+  "book blast",
+  "books are fun",
+  "classroom focus",
+  "EDUHaHa Chalkboard Chatter",
+  "funny teacher blog",
+  "literacy matters",
+  "student engagement"
+],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Kids_reading_a_book_together_in_a_classroom.webp?v=1758903336"
+      }
+    }
+  },
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "Hall Pass Humor: Teacher Awards That Deserve a Trophy | EDUHaHa",
     "description": "Teachers have their own hall pass superpowers—poker faces, lightning-fast signatures, and lie detector instincts. Discover the funniest “Hall Pass Humor Teacher Award",
     "mainEntityOfPage": {
