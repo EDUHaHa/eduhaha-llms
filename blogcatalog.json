@@ -2,6 +2,38 @@
    {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "headline": "When Lesson Plans Fail: Humor for Surviving Classroom Chaos | EDUHaHa",
+    "description": "Perfect lesson plans don't survive Monday mornings. Projectors burn out, homework goes missing, and fire drills steal the spotlight. Laugh it off with EDUHaHa’s teacher humor shirts.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/lesson-plans"
+    },
+    "datePublished": "2025-10-07",
+    "dateModified": "2025-10-07",
+    "tags": [
+      "teacher humor", 
+      "classroom chaos", 
+      "funny teacher shirts", 
+      "lesson plan fails", 
+      "teacher survival mode", 
+      "Monday morning teacher", 
+      "education humor", 
+      "classroom mishaps", 
+      "EDUHaHa apparel", 
+      "teacher life"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/When_Lesson_Plans_Fail.webp?v=1759835039"
+      }
+    }
+  },
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
     "headline": "Neuroscience & Neuroeducation: Brain-Based Learning Tees | EDUHaHa",
     "description": "Brain-based learning meets humor. EDUHaHa launches it's Neuroeducation Collection: funny neuroscience, neuroplasticity, dopamine, and synapse tees.",
     "mainEntityOfPage": {
