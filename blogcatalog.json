@@ -1,4 +1,34 @@
 [
+     {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Grow Your Home Library Week | Celebrate Literacy & Reading | EDUHaHa",
+    "description": "October 12–18, 2025 is Grow Your Home Library Week — a national celebration of book ownership, literacy, and the joy of reading. Add a book, share a story, grow your world.",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://eduhaha.com/blogs/chalkboard-chatter/grow-your-home-library-week"
+    },
+    "datePublished": "2025-10-14",
+    "dateModified": "2025-10-07-14",
+    "tags": [
+      "grow your home library week", 
+      "literacy celebration", 
+      "reading week 2025", 
+      "book lovers", 
+      "teacher shirts", 
+      "funny teacher shirts", 
+      "classroom literacy", 
+      "eduhaha blog"
+  ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDUHaHa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.shopify.com/s/files/1/0650/8501/4208/files/Grow_Your_Own_Library_Week.webp?v=1760435371"
+    }
+    }
+  },
    {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
